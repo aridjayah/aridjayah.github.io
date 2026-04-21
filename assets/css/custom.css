@@ -3,28 +3,4 @@ Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
 
-body {
-
-}
-
-@media (max-width: 1200px){
-
-}
-
-@media (max-width: 992px){
-
-}
-
-@media (max-width: 768px){
-    .container{
-        width:100%;
-        max-width:100%;
-        padding:0 15px;
-    }
-}
-
-@media (max-width: 576px){
-    {
-        padding:0 10px;
-    }
-}
+body {}
