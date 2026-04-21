@@ -102,7 +102,7 @@ gtag('config', '{{site.ganalytics}}');
 ================================================== -->    
 <footer class="footer container text-center">  
 
-  <ul class="p-0 mb-1 small">
+  <ul class="p-0 mb-1">
     {% for item in site.data.menus.footermenu %}
     <li>
       <a href="{% unless item.external %}{{site.baseurl}}/{% endunless %}{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
