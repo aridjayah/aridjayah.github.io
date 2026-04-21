@@ -5,11 +5,9 @@ author: admin
 categories: [ business, make money ]
 image: assets/images/make-money/2.jpg
 ---
-Can You Make Money as a Fashion Designer?
+Do you have a love for fashion?  If that love includes designing your own clothes or fashion accessories, like handbags, have you ever thought about making a living as a fashion designer?  When it comes to being a fashion designer, many individuals feel that it is a dream of theirs that just isn't destined to become a reality. While this is sometimes the case, it doesn't always have to be.  With the right willpower and the need to succeed, you can easily make money as a fashion designer.
 
-Do you have a love for fashion?  If that love includes designing your own clothes or fashion accessories, like handbags, have you ever thought about making a living as a fashion designer?  When it comes to being a fashion designer, many individuals feel that it is a dream of theirs that just isn�t destined to become a reality. While this is sometimes the case, it doesn�t always have to be.  With the right willpower and the need to succeed, you can easily make money as a fashion designer.
-
-When it comes to making money as a fashion designer, many individuals believe that they can only be successful if they see their designs on the runways in New York or Paris.  While this would definitely help, you don�t have to be a famous, well-known fashion designer to make money as one.  Did you know that you can make money as a fashion designer making your own clothes right from your own living room or home office?  You can and if you would like to know more on how you can go about doing so, you will want to read on.
+When it comes to making money as a fashion designer, many individuals believe that they can only be successful if they see their designs on the runways in New York or Paris.  While this would definitely help, you don't have to be a famous, well-known fashion designer to make money as one.  Did you know that you can make money as a fashion designer making your own clothes right from your own living room or home office?  You can and if you would like to know more on how you can go about doing so, you will want to read on.
 
 As you likely already know, many fashion designers start out with simple drawings on paper.  Many have the dream of turning their drawings into real pieces of clothing or fashion accessories; therefore, many do so.  What is nice about making a living as a fashion designer is that you have a number of different options. For instance, if you were just starting out small, to see how your designs would sell, you can not only be the designer, but the maker as well.  If you would like to hire assistance, either right away or after your business took off, you could do as well.
 

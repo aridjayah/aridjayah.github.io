@@ -5,8 +5,6 @@ author: admin
 categories: [ business, make money ]
 image: assets/images/make-money/1.jpg
 ---
-Can You Make Money as a Fashion Consultant?
-
 Do you regularly find yourself reading up on the latest fashion trends? What about fashion advice, do you like to give it to those that you know? If you do, did you know that you may be able to make a living as a fashion consultant?  You can and if you would like more information on how you can go about doing so, you will want to continue reading on.
 
 Before you automatically decide that you would like to become a fashion consultant, you may want to take the time to examine exactly what one is and what one does.  In case you decide to further research making money as a fashion consultant, you may want to know that a fashion consultant is also commonly referred to as an image consultant and visa versa.  While different fashion consultants operate their businesses in different ways, many focus only on clothing and clothing accessories.  Those who are having a difficult time trying to pick out an outfit for a special event or a new job, often turn to a fashion consultant for professional advice.
