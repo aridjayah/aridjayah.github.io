@@ -4,11 +4,6 @@ title: Sitemap
 permalink: "/sitemap/"
 comments: false
 ---
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
 <title>Sitemap</title>
 <meta name="robots" content="index, follow">
 <style>
@@ -26,25 +21,6 @@ a {
     text-decoration: none;
 }
 </style>
-</head>
-<body>
-
-<h1>HTML Sitemap</h1>
-
-<h2>Pages</h2>
-<ul>
-{% for page in site.pages %}
-  {% if page.url != "/sitemap.html" %}
-  <li>
-    <a href="{{ page.url | relative_url }}">
-      {{ page.title | default: page.url }}
-    </a>
-  </li>
-  {% endif %}
-{% endfor %}
-</ul>
-
-<h2>Posts</h2>
 <ul>
 {% for post in site.posts %}
   <li>
@@ -54,6 +30,3 @@ a {
   </li>
 {% endfor %}
 </ul>
-
-</body>
-</html>
