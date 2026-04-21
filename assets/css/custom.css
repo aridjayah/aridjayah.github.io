@@ -31,6 +31,12 @@ body {
     padding: 5px 0;
 }
 
+/* Hilangkan garis pada item terakhir */
+
+.popular-item:last-child {
+    border-bottom: none;
+}
+
 .popular-item a{
     color: #494e58;
 }
