@@ -1,76 +1,35 @@
 <div class="popular-posts">
-  <div class="popular-list">
 
-    {% assign sorted_posts = site.posts %}
+<ul>
 
-    {% for post in sorted_posts limit:5 %}
+{% for post in site.posts limit:5 %}
 
-    <div class="popular-item">
+<li class="popular-item">
 
-      <a href="{{ post.url }}">
+<a href="{{ post.url | relative_url }}">
 
-        <img
-          src="{% if post.image %}{{ post.image }}{% else %}/images/no-image.jpg{% endif %}"
-          alt="{{ post.title }}"
-          loading="lazy"
-        >
+<img
+  src="{% if post.image %}
+        {{ post.image | prepend: '/' | relative_url }}
+       {% else %}
+        {{ '/assets/images/no-image.jpg' | relative_url }}
+       {% endif %}"
+  alt="{{ post.title }}"
+  width="80"
+  height="60">
 
-      </a>
+</a>
 
-      <div class="popular-content">
-
-        <a href="{{ post.url }}" class="popular-title">
-          {{ post.title }}
-        </a>
-
-        <div class="popular-date">
-          {{ post.date | date: "%d %b %Y" }}
-        </div>
-
-      </div>
-
-    </div>
-
-    {% endfor %}
-
-  </div>
+<div class="popular-title">
+<a href="{{ post.url | relative_url }}">
+{{ post.title }}
+</a>
 </div>
 
-<style>
+</li>
 
-.popular-posts {
-  margin-top: 20px;
-}
+{% endfor %}
 
-.popular-list {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-}
+</ul>
 
-.popular-item {
-  display: flex;
-  gap: 10px;
-  align-items: center;
-}
-
-.popular-item img {
-  width: 90px;
-  height: 65px;
-  object-fit: cover;
-  border-radius: 6px;
-}
-
-.popular-title {
-  font-size: 14px;
-  font-weight: 600;
-  text-decoration: none;
-  display: block;
-}
-
-.popular-date {
-  font-size: 12px;
-  color: #777;
-}
-
-</style>
+</div>
