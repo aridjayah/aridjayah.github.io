@@ -41,6 +41,10 @@ body {
     color: #494e58;
 }
 
+.popular-item a:hover{
+    color: #212529;
+}
+
 /* Judul menyesuaikan */
 
 .popular-title {
