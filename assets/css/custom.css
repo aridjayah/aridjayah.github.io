@@ -14,9 +14,9 @@ body {
 .popular-item img,
 .popular-thumb {
     width: 100px;
-    height: 100px;          /* tinggi sama dengan lebar */
+    height: 70px;          /* tinggi sama dengan lebar */
     object-fit: cover;      /* crop rapi */
-    border-radius: 6px;
+    border-radius: .25rem;
     display: block;
     flex-shrink: 0;
 }
