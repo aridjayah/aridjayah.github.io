@@ -43,7 +43,6 @@ document.addEventListener("DOMContentLoaded", function () {
   {% for post in site.posts %}
     posts.push({
       title: "{{ post.title }}",
-      url: "{{ post.url | relative_url }}",
       image: "{{ post.image }}",
       views: localStorage.getItem("views_{{ post.url }}") || 0
     });
