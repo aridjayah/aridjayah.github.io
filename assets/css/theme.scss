@@ -9,6 +9,7 @@ $blue: #3d61fd !default;
 
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 /* add additional CSS rules below */
 html {
@@ -19,7 +20,7 @@ body {
     background: #fff;
     font-size: 15px;
     transition: all 200ms linear;
-    font-family: "PT Sans", sans-serif;
+    font-family: "Roboto", sans-serif;
     line-height: 1.7;
     color: #333;
     overflow-x: hidden;
