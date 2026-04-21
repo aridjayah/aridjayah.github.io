@@ -3,26 +3,20 @@ Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
 
-body {
-    
-}
+body {}
 
 /* ===== Popular Posts Sidebar ===== */
-
-/* ===== Popular Posts Thumbnail Konsisten 100px ===== */
-
 .popular-item img,
 .popular-thumb {
     width: 100px;
-    height: 70px;          /* tinggi sama dengan lebar */
-    object-fit: cover;      /* crop rapi */
+    height: 60px;          
+    object-fit: cover;     
     border-radius: .25rem;
     display: block;
     flex-shrink: 0;
 }
 
 /* Pastikan container tidak mengecilkan gambar */
-
 .popular-item {
     display: flex;
     align-items: center;
@@ -32,7 +26,6 @@ body {
 }
 
 /* Hilangkan garis pada item terakhir */
-
 .popular-item:last-child {
     border-bottom: none;
 }
