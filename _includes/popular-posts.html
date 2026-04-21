@@ -1,7 +1,88 @@
 <div class="popular-posts">
-  <ul id="popular-posts-list"></ul>
+  <div id="popular-posts-list" class="popular-grid"></div>
 </div>
 
-<!-- JavaScript
-================================================== -->    
-<script src="{{ site.baseurl }}/assets/js/popular-post.js"></script>  
+<style>
+.popular-grid {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 12px;
+}
+
+.popular-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border-bottom: 1px solid #ddd;
+  padding: 8px 0;
+}
+
+.popular-item img {
+  width: 80px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.popular-title {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.popular-views {
+  font-size: 12px;
+  color: #777;
+}
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  var posts = [];
+
+  {% for post in site.posts %}
+    posts.push({
+      title: "{{ post.title }}",
+      url: "{{ post.url | relative_url }}",
+      image: "{{ post.image }}",
+      views: localStorage.getItem("views_{{ post.url }}") || 0
+    });
+  {% endfor %}
+
+  posts.sort(function(a, b) {
+    return b.views - a.views;
+  });
+
+  var topPosts = posts.slice(0, 5);
+
+  var container = document.getElementById("popular-posts-list");
+
+  topPosts.forEach(function(post) {
+
+    var div = document.createElement("div");
+    div.className = "popular-item";
+
+    div.innerHTML = `
+      <a href="${post.url}">
+        <img src="${post.image}" alt="${post.title}">
+      </a>
+
+      <div>
+        <div class="popular-title">
+          <a href="${post.url}">
+            ${post.title}
+          </a>
+        </div>
+
+        <div class="popular-views">
+          ${post.views} views
+        </div>
+      </div>
+    `;
+
+    container.appendChild(div);
+
+  });
+
+});
+</script>

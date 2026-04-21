@@ -1,38 +1,4 @@
 document.addEventListener("DOMContentLoaded", function () {
-
-  // Simpan data post
-  var posts = [];
-
-  {% for post in site.posts %}
-    posts.push({
-      title: "{{ post.title }}",
-      url: "{{ post.url | relative_url }}",
-      views: localStorage.getItem("views_{{ post.url }}") || 0
-    });
-  {% endfor %}
-
-  // Sort berdasarkan views
-  posts.sort(function(a, b) {
-    return b.views - a.views;
-  });
-
-  // Ambil 5 teratas
-  var topPosts = posts.slice(0, 5);
-
-  var list = document.getElementById("popular-posts-list");
-
-  topPosts.forEach(function(post) {
-    var li = document.createElement("li");
-    li.innerHTML =
-      '<a href="' + post.url + '">' +
-      post.title +
-      " (" + post.views + " views)</a>";
-    list.appendChild(li);
-  });
-
-});
-
-document.addEventListener("DOMContentLoaded", function () {
     var key = "views_{{ page.url }}";
     var views = localStorage.getItem(key);
     if (!views) {
