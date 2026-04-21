@@ -9,82 +9,35 @@ body {
 
 /* ===== Popular Posts Sidebar ===== */
 
-.popular-posts {
-    margin-top: 20px;
-}
-
-.popular-posts h4 {
-    font-size: 18px;
-    font-weight: 700;
-    margin-bottom: 15px;
-}
-
-.popular-posts ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.popular-item {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    margin-bottom: 14px;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 10px;
-}
-
-/* Thumbnail Image */
+/* ===== Popular Posts Thumbnail Konsisten 100px ===== */
 
 .popular-item img,
 .popular-thumb {
-    width: 80px;
-    height: 60px;
-    object-fit: cover;
+    width: 100px;
+    height: 100px;          /* tinggi sama dengan lebar */
+    object-fit: cover;      /* crop rapi */
     border-radius: 6px;
     display: block;
     flex-shrink: 0;
 }
 
-.popular-item img {
-    max-width: 100%;
-    height: auto;
-}
+/* Pastikan container tidak mengecilkan gambar */
 
-.sidebar .popular-item {
+.popular-item {
     display: flex;
-    align-items: flex-start;
+    align-items: center;
+    gap: 12px;
 }
 
-/* Title */
+/* Judul menyesuaikan */
 
 .popular-title {
     font-size: 14px;
     line-height: 1.4;
-    font-weight: 600;
 }
 
-.popular-title a {
-    text-decoration: none;
-    color: #222;
-}
+/* Fix jika ada style lain yang override */
 
-.popular-title a:hover {
-    text-decoration: underline;
-}
-
-/* Responsive */
-
-@media (max-width: 768px) {
-
-    .popular-item img,
-    .popular-thumb {
-        width: 70px;
-        height: 50px;
-    }
-
-    .popular-title {
-        font-size: 13px;
-    }
-
+.sidebar img {
+    max-width: none;
 }
