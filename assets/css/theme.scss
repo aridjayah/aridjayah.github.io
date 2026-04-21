@@ -750,6 +750,10 @@ img {
     height: auto;
 }
 
+.bottompagination {
+    margin: 30px auto;
+}
+
 .bottompagination span.navigation a {
     background: #fdd93d;
     color: #ffffff;
@@ -786,6 +790,7 @@ span.navigation {
     font-weight: 700;
     text-align: center;
     position: relative;
+    margin: 30px auto;
 }
 
 span.navigation:before {
