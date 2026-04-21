@@ -98,24 +98,6 @@ post_class: post-template
 
 
         
-<div class="related-posts">
-  <h3>Related Posts</h3>
-
-  <ul>
-    {% for post in site.posts limit:6 %}
-      {% if post.url != page.url %}
-        <li>
-          <a href="{{ post.url | relative_url }}">
-            {{ post.title }}
-          </a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-</div>
-
-
-
         <!-- Begin Comments
             ================================================== -->
         <section>
@@ -133,7 +115,6 @@ post_class: post-template
 
 
 
-
     <!-- Sidebar -->
     <div class="col-sm-4">
         {% include sidebar.html %}
@@ -146,29 +127,7 @@ post_class: post-template
 <!-- JavaScript
 ================================================== -->
 <script src="{{ site.baseurl }}/assets/js/popular-post.js"></script>
-<script>
-document.addEventListener("DOMContentLoaded", function () {
+<script src="{{ site.baseurl }}/assets/js/adcode.js"></script>
 
-  var adCode = `
-  <div class="ads-middle" style="margin:25px 0; text-align:center;">
-    
-IKLAN DISINI
-
-  </div>
-  `;
-
-  var postBody = document.querySelector(".article-post");
-
-  if (!postBody) return;
-
-  var paragraphs = postBody.getElementsByTagName("p");
-
-  if (paragraphs.length > 3) {
-    var middleIndex = Math.floor(paragraphs.length / 2);
-    paragraphs[middleIndex].insertAdjacentHTML("afterend", adCode);
-  }
-
-});
-</script>
 <!-- End Article
 ================================================== -->
