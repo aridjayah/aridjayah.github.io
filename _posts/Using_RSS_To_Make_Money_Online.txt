@@ -1,0 +1,40 @@
+Title: 
+Using RSS To Make Money Online
+
+Word Count:
+545
+
+Summary:
+You probably know that RSS stands for "Remote Site Syndication", but what does that really mean to you as a marketer and more importantly can you use RSS to make money online?
+
+
+Keywords:
+rss,remote site syndication,marketing,internet marketing
+
+
+Article Body:
+You probably know that RSS stands for "Remote Site Syndication", but what does that really mean to you as a marketer and more importantly can you use RSS to make money online?
+
+As you keep reading you will learn to understand the benefits of using this recent technology in your internet marketing efforts to increase traffic and profits. 
+
+Plainly put, RSS feeds are printed in XML, a unique mark up dialect much like html. That means that they have mechanisms included that detect structures in a file. The structures identify the content and how that content will be displayed inside that file. RSS is what makes big newscast websites feasible: RSS documents are used to generate a data feed which will send headlines, links or virtually any other portion of information to a channel viewer application, regularly called a news reader. 
+
+These readers are subscribed to certain RSS feeds and constantly check them, alerting the user when any new information has been added to the RSS feed. 
+So, how can you use this to your benefit in internet marketing?
+Here are the most common ways to integrate RSS feeds into your marketing plan:
+you can use RSS to replace any email marketing you are presently doing, use RSS feeds to increase traffic to your blog or web site or build your own RSS feed so your messages and information show up on thousands of websites, blogs and desktops via the internet. 
+
+While many marketing experts will agree that email marketing isn't over, with the advent of increasing spam complaints and filters coupled with the danger of viruses originating from an email, more and more people are wary of even opening your email.
+
+With RSS, your email won't ever get filtered and have a greater chance of actually being read vs. a normal email and your marketing outcome can only be better when people actually read your messages. You can even incorporate autoresponders in conjunction with RSS. 
+
+With RSS feeds on your web site or blog allows you to add dynamic theme related content to your web pages making your web site or blog very popular with the search engines. The constantly updated content is just what the search engines desire and helps increase your search engine ranking with more traffic driven to your page. 
+
+Possibly the best way to use RSS to help your online marketing goals is to establish your own RSS feed. This way your information will be available on any website that is using the RSS feed you are supplying that information to. 
+There's even automated software to submit your RSS feeds to the different directories that furnish the feeds to people using them as described above. 
+
+RSS is still a relatively unknown technique of increasing traffic to websites, but is becoming more accepted every day. As an internet marketer, this is a great opportunity to benefit by this this new technology before all the online gurus start taking advantage of RSS.
+
+There is a lot of information on the internet pertaining to RSS and how to use it as a tool in marketing. The basis of this writing is only the tip of the iceberg to get you aquanted with Remote Site Syndication, and yes you can make money with rss!
+
+
