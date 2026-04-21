@@ -28,6 +28,7 @@ body {
     align-items: center;
     gap: 12px;
     border-bottom: 1px solid #f6f6f6;
+    padding: 5px 0;
 }
 
 .popular-item a{
