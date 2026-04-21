@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Make Money as a Fashion Designer"
-author: admin
+author: emma
 categories: [ business, make money ]
 image: assets/images/make-money/2.jpg
 ---

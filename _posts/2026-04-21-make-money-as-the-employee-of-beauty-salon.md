@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Make Money as the Employee of Beauty Salon"
-author: admin
+author: violet
 categories: [ business, make money ]
 image: assets/images/make-money/3.jpg
 ---

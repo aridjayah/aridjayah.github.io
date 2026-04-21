@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Make Money as a Fashion Consultant"
-author: admin
+author: mia
 categories: [ business, make money ]
 image: assets/images/make-money/1.jpg
 ---
