@@ -801,6 +801,10 @@ span.navigation:before {
         display: inline-block;
         padding: 10px;
     }
+
+    ul li a:hover{
+        color: #f05f70;
+    }
 }
 
 .hover-opacity:hover {
