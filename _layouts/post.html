@@ -97,6 +97,86 @@ post_class: post-template
         {% endif %}
 
 
+<div class="related-posts">
+  <h3>Related Posts</h3>
+
+  <div class="related-grid">
+
+    {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" %}
+    {% assign count = 0 %}
+    {% assign found = false %}
+
+    <!-- PRIORITY: Match Tags -->
+
+    {% for post in related_posts %}
+      {% if post.tags and page.tags %}
+
+        {% assign match = false %}
+
+        {% for tag in post.tags %}
+          {% if page.tags contains tag %}
+            {% assign match = true %}
+          {% endif %}
+        {% endfor %}
+
+        {% if match %}
+
+          {% assign found = true %}
+
+          <div class="related-item">
+            <a href="{{ post.url | relative_url }}">
+
+              <img
+                src="{{ post.image | default: '/assets/images/no-image.jpg' | relative_url }}"
+                alt="{{ post.title }}"
+                loading="lazy">
+
+              <p>{{ post.title }}</p>
+
+            </a>
+          </div>
+
+          {% assign count = count | plus: 1 %}
+
+          {% if count >= 6 %}
+            {% break %}
+          {% endif %}
+
+        {% endif %}
+
+      {% endif %}
+    {% endfor %}
+
+    <!-- FALLBACK: Latest Posts -->
+
+    {% if found == false %}
+
+      {% assign count = 0 %}
+
+      {% for post in related_posts limit:6 %}
+
+        <div class="related-item">
+          <a href="{{ post.url | relative_url }}">
+
+            <img
+              src="{{ post.image | default: '/assets/images/no-image.jpg' | relative_url }}"
+              alt="{{ post.title }}"
+              loading="lazy">
+
+            <p>{{ post.title }}</p>
+
+          </a>
+        </div>
+
+      {% endfor %}
+
+    {% endif %}
+
+  </div>
+</div>
+
+
+
         
         <!-- Begin Comments
             ================================================== -->

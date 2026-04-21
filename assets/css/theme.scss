@@ -848,6 +848,10 @@ span.navigation:before {
   gap: 15px;
 }
 
+.related-item {
+  text-align: left;
+}
+
 .related-item img {
   width: 100%;
   height: 140px;
@@ -858,4 +862,5 @@ span.navigation:before {
 .related-item p {
   font-size: 14px;
   margin-top: 6px;
+  line-height: 1.4;
 }
