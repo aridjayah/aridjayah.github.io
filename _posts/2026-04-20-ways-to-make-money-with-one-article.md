@@ -1,27 +1,10 @@
 ---
 layout: post
-title:  ""
+title:  "5 Ways To Make Money With One Article"
 author: violet
 categories: [ business, make money ]
 image: assets/images/make-money/4.jpg
 ---
-Title: 
-5 Ways To Make Money With One Article
-
-Word Count:
-659
-
-Summary:
-Would you like to know a winning formula on how to make money on the Web from writing articles? Here's how I do it: I write an article, create 4-5 versions of it, and sell it for use by others in my same profession. In fact, just that one part of my business generates enough income to fully support myself comfortably. Just about anyone in any profession or business can copy this formula.
-
-I write articles for executive coaches and business consultants. They use different ve...
-
-
-Keywords:
-
-
-
-Article Body:
 Would you like to know a winning formula on how to make money on the Web from writing articles? Here's how I do it: I write an article, create 4-5 versions of it, and sell it for use by others in my same profession. In fact, just that one part of my business generates enough income to fully support myself comfortably. Just about anyone in any profession or business can copy this formula.
 
 I write articles for executive coaches and business consultants. They use different versions of my articles in their own newsletters, with their own names in the byline. When they purchase an article, they get reprint rights, but not exclusivity. But since they are in all parts of the country, and the world, they don't bump into others using the same article. They are also free to change the article.
@@ -45,5 +28,3 @@ Finally, you can use this same article, or another altered version of it on your
 Here's a bonus idea for making money from your articles: compile a group of articles about the same topic, format them into a PDF e-book, and sell it on your site.
 
 You probably have knowledge and expertise in your own field that others would pay for, in order to have quality content for their own newsletters. This method requires good writing skills, or you can hire a professional editor to help you. It also requires you master the art of marketing on the web in order to reach potential buyers of your articles. To market successfully, you can submit your articles to the many article directories on the Web, and quickly build traffic to your websites and blogs.
-
-

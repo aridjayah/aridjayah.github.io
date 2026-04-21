@@ -27,11 +27,11 @@ Let me explain ...
 
 If you happen to see in the market, there are a lot of salesletter generator software right now because there are a lot of innovative marketers.
 
-Another example of an innovator marketer -- A relatively new company call PayDotCom that provides similar service like Clickbank.com.
+Another example of an innovator marketer -- A relatively new company call PayDotCom that provides similar service like Clickbank.
 
-It was launched successfully following the creative company called Clickbank.com.
+It was launched successfully following the creative company called Clickbank.
 
-Clickbank.com was the first (That I know of) website that provides credit card processing service with built-in affiliate tracking program for internet marketers to use.
+Clickbank was the first (That I know of) website that provides credit card processing service with built-in affiliate tracking program for internet marketers to use.
 
 Now, there are more innovative marketers that have created affiliate tracking tool that can be integrated with other credit card processors like Paypal.com, 2checkout, authorize.net, etc.
 
@@ -41,19 +41,19 @@ That's a very narrow observation on how to be profitable and it'll normally fail
 
 Just by adding these 2 extra ingredients in it, you'll change the whole profit model:
 
-## Finding an angle
+### Finding an angle
 
-Finding an angle means how you can position yourself unique from the originator. Example, Clickbank.com was a success. But other affiliate tracking tools that did not have a built-in credit card processor were very successful as well by integrating with third party credit card company. Paydotcom is also another good example of this. They solve the core problem.
+Finding an angle means how you can position yourself unique from the originator. Example, Clickbank was a success. But other affiliate tracking tools that did not have a built-in credit card processor were very successful as well by integrating with third party credit card company. Paydotcom is also another good example of this. They solve the core problem.
 
-## Complimenting to the pioneer
+### Complimenting to the pioneer
 
-Create an info-product that can ride on the existing successful market. Let's take Clickbank.com as an example for discussion purpose. There are many new tools created to enhance the convenience of using Clickbank.
+Create an info-product that can ride on the existing successful market. Let's take Clickbank as an example for discussion purpose. There are many new tools created to enhance the convenience of using Clickbank.
 
 Examples are:
-+ Software to manage your Clickbank.com affiliates;
++ Software to manage your Clickbank affiliates;
 + Software to extract your Clickbank sales report into a Microsoft Excel file;
-+ Software to create Clickbank.com search engine Tool that is integrated with Clickbank ID;
-+ Video tutorials how to setup Clickbank.com account;
++ Software to create Clickbank search engine Tool that is integrated with Clickbank ID;
++ Video tutorials how to setup Clickbank account;
 + and many more.
 
 Observe what's happening on the internet. Then, decide whether becoming a creative or innovative marketer will give you more profit and yet can reduce your workload. Then, TAKE ACTION.
