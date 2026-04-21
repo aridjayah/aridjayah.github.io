@@ -75,9 +75,9 @@ authors:
   
 # Social
 social:
-  instagram: instagram/
-  facebook: facebook/
-  twitter: twitter/
+  instagram: 'instagram'
+  facebook: 'facebook'
+  twitter: 'twitter'
 
 # Plugins
 plugins: 
