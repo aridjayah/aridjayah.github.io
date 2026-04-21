@@ -3,7 +3,7 @@ layout: post
 title:  "8 Simple But Highly Effective Ways To Make Money In Your Blog"
 author: violet
 categories: [ business, make money, blog ]
-image: assets/images/make-money/4.jpg
+image: assets/images/make-money/26.jpg
 ---
 Blogging is just a must have for every internet marketer out there. You cannot rely just on the old techniques. You must wake up to the BUM of web 2.0 marketing. If know nothing about make money with your blog, then these 8 steps are for you
 

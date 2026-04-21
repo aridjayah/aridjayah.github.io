@@ -3,7 +3,7 @@ layout: post
 title:  "7 Top Ways To Make Money Online"
 author: violet
 categories: [ business, make money ]
-image: assets/images/make-money/4.jpg
+image: assets/images/make-money/14.jpg
 ---
 Why would anyone want to make money online? Well, firstly you can work from anywhere in the world that you can get an internet connection. Secondly, you can create an incredible income even if you only have a few hours a day. So if you want freedom, flexibility and want to make money, read on'
 So, how do you actually make money online?

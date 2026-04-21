@@ -3,7 +3,7 @@ layout: post
 title:  "5 Ways To Make Money Online From Anywhere"
 author: violet
 categories: [ business, money online, survey ]
-image: assets/images/make-money/4.jpg
+image: assets/images/make-money/9.jpg
 ---
 How great can it be to sit around at home, your favorite coffee shop, or even out in the middle of a park and be able to work?  This is something that is possible and with only an internet connection and a laptop can be done easily by anyone!  Some of the top 5 ways to make money online are so simple that they are often overlooked.
 

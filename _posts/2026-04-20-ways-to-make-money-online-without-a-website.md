@@ -3,7 +3,7 @@ layout: post
 title:  "5 Ways to Make Money Online Without a Website"
 author: violet
 categories: [ business, make money, home ideas ]
-image: assets/images/make-money/4.jpg
+image: assets/images/make-money/8.jpg
 ---
 On the Internet you can find numerous ways to make money online without a website. Below are types of online program that you can join without having any website.
 

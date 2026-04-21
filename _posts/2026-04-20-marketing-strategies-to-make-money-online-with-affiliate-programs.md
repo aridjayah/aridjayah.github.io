@@ -3,7 +3,7 @@ layout: post
 title:  "2 Marketing Strategies to Make Money Online with Affiliate Programs"
 author: violet
 categories: [ business, make money ]
-image: assets/images/make-money/5.jpg
+image: assets/images/make-money/20.jpg
 ---
 ## The first strategy to make money online is building a list.  
 

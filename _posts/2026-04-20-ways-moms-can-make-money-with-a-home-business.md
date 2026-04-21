@@ -3,7 +3,7 @@ layout: post
 title:  "5 Ways Moms Can Make Money With A Home Business"
 author: violet
 categories: [ business, make money, moms ]
-image: assets/images/make-money/4.jpg
+image: assets/images/make-money/13.jpg
 ---
 Does the idea of starting your own business from home sound appealing? Has finding the right one stumped you?  Do you often think that if you could make money at home you would be one very happy person? Then read on and see how easy it is to make money with a home business.
 

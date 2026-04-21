@@ -3,7 +3,7 @@ layout: post
 title:  "5 Considerations for the Home Worker to Make Money Online"
 author: violet
 categories: [ business, make money ]
-image: assets/images/make-money/9.jpg
+image: assets/images/make-money/23.jpg
 ---
 With a computer and high speed Internet access, the potential for the home worker to make money online is virtually limitless. When it comes to finding the right home based business opportunity, there are several things to consider. Here are the top five:
 

@@ -3,7 +3,7 @@ layout: post
 title:  "5 Easy Ways To Make Money On eBay"
 author: violet
 categories: [ business, make money ]
-image: assets/images/make-money/4.jpg
+image: assets/images/make-money/22.jpg
 ---
 As the editor of the UK Auctionline Newsletter I receive a great number of e-mails from subscribers. Frequently the question they ask is, Please tell me an easy way to make money on eBay.I suppose the answer to this question really revolves around how you define the term easy. 
 

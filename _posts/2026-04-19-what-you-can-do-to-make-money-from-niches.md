@@ -3,7 +3,7 @@ layout: post
 title:  "What You Can Do to Make Money from Niches"
 author: violet
 categories: [ business, make money ]
-image: assets/images/make-money/4.jpg
+image: assets/images/make-money/24.jpg
 ---
 One reason that so many people want to work from their homes is that there in no need for a large financial investment to begin an online business. One doesn't need to invest heavily in product development. Those who have expertise in almost anything can begin by simply writing an e-book and promoting it or obtaining a website and promoting products that are produced by others. Think of the people who promote products that are produced by others as the modern version of the old door-to-door salesman except instead of knocking on one door at a time they knock on the doors of millions of people at the same time by way of the Internet. 
 

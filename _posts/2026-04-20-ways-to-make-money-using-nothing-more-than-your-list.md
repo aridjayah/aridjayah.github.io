@@ -3,7 +3,7 @@ layout: post
 title:  "7 Ways To Make Money Using Nothing More Than Your List"
 author: violet
 categories: [ business, make money ]
-image: assets/images/make-money/4.jpg
+image: assets/images/make-money/6.jpg
 ---
 An opt-in list can be quite crucial to any site or internet based company. Even for a small venture such as a niche profit site an opt-in list can make a world of difference and also add some extra income for your pocket. Rarely would you see an e-commerce site, big or small, that is without an opt-in list.
 

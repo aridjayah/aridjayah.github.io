@@ -3,7 +3,7 @@ layout: post
 title:  "5 Sure-Fire Ways to Make Money Online"
 author: violet
 categories: [ business, make money ]
-image: assets/images/make-money/4.jpg
+image: assets/images/make-money/18.jpg
 ---
 There are many ways to make money online today, and thousands of people are earning a substantial income from the comfort of their own homes. How are they making money? With a successful Internet business, of course! 
 

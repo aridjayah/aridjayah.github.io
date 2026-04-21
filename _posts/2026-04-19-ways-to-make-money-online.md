@@ -3,7 +3,7 @@ layout: post
 title:  "10 ways to make money online"
 author: violet
 categories: [ business, make money, paid survey, freelance ]
-image: assets/images/make-money/4.jpg
+image: assets/images/make-money/25.jpg
 ---
 Making money on the Internet is no longer something reserved for a very small and elusive crowd. You can make money online today, with minimal financial investments, through 100% legitimate ways. Here is a look at the most successful 10 methods of making money online, as they appear categorized 
 
@@ -22,7 +22,7 @@ Working as a freelancer on the Internet is one of the most popular ways of makin
 
 ### Electronic commerce 
 
-Selling items on eBay is one of the hottest ways of making a lot of cash online. Not everyone is successful at it, of course, but those that are continue to increase their profits constantly. Auctions on eBay have a lot of potential � combine them with dropshipping and you can get a business that�s easy to run and very profitable at the same time.
+Selling items on eBay is one of the hottest ways of making a lot of cash online. Not everyone is successful at it, of course, but those that are continue to increase their profits constantly. Auctions on eBay have a lot of potential ' combine them with dropshipping and you can get a business that's easy to run and very profitable at the same time.
 
 ### Paid surfing and survey filling 
 
@@ -52,4 +52,4 @@ This is not a moneymaking opportunity, but a money saving one. Outsourcing is th
 
 ###	Free stuff online 
 
-You will not get rich while taking advantage of all the free stuff you can get online, but it is fun and rewarding. If you are a webmaster and you wish to create a very popular website, do your best to offer lots of things for free � downloads, software, ebooks, wallpapers and so on.
+You will not get rich while taking advantage of all the free stuff you can get online, but it is fun and rewarding. If you are a webmaster and you wish to create a very popular website, do your best to offer lots of things for free downloads, software, ebooks, wallpapers and so on.

@@ -3,7 +3,7 @@ layout: post
 title:  "2 Ways To Make Money Online"
 author: violet
 categories: [ business, make money ]
-image: assets/images/make-money/6.jpg
+image: assets/images/make-money/7.jpg
 ---
 There are 2 types of approaches you can choose when it comes to creating an info-product.
 

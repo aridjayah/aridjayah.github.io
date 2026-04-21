@@ -3,7 +3,7 @@ layout: post
 title:  "3 Real Ways To Make Money Online"
 author: violet
 categories: [ business, make money ]
-image: assets/images/make-money/7.jpg
+image: assets/images/make-money/19.jpg
 ---
 You've heard all the sales pitches for various books, CD-Roms, DVD's, and other materials that will supposedly turn you into a genius when it comes to making money online. Perhaps you've even invested in some of these items to find that they are full of useless information or only teach basic techniques that you already knew. What you'd like to know is how you can really make money online, without a huge investment or getting caught in a pyramid scam.
 

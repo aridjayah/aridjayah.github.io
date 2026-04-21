@@ -3,7 +3,7 @@ layout: post
 title:  "5 Surefire Ways For Teachers To Make Money This Summer"
 author: violet
 categories: [ business, make money ]
-image: assets/images/make-money/4.jpg
+image: assets/images/make-money/17.jpg
 ---
 For Teachers, the summer months, although a great vacation, can also be the perfect time to make some extra money and reduce debt.
 

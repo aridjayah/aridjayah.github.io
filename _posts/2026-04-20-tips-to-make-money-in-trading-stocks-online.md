@@ -3,7 +3,7 @@ layout: post
 title:  "5 Tips To Make Money In Trading Stocks Online"
 author: violet
 categories: [ business, make money, stocks, trading ]
-image: assets/images/make-money/4.jpg
+image: assets/images/make-money/16.jpg
 ---
 The discovery of internet has made the methods of doing businesses very easy and comfortable. It has also taken the market of stock to the heights as the large percentage of population has opted the method of trading stock online. 
 

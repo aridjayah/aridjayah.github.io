@@ -3,7 +3,7 @@ layout: post
 title:  "5 Tips To Make Money on Craigslist"
 author: violet
 categories: [ business, make money, craigslist ]
-image: assets/images/make-money/4.jpg
+image: assets/images/make-money/15.jpg
 ---
 Craigslist is one of the most visited sites on the internet today, with millions upon, millions of visitors a day. With this many visitors daily, it is very easy to get a nice chunk of traffic with your postings. I have put some tips together for you guys, apply these, and you WILL make money! 
 

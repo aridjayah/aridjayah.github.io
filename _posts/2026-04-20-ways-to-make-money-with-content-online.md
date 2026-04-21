@@ -3,7 +3,7 @@ layout: post
 title:  "7 Ways to Make Money With Content Online"
 author: violet
 categories: [ business, make money, writing ]
-image: assets/images/make-money/4.jpg
+image: assets/images/make-money/5.jpg
 ---
 Over the last 6-7 years that I've made my living online I've discovered, as a writer, that there are huge opportunities for writers online.
 

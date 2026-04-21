@@ -3,7 +3,7 @@ layout: post
 title:  "3 Ways To Make Money From Working At Home With Coastal Vacations And A Blog"
 author: violet
 categories: [ business, make money ]
-image: assets/images/make-money/8.jpg
+image: assets/images/make-money/11.jpg
 ---
 Three popular ideas today, and not particularly in this order, are: working from home, running a travel business and blogging on the Internet. It's no secret that as computers and the Internet grow in popularity, so do the numbers of people who leave their jobs daily round the world to work from home. And it's also no secret that the travel industry is among those industries earning big bucks, as referenced by Coastal Vacation and others in the trillions of dollars category earners. Plus it's no secret that blogging is a blockbuster idea, a new concept that took off at the end of the 1990's.  
 

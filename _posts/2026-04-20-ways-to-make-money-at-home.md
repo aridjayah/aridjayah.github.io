@@ -3,7 +3,7 @@ layout: post
 title:  "6 Ways To Make Money At Home"
 author: violet
 categories: [ business, make money ]
-image: assets/images/make-money/4.jpg
+image: assets/images/make-money/12.jpg
 ---
 If you are looking for ways to make money on the internet, you are one of thousands. As the internet continues to expand, so does the competition making it difficult to have success. However, despite the stiff competition, there are a number of ways you can make money at home. Here are 6 ways you can make money at home today.
 

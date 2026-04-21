@@ -3,7 +3,7 @@ layout: post
 title:  "5 Ways to Make Money on the Internet with Top Quality E-books"
 author: violet
 categories: [ business, make money, extra income ]
-image: assets/images/make-money/4.jpg
+image: assets/images/make-money/10.jpg
 ---
 With so many new online business opportunities available, it can be difficult to sift through the masses. Maybe you're low on start-up funds. Perhaps you have limited time to work on your business at the start due to your current employment away from home. Maybe you'd like an Internet business that's easy to operate and won't require a lot of stress. If any of these apply to your situation, then selling e-books might be right for you.
 
