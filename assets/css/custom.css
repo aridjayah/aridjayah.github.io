@@ -30,6 +30,10 @@ body {
     border-bottom: 1px solid #f6f6f6;
 }
 
+.popular-item a{
+    color: #494e58;
+}
+
 /* Judul menyesuaikan */
 
 .popular-title {
