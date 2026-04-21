@@ -674,6 +674,18 @@ ul.tags li a:hover {
     padding: 30px;
 }
 
+@media (max-width: 922px) {
+    .sidebar-section {
+        padding: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .sidebar-section {
+        padding: 15px;
+    }
+}
+
 .sidebar #mc_embed_signup form {
     padding: 0 !important;
 }
