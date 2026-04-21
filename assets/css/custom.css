@@ -3,9 +3,22 @@ Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
 
-body {}
+body {
 
-@media (max-width: 1200px){}
-@media (max-width: 992px){}
-@media (max-width: 768px){}
-@media (max-width: 576px){}
+}
+
+@media (max-width: 1200px) {
+
+}
+
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 576px) {
+    
+}
