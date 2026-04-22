@@ -6,6 +6,10 @@ Just customize your theme here.
 body {}
 
 /* Read More List */
+.readmore{
+
+}  
+
 .readmore-list {
     padding: 30px;
     background-color: #fafafa;

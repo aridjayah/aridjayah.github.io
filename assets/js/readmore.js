@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
 
-  var adSource = document.getElementById("ad-middle-source");
+  var adSource = document.getElementById("readmore");
   var postBody = document.querySelector(".article-post");
 
   if (!adSource) {
