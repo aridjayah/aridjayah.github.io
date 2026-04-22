@@ -21,7 +21,7 @@
 
   {% assign found = true %}
 
-  <div class="related-item">
+  <div class="related-item serif-font font-weight-bold text-capitalize">
     <a href="{{ post.url | relative_url }}">
 
       <img src="{{ post.image | default: '/assets/images/no-image.jpg' | relative_url }}"
@@ -51,7 +51,7 @@
 
   {% for post in related_posts limit:8 %}
 
-  <div class="related-item">
+  <div class="related-item serif-font font-weight-bold text-capitalize">
     <a href="{{ post.url | relative_url }}">
 
       <img src="{{ post.image | default: '/assets/images/no-image.jpg' | relative_url }}"

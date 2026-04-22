@@ -5,8 +5,43 @@ Just customize your theme here.
 
 body {}
 
+.related-posts h5,
+.share h5 {
+    margin-bottom: 1rem;
+    text-align: center;
+    position: relative;
+    font-weight: 700;
+}
+
+.related-posts h5 span,
+.share h5 span {
+    background-color: #fff;
+    position: relative;
+    z-index: 2;
+    display: inline-block;
+    padding: 0px 15px 0 15px;
+    text-align: center;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.related-posts h5:before,
+.share h5:before {
+    margin-bottom: 0;
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    top: 12px;
+    width: 100%;
+    height: 1px;
+    content: '';
+    background-color: #333333;
+}
+
+
 /* ===== Share Button ===== */
-#share {
+.share {
     margin: 25px 0;
 }
 
@@ -33,20 +68,74 @@ body {}
 
 /* Colors */
 
-.facebook { background: #1877F2; }
-.twitter { background: #000000; }
-.vk { background: #4C75A3; }
-.telegram { background: #229ED9; }
-.linkedin { background: #0A66C2; }
-.pinterest { background: #E60023; }
-.whatsapp { background: #25D366; }
+.facebook {
+    background: #1877F2;
+}
+
+.twitter {
+    background: #000000;
+}
+
+.vk {
+    background: #4C75A3;
+}
+
+.telegram {
+    background: #229ED9;
+}
+
+.linkedin {
+    background: #0A66C2;
+}
+
+.pinterest {
+    background: #E60023;
+}
+
+.whatsapp {
+    background: #25D366;
+}
+
+
+/*===== Related Posts =====*/
+.related-posts {
+    margin-top: 40px;
+}
+
+/* Related Grid */
+.related-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+}
+
+.related-item img {
+    width: 100%;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+.related-item p {
+    font-size: 14px;
+    margin-top: 8px;
+}
+
+/* Mobile */
+
+@media (max-width: 768px) {
+    .related-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
 
 /* ===== Popular Posts Sidebar ===== */
 .popular-item img,
 .popular-thumb {
     width: 100px;
-    height: 60px;          
-    object-fit: cover;     
+    height: 60px;
+    object-fit: cover;
     border-radius: .25rem;
     display: block;
     flex-shrink: 0;
@@ -66,11 +155,11 @@ body {}
     border-bottom: none;
 }
 
-.popular-item a{
+.popular-item a {
     color: #494e58;
 }
 
-.popular-item a:hover{
+.popular-item a:hover {
     color: #f05f70;
 }
 
@@ -105,7 +194,7 @@ body {}
 
 .ad-top {
     margin-top: 10px;
-    margin-bottom: 30px;    
+    margin-bottom: 30px;
 }
 
 /* ===================== */
