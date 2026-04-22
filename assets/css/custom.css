@@ -53,7 +53,7 @@ body {}
 }
 
 .share h4 {
-    border-bottom: 3px solid yellow;
+    border-bottom: 3px solid #ffe51f;
     display: inline-block;
 }
 
@@ -115,7 +115,7 @@ body {}
 }
 
 .related-posts h4 {
-    border-bottom: 3px solid yellow;
+    border-bottom: 3px solid #ffe51f;
     display: inline-block;
 }
 
@@ -148,7 +148,6 @@ body {}
         grid-template-columns: repeat(2, 1fr);
     }
 }
-
 
 /* ===== Popular Posts Sidebar ===== */
 .popular-item img,
