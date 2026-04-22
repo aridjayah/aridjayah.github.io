@@ -51,11 +51,10 @@ post_class: post-template
         <!--* Post Content *-->
         <div class="article-post serif-font">
             {{content}}
-            <div class="clearfix"></div>
         </div>
 
         <!--* Ad Middle *-->
-        <div id="ad-middle-source" class="ad ad-middle">
+        <div id="ad-middle-source" class="ad ad-middle" style="display:none;">
             {% include ad-middle.html %}
         </div>
 
@@ -139,8 +138,8 @@ post_class: post-template
 
 <!--* JavaScript
 ================================================== *-->
+<script src="{{ site.baseurl }}/assets/js/ad-middle.js"></script>
 <script src="{{ site.baseurl }}/assets/js/popular-post.js"></script>
-<script src="{{ site.baseurl }}/assets/js/adcode.js"></script>
 
 <!--* End Article
 ================================================== *-->
