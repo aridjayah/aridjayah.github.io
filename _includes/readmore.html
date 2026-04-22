@@ -1,6 +1,6 @@
 <div class="readmore-list">
 
-  <h3 class="readmore-title">Read More :</h3>
+  <h5 class="readmore-title">Read More :</h5>
 
   {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" %}
   {% assign count = 0 %}
