@@ -7,20 +7,19 @@ body {}
 
 /* Read More List */
 .readmore-list {
-    padding: 20px 0;
+    padding: 30px;
     background-color: #fafafa;
     border-radius: 5px;
+    text-align:left;
 }
 
 .readmore-title {
-    font-weight: 600;
-    margin-bottom: 12px;
+    margin-top: 0!important;
 }
 
 /* Item */
 .readmore-item {
-    padding: 8px 0;
-    border-bottom: 1px solid #ffffff;
+    padding: 5px 0;
 }
 
 .readmore-item a {
