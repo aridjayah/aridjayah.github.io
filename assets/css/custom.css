@@ -5,41 +5,6 @@ Just customize your theme here.
 
 body {}
 
-.related-posts h5,
-.share h5 {
-    margin-bottom: 1rem;
-    text-align: center;
-    position: relative;
-    font-weight: 700;
-}
-
-.related-posts h5 span,
-.share h5 span {
-    background-color: #fff;
-    position: relative;
-    z-index: 2;
-    display: inline-block;
-    padding: 0px 15px 0 15px;
-    text-align: center;
-    font-size: 16px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-}
-
-.related-posts h5:before,
-.share h5:before {
-    margin-bottom: 0;
-    position: absolute;
-    z-index: 1;
-    left: 0px;
-    top: 12px;
-    width: 100%;
-    height: 1px;
-    content: '';
-    background-color: #333333;
-}
-
-
 /* ===== Share Button ===== */
 .share {
     margin: 25px 0;
@@ -51,7 +16,7 @@ body {}
 
 .button-share a {
     display: inline-block;
-    width: 38px;
+    width: 10%;
     height: 38px;
     line-height: 38px;
     text-align: center;
@@ -117,7 +82,7 @@ body {}
 }
 
 .related-item p {
-    font-size: 14px;
+    font-size: 15px;
     margin-top: 8px;
 }
 
