@@ -1,3 +1,5 @@
+<h5><span>Related Posts</span></h5>
+
 <div class="related-grid">
 
   {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" %}
@@ -24,9 +26,8 @@
   <div class="related-item serif-font font-weight-bold text-capitalize">
     <a href="{{ post.url | relative_url }}">
 
-      <img src="{{ post.image | default: '/assets/images/no-image.jpg' | relative_url }}"
-           alt="{{ post.title }}"
-           loading="lazy">
+      <img src="{{ post.image | default: '/assets/images/no-image.jpg' | relative_url }}" alt="{{ post.title }}"
+        loading="lazy">
 
       <p>{{ post.title }}</p>
 
@@ -54,9 +55,8 @@
   <div class="related-item serif-font font-weight-bold text-capitalize">
     <a href="{{ post.url | relative_url }}">
 
-      <img src="{{ post.image | default: '/assets/images/no-image.jpg' | relative_url }}"
-           alt="{{ post.title }}"
-           loading="lazy">
+      <img src="{{ post.image | default: '/assets/images/no-image.jpg' | relative_url }}" alt="{{ post.title }}"
+        loading="lazy">
 
       <p>{{ post.title }}</p>
 
