@@ -52,9 +52,11 @@ body {}
     margin: 25px 0;
 }
 
-.share h4 {
+.share h5 {
     border-bottom: 3px solid #ffe51f;
     display: inline-block;
+    letter-spacing: 1px;
+    text-transform: uppercase;
 }
 
 .button-share {
@@ -114,9 +116,11 @@ body {}
     margin-top: 40px;
 }
 
-.related-posts h4 {
+.related-posts h5 {
     border-bottom: 3px solid #ffe51f;
     display: inline-block;
+    letter-spacing: 1px;
+    text-transform: uppercase;
 }
 
 /* Related Grid */
