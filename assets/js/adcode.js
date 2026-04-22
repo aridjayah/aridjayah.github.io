@@ -7,21 +7,24 @@ document.addEventListener("DOMContentLoaded", function () {
   var postBody = document.querySelector(".article-post");
   if (!postBody) return;
 
-  var paragraphs = postBody.getElementsByTagName("p");
+  var paragraphs = postBody.querySelectorAll("p");
 
-  if (paragraphs.length > 3) {
+  // Jika tidak ada paragraf, stop
+  if (paragraphs.length === 0) return;
 
-    var middleIndex = Math.floor(paragraphs.length / 2);
+  // Hitung posisi tengah
+  var middleIndex = Math.floor(paragraphs.length / 2);
 
-    var adClone = adSource.cloneNode(true);
-    adClone.style.display = "block";
-    adClone.id = "";
+  // Clone iklan
+  var adClone = adSource.cloneNode(true);
 
-    paragraphs[middleIndex].insertAdjacentElement(
-      "afterend",
-      adClone
-    );
+  adClone.style.display = "block";
+  adClone.removeAttribute("id");
 
-  }
+  // Tambahkan class tambahan (opsional)
+  adClone.classList.add("ad-middle-inserted");
+
+  // Masukkan setelah paragraf tengah
+  paragraphs[middleIndex].after(adClone);
 
 });
