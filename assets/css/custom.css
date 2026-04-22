@@ -52,6 +52,11 @@ body {}
     margin: 25px 0;
 }
 
+.share h4 {
+    border-bottom: 3px solid yellow;
+    display: inline-block;
+}
+
 .button-share {
     margin: 10px 0;
 }
@@ -107,6 +112,11 @@ body {}
 /*===== Related Posts =====*/
 .related-posts {
     margin-top: 40px;
+}
+
+.related-posts h4 {
+    border-bottom: 3px solid yellow;
+    display: inline-block;
 }
 
 /* Related Grid */
