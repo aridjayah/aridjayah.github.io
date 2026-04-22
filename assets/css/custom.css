@@ -5,6 +5,42 @@ Just customize your theme here.
 
 body {}
 
+/* ===== Share Button ===== */
+#share {
+    margin: 25px 0;
+}
+
+.button-share {
+    margin: 10px 0;
+}
+
+.button-share a {
+    display: inline-block;
+    width: 38px;
+    height: 38px;
+    line-height: 38px;
+    text-align: center;
+    margin-right: 6px;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 16px;
+    transition: 0.2s;
+}
+
+.button-share a:hover {
+    transform: translateY(-2px);
+}
+
+/* Colors */
+
+.facebook { background: #1877F2; }
+.twitter { background: #000000; }
+.vk { background: #4C75A3; }
+.telegram { background: #229ED9; }
+.linkedin { background: #0A66C2; }
+.pinterest { background: #E60023; }
+.whatsapp { background: #25D366; }
+
 /* ===== Popular Posts Sidebar ===== */
 .popular-item img,
 .popular-thumb {
@@ -56,6 +92,7 @@ body {}
     margin: 25px 0;
     text-align: center;
     clear: both;
+    overflow: hidden;
 }
 
 .ad ins {
@@ -68,7 +105,7 @@ body {}
 
 .ad-top {
     margin-top: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 30px;    
 }
 
 /* ===================== */

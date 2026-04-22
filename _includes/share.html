@@ -1,0 +1,60 @@
+<h2>SHARE THIS</h2>
+
+<div class="button-share">
+
+  <a class="facebook"
+     href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}"
+     rel="nofollow"
+     target="_blank"
+     title="Facebook">
+     <i class="fa fa-facebook"></i>
+  </a>
+
+  <a class="twitter"
+     href="https://twitter.com/share?url={{ page.url | absolute_url }}&text={{ page.title | url_encode }}"
+     rel="nofollow"
+     target="_blank"
+     title="Twitter">
+     <i class="fa fa-twitter"></i>
+  </a>
+
+  <a class="vk"
+     href="https://vk.com/share.php?url={{ page.url | absolute_url }}"
+     rel="nofollow"
+     target="_blank"
+     title="VK">
+     <i class="fa fa-vk"></i>
+  </a>
+
+  <a class="telegram"
+     href="https://t.me/share/url?url={{ page.url | absolute_url }}&text={{ page.title | url_encode }}"
+     rel="nofollow"
+     target="_blank"
+     title="Telegram">
+     <i class="fa fa-telegram"></i>
+  </a>
+
+  <a class="linkedin"
+     href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}&title={{ page.title | url_encode }}"
+     rel="nofollow"
+     target="_blank"
+     title="LinkedIn">
+     <i class="fa fa-linkedin"></i>
+  </a>
+
+  <a class="pinterest"
+     href="https://pinterest.com/pin/create/button/?url={{ page.url | absolute_url }}&media={{ page.image | absolute_url }}&description={{ page.title | url_encode }}"
+     rel="nofollow"
+     target="_blank"
+     title="Pinterest">
+     <i class="fa fa-pinterest-p"></i>
+  </a>
+
+  <a class="whatsapp"
+     href="https://api.whatsapp.com/send?text={{ page.title | url_encode }}%20{{ page.url | absolute_url }}"
+     target="_blank"
+     title="WhatsApp">
+     <i class="fa fa-whatsapp"></i>
+  </a>
+
+</div>
