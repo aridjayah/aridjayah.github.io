@@ -5,6 +5,44 @@ Just customize your theme here.
 
 body {}
 
+/* Read More List */
+
+.readmore-list {
+    margin: 30px 0;
+}
+
+.readmore-title {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+
+/* Item */
+
+.readmore-item {
+    padding: 8px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.readmore-item a {
+    text-decoration: none;
+    color: #333;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.readmore-item a:hover {
+    color: #007bff;
+}
+
+/* Optional bullet */
+
+.readmore-item::before {
+    content: "› ";
+    font-weight: bold;
+    margin-right: 4px;
+}
+
 /* ===== Share Button ===== */
 .share {
     margin: 25px 0;
