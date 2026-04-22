@@ -24,8 +24,9 @@
   <div class="related-item">
     <a href="{{ post.url | relative_url }}">
 
-      <img src="{{ post.image | default: '/assets/images/no-image.jpg' | relative_url }}" alt="{{ post.title }}"
-        loading="lazy">
+      <img src="{{ post.image | default: '/assets/images/no-image.jpg' | relative_url }}"
+           alt="{{ post.title }}"
+           loading="lazy">
 
       <p>{{ post.title }}</p>
 
@@ -34,12 +35,11 @@
 
   {% assign count = count | plus: 1 %}
 
-  {% if count >= 6 %}
+  {% if count >= 8 %}
   {% break %}
   {% endif %}
 
   {% endif %}
-
   {% endif %}
   {% endfor %}
 
@@ -49,13 +49,14 @@
 
   {% assign count = 0 %}
 
-  {% for post in related_posts limit:6 %}
+  {% for post in related_posts limit:8 %}
 
   <div class="related-item">
     <a href="{{ post.url | relative_url }}">
 
-      <img src="{{ post.image | default: '/assets/images/no-image.jpg' | relative_url }}" alt="{{ post.title }}"
-        loading="lazy">
+      <img src="{{ post.image | default: '/assets/images/no-image.jpg' | relative_url }}"
+           alt="{{ post.title }}"
+           loading="lazy">
 
       <p>{{ post.title }}</p>
 
