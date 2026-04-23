@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Amazing Options To Make Money Online"
+author: violet
+categories: [ business, make money ]
+image: assets/images/make-money/39.jpg
+---
+With technology so advanced and everything available with the click of your mouse, you can even make money online from your home, with little or no investment and with a basic working knowledge of the computer. 
+
+## Stock market online
+
+For those who are interested in keeping abreast of stocks and shares, this awareness could be utilized to make money online. Stocks and shares are escalating or deteriorating in prices on an almost daily basis, and is you keep up with the stock market news, you will have an idea of how things will be in the near future. Buying and selling according to the rise and fall in the prices could make you wealthy in a short while. Even payment for the shares that you have bought could be done online and you could transfer money to or from you bank for such payments. With this business acumen of stocks and shares you can make money online and that too a sizable amount. 
+
+There is a lot of information on the news channels and on the internet about the stock rates and all you have to do is to follow the trends of the stock market and do your buying and selling accordingly. If you want to make money online, stocks and shares is the most exciting way to do it. 
+
+## Conduct online classes and make money online
+
+Adult education is a very active part of the teaching line now. Many people have had to give up their education midway and would love to continue where they left off, but find it difficult because of time constraints. They now hold jobs, have families to support and maintain their homes. For such persons it would be a major boon if they could continue their education online. On the other side of the coin is the teaching online which would help them. If you are interested in the teaching line and if you have the necessary qualifications, you could help these persons by teaching them online. There are many educational institutes online that cater to online students. As a teacher you could register with them and conduct your classes online and make money online. 
+
+Here again, the student and the teacher can be at different ends of the globe and communicate on the net. If you want to have flexible work timings you could be a teacher online, classes will be conducted via the internet and both the student and the teacher benefit from this. The student gains knowledge and the teacher get job satisfaction and also could make money online. 
+
+## Set examination papers online for various institutes 
+
+An offshoot of the teaching line is setting examination question papers for universities and other institutes. Many institutes hire persons to write these question papers for them and pay them accordingly; this is one more way of make money online. There will be deadlines to maintain and dates to stick to, but the work is conducted online and you can make money online. 
+
+Like in teaching, the person who is setting the paper and institute asking for it can be in two completely different parts of the world. They come together for this purpose via the internet and payment and other issues are all handled online.

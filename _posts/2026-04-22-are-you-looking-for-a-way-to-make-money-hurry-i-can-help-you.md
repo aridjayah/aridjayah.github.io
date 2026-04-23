@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Are you looking for a way to make money?"
+author: violet
+categories: [ business, make money ]
+image: assets/images/make-money/41.jpg
+---
+Are you getting tired of spending $50.00 a week just going to and fromm your job? I know I would, but I don't need to do that any longer. I found the perfect job. I work when I want to work, and I don't have a boss telling me what to do and when to do it.
+
+I make money doing paid surveys. You don't need any experience and it doesn't take a lot of time, which gives me the time to do the things I want to do.
+
+I sometimes even get free products in the mail to try. You can take surveys online at your computer, in the mail, or over the phone, I do all three.
+
+Some of the advantages of doing surveys over having a job are time to do the special things you need to get done without having to ask a boss if you can get off work to do them. No fighting the traffic to and from work, not to mention the cost of the gas you spend. If you have children you don't need to pay for child care, just keep your child at home while you do your surveys. There are many more advantages, but I think you get the picture.
+
+There are many ways to make money online, affiliate marketing, selling your own product, and  member sites to name a few. Have you tried any of these, I have and failed at most of them. I doubt that over 5% of the people are making any money using those ways of making money on the internet and they can be time consuming and expensive in some cases.
+
+I use surveys while I am learning other ways to make money on the internet. I think this is the best way, because building a business in some of these other areas can take a while to get going. Is it easy, yes its easy, but you will need to work. I haven't found anything worth doing that didn't take some type of effort. There will be days you don't feel like doing anything, you will need to force yourself to get going on those days. You won't have anyone to make you do something, so if it needs to be done you will have to do your own self motivating. This is probably the hardest thing you will have trouble with being in business for yourself.
+
+If you are tired of a dead end job you owe it to yourself to at least look into this golden opportunity. More people are leaving the work place for work at home jobs, so get started now before everybody finds out how easy it is. Surveys just might be the perfect job for you.
