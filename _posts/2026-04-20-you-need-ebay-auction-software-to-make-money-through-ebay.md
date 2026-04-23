@@ -3,7 +3,7 @@ layout: post
 title:  "You Need Ebay Auction Software To Make Money Through Ebay"
 author: emma
 categories: [ business, make money ]
-image: assets/images/make-money/0.jpg
+image: assets/images/make-money/79.jpg
 ---
 There is not much that is needed for starting an eBay online auction business. Besides the right eBay auction software, you also need to have a computer, an internet access and of course, an eBay account. You also need to have a PayPal account as many buyers prefer making payments in credit cards. And if you have PayPal with you, you are sure to find an increased demand for the products on your eBay auction site.
 

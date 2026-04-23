@@ -2,8 +2,8 @@
 layout: post
 title:  "You Can Get Paid To Take Surveys - But Can You Really Make Money At It?"
 author: emma
-categories: [ business, make money, adsense ]
-image: assets/images/make-money/0.jpg
+categories: [ business, make money ]
+image: assets/images/make-money/84.jpg
 ---
 With all of the paid survey activity on the Internet, it is easy to get paid to take surveys. More than 700 survey makers offer paid online surveys in the U.S. alone. Almost all of these are looking for more survey participants. Internationally you can get paid to take surveys made by over 3,000 different survey makers.
 

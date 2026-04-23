@@ -3,7 +3,7 @@ layout: post
 title:  "You Can't Make Money On Ebay"
 author: emma
 categories: [ business, make money ]
-image: assets/images/make-money/0.jpg
+image: assets/images/make-money/80.jpg
 ---
 That's right, you can't make money on eBay until you learn the secrets of selling on eBay. When it comes to making money from home, one of the first places that people turn to is eBay.  The only problem is that to make money on eBay, you must be a successful seller.  There are a number of steps that you can take to become that successful eBay seller.
 

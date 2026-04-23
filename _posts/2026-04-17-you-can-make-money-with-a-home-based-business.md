@@ -3,7 +3,7 @@ layout: post
 title:  "You Can Make Money With A Home Based Business"
 author: emma
 categories: [ business, make money ]
-image: assets/images/make-money/0.jpg
+image: assets/images/make-money/82.jpg
 ---
 Would you like to make money by starting your own home-based business? People choose to work from home for several reasons including the desire to stay home with their children, the need for extra income, or simply being dissatisfied with their current job. A home-based business will provide you with an exciting way to make money and be your own boss. Numerous opportunities are available to internet marketers. 
 

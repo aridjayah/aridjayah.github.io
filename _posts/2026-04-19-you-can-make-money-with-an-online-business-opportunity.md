@@ -3,7 +3,7 @@ layout: post
 title:  "You Can Make Money With An Online Business Opportunity"
 author: emma
 categories: [ business, make money ]
-image: assets/images/make-money/0.jpg
+image: assets/images/make-money/81.jpg
 ---
 There are many times in life where you are going to want to make more money. Think about what you are doing now, and think about ways that you could make that just a little bit better for yourself. For instance, if you are able to, you might be just the right kind of person to find a great deal for a job that allows you to make lots of money, and that allows you to be the boss, as well. Many times they'll be a make money business opportunity that comes out of nowhere, and if you are to take it and if you can do well, you might just find that you are able to make more money than you have ever dreamed of making. 
 
