@@ -9,24 +9,21 @@ Follow these super simple 5 steps for making money online and get ahead of 95 pe
 
 ## An Amazing 5 Step Formula Shows You How to Make Money Online
 
-*Step 1*   Target a large group of people
+### Step 1 - Target a large group of people
 
 First you need to research your intended market. You need find a reasonably large number of targeted individuals who have money to spend and a problem that 
 
 needs solving. To make money online you need to offer a great product, or service, that solves a problem for them.
 
 You need to research:
-
-(a)	What are people searching for online?
-(b)	How many people are searching online for a solution to their particular problem?
++ What are people searching for online?
++ How many people are searching online for a solution to their particular problem?
 
 First though, what should you be marketing in your proposed new online business? 
 
-Ideally, you should market something that you have a keen interest in, this will keep you motivated. You can find out what people are searching for at Google here: https://adwords.google.com/select/KeywordToolExternal and at Wordtracker.com who currently offer a free trial at 
+Ideally, you should market something that you have a keen interest in, this will keep you motivated. 
 
-http://freekeywords.wordtracker.com
-
-*Step 2*   Locate a great product
+### Step 2 - Locate a great product
 
 Once you have researched your target market, it is time to quickly locate your products or services. If you have your own product great, if not then there are plenty of options to sell, or resell other peoples products.
 
@@ -34,18 +31,18 @@ There are thousands of products you can find quickly. However, marketing and sel
 
 your own but you want to get started fast, right?) 
 
-Next...locate your products
+Next... locate your products
                                             
 You can choose to promote physical products or digital online products. Digital products cover many different areas of interest and are incredibly profitable. There are no delivery costs with digital download products they are a good choice to promote as most offer good margins.
 
 Here are some prime resources for sourcing digital products:
-	1.	www.paydotcom.com 
-	2.	www.clickbank.com 
-	3.	www.cj.com 
+1. paydotcom
+2. clickbank 
+3. cj
 
 There are other resources but the above sites are a great place to start for all types of fast selling digital download products.
 
-*Step 3*   Market to your target audience
+### Step 3 - Market to your target audience
 
 Now you have researched your chosen market, and located great products you can sell, it's time to reach out and grab those targeted individuals. 
 
@@ -59,7 +56,7 @@ Articles. Yes' article marketing is THE most powerful way to attract ready made 
 
 The links contained within your published articles will point back to your website and they will lead targeted visitors to your product. Articles can also be a major factor in giving any well optimized site higher rankings in search result pages. 
 
-*Step 4*    Offer a very tempting low cost (or free) product
+### Step 4 - Offer a very tempting low cost (or free) product
 
 When someone visits your site you must offer a FREE or relatively low-cost product to 'hook' your potential buyer from the outset. The aim is to get the prospect to 'buy-in' to you, so that you can start to establish a business relationship. A getting to know you stage if you like. 
 
@@ -71,7 +68,7 @@ The only way you can make a long term profit, and make money online, is by build
 
 As long as the products or services you offer are good and deliver what they promise, you will be giving value for money. That's what we all want when we buy something. That is how all successful companies and individuals make a success out of their businesses.
 
-*Step 5*   Follow up and offer more expensive products
+### Step 5 - Follow up and offer more expensive products
 
 Repeat the process over and over again with successful products and services and drop the unsuccessful ones. These simple steps may seem really obvious but guess what, most marketers don't do it. 
 
