@@ -1,0 +1,44 @@
+---
+layout: post
+title:  ""
+author: emma
+categories: [ business, make money, adsense ]
+image: assets/images/make-money/0.jpg
+---
+What Is Bum Marketing: How To Make Money With A $5 Budget
+
+Word Count:
+565
+
+Summary:
+Bum marketing is so called because even a bum can make money using this method.  You need no outlay and can start with nothing.  Absolutely zilch! 
+
+I had absolutely zilch because I had maxed out 7 credit cards.  I used to laugh when I read about others doing that with just two, but I did it myself � in spades!  My only word to you would be very careful how you use PPC programs like Adwords because I wasn�t.  But that�s another story.
+
+I discovered bum marketing because i...
+
+
+Keywords:
+bum marketing, what is bum marketing, article services, article writing, article marketing, SEO
+
+
+Article Body:
+Bum marketing is so called because even a bum can make money using this method.  You need no outlay and can start with nothing.  Absolutely zilch! 
+
+I had absolutely zilch because I had maxed out 7 credit cards.  I used to laugh when I read about others doing that with just two, but I did it myself � in spades!  My only word to you would be very careful how you use PPC programs like Adwords because I wasn�t.  But that�s another story.
+
+I discovered bum marketing because if there is one thing I am good at, it is writing.  Bum marketing involves finding a profitable niche, or one that could be profitable.  It has to be something with a reasonable large following, and a reasonable number of topics attached to it.  Like fly fishing or quilting, or something similar.  Something that is followed by people you would expect to have money. You don�t want people flinching at paying $97 for a product related to their hobby or interest.
+
+You then have to find some decent keywords.  For bum marketing it doesn�t matter too much if there is competition for them, but not too general.  Not �quilting� but perhaps �hand quilting machines� or �deep throat quilters�.  Then get a website set up.  You can get a cheap functional site for under $5 a month and then set up a website.  A sales page for a product and a few pages with some content.  If you can get it, register a domain name that is the same as, or relates to, one of the keywords you have chosen.
+
+Write a few articles on the topic of your website, and use one for each of the web pages. Bum marketing is all about article writing.  You should have one web page for each keyword you are using relating to your website.  Find a few products to sell.  If you have your own then great, but if not sell affiliate products. 
+
+Then write a few more articles and submit them to article directories.  Each directory will allow you what is known as an �Author�s Resource Box� in which you can say a little about yourself and provide a URL for people to click on for more information.  The URL should lead to a page that relates to the topic of the article, and should ideally be a text link with the keyword or phrase that is the title of your web page.  The text link should be hyperlinked to the page; what is termed an �active� link�. 
+
+If the directory does not specifically provide a Resource Box, you can add that information after your article.  It has to be included and will go with your article whenever it is copied and used.  The article will not only bring you traffic, but also valuable links back to your web pages. 
+
+It is important that you continue to write and keep pumping out new articles.  I like to write two every week and send them off to the top 25 directories.  That�s all I have to do because most of the top 25 provide material to other directories, and before you know it your articles are all over the internet. That�s bum marketing.
+
+As I said, even a bum with no money can do it.  I know, because I was that bum at one time.  I am no longer!
+
+

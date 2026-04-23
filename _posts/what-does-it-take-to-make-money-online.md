@@ -1,0 +1,44 @@
+---
+layout: post
+title:  ""
+author: emma
+categories: [ business, make money, adsense ]
+image: assets/images/make-money/0.jpg
+---
+What Does It Take To Make Money Online?
+
+Word Count:
+478
+
+Summary:
+Do you harbor the dream of dreams? Working at home and making a decent living, not answering to anyone but yourself and fixing your own hours and dress code? Do you dream of a home based business opportunity that actually works, doesn't siphon off all your spare money but puts the bucks in your pocket?
+
+Is there really such a thing?
+
+The dream of making money on the Internet is not a simple fantasy. You can make it a reality if you're willing to follow some basic precepts...
+
+
+Keywords:
+
+
+
+Article Body:
+Do you harbor the dream of dreams? Working at home and making a decent living, not answering to anyone but yourself and fixing your own hours and dress code? Do you dream of a home based business opportunity that actually works, doesn't siphon off all your spare money but puts the bucks in your pocket?
+
+Is there really such a thing?
+
+The dream of making money on the Internet is not a simple fantasy. You can make it a reality if you're willing to follow some basic precepts. Here are a few principles to follow when contemplating starting up a home based online business. They're also useful checks for those who have been working online for a while and want to tweak an already established Internet business.
+
+You've seen all the hype. It seems that every other page on the web advertises secrets to making a fortune online. Some of those programs are definitely well conceived and well structured, and will produce return for your time, effort, energy and money in the form of an ongoing Internet business. Others are scams. When you're first starting out, how do you tell the difference?
+
+Read first, and then research before you act. After you've read a couple dozen of these websites through, you'll find yourself noticing patterns of hyperbole and noticeably pushy prose. Throw those out. 
+
+Choose a few programs you feel good about at that point. Then write individual e-mails to the people whose glowing testimonials are all over those sites. The ones who write back represent the ones that stand a chance.
+
+Commit to something you love. This recommendation contains two parts: First, the commitment part. That means that your new online home based business requires you to take care of it like a baby. Don't just buy a program and then expect it to bring in the dough. Commit in your mind first, and really be willing to spend time nurturing your online home business with your time, your heart, your mind and your soul. That's what winners are made of.
+
+The second part of the recommendation to "commit to something you love" has to do with loving what you do. It's simple. If you love the product or service you represent, if you love how you spend your time, then you stand a great chance of making a success of your home based business. If you don't love it, however, you're going to burn out way before you see the light at the end of the tunnel. That's what happens to 95% of all the small home based business entrepreneurs on the Internet� they burn out.
+
+Basically, you're looking to optimize your chances of online business success through your own diligence, commitment and love. These qualities are the ones that will put you over the top and make you feel great about your adventure in online marketing.
+
+

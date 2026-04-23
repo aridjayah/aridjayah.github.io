@@ -1,0 +1,108 @@
+---
+layout: post
+title:  "Ways for a Kid to Make Money"
+author: emma
+categories: [ business, make money, essay ]
+image: assets/images/make-money/67.jpg
+---
+One of the ways for a kid to make money. Can a kid make money by writing essays? Yes! After 2 years perhaps more than many adults are earning.
+
+ --------------
+Teen Handicaps
+ --------------
+* no experience of life
+* no money
+* need time for homework, sport and friends.
+
+---------------
+Teen Advantages
+---------------
+* It's not true that you've no experience.   You've a lot of school experience.
+
+* You have a lot more energy to bring to the task than many adults have.
+
+* You can get help. Your English teacher will be delighted to help you with writing essays. 
+
+* Parents can pay for ways for a kid to make money. Get their promise to get you started if you get top marks for ten essays. You'll soon write top essays with my free report.
+
+* Time for 2 essays/week
+
+---------------
+No Salesmanship
+---------------
+Your ways for a kid to make money must not need salesmanship. As a salesperson 
+you wouldn't be looking for ideas - you'd already be making money.
+
+--------------------
+You really can do it
+--------------------
+How do I know? A teenage girl is making 
+money with this idea just writing essays about her holidays. One of the ways for a kid to make money is here
+http://case-studies.sitesell.com/buildwebprofit.html#NORI. 
+Notice that her income is still growing. She didn't get rich immediately. 
+
+You don't need to know anything about making a web site. The package that Nori uses does all the technical stuff for you. So there's no excuse... you concentrate on ways for a kid to make money with essays.
+
+-----------------------------------
+Tier 1 of ways for a kid to make money
+-----------------------------------
+ 1. Find a demand. Choose a subject that interests you with lots of popular keywords (search terms). Free search here http://searchit.sitesell.com/buildwebprofit.html
+
+ 2. Check Overture for top bids on the most popular keywords. Best if there are lots of keywords with bids over $5
+
+ 3. Search Google. If there are 30 million sites competing for a keyword you aren't quite ready to compete.
+
+ 4. There is a better search tool that does steps 1 and 3 for you but it's not free.
+
+ 5. The package that Nori uses, has a search engine built in.
+
+Just one word of warning. If you're using Overture keyword tools and suddenly get a message saying that you're over using it - you've lost the use of a tool. Other keyword tools keep changing their IP number so Overture doesn't recognise them on their next visit.
+
+There isn't room here to cover all the ways that I use to discover what people want to read about.
+
+In all ways for a kid to make money the important idea is... avoid selling. You need to sell if there is no interest. If people are interested they'll swarm around you. 
+
+-------------------------------------------------
+You want people who are interested and have money.
+-------------------------------------------------
+That's why you check on the top bids. Forget a subject with 5 cent bids. Don't stop until you find a good subject. An unpopular subject will lose you money.
+
+-----------------------------
+Ways for a kid to make money?
+-----------------------------
+You are ready when
+ * hordes visit your site 
+ * you've written about 30 popular web pages.
+
+Submit your site to Google Adsense. Once they accept you they'll give you a code to put on your web pages. 
+
+Each time someone clicks on an Adsense advert on your page with a $5 bid, Google gets a share and you get a share. Do you see why I don't suggest bothering with 5cent bids?  You're getting money without selling anything at all.
+
+-----------------------------------
+Tier 2 of Ways for a Kid to Make Money
+-----------------------------------
+
+Now continue writing more web pages, but also write free articles like this one.
+
+Why...?  What's the point...?
+
+* See the links at the foot of this article for free goodies? When your article excites anybody they visit your website. Thousands of visitors means thousands of people seeing your Adsense ads, which means...more money.
+
+* You will build your reputation. Reputation is valuable for your future.
+
+* Archive your articles on cheap website offering a sub-domain
+
+* Modify and reuse on your web pages.
+
+----------
+Employment
+----------
+One day you may want a job if you haven't chosen a subject that thrills visitors. 
+
+Reputation: your potential employer may have read some of your articles. Otherwise suggest a Google search on a unique phrase in one of your articles. If she sees that 1256 websites have copied your article will she be impressed?
+
+Money: you can afford to wait for a better job if you're getting money from your website. 
+
+Experience: how many of your rivals have experience handling money, keeping accounts, filling in tax forms, making a website? Very few I think!
+
+

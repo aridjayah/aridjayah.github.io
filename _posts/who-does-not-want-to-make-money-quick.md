@@ -1,0 +1,34 @@
+---
+layout: post
+title:  ""
+author: emma
+categories: [ business, make money, adsense ]
+image: assets/images/make-money/0.jpg
+---
+Who Does Not Want To Make Money Quick?
+
+Word Count:
+427
+
+Summary:
+Everyone wants to make money quick. I�m not sure what happened, but in this age of high speed internet access and instant online everything, everyone is looking for a way to make money quick as well. And why not? Who wouldn�t want to make money fast anyway? So long as no one gets hurt, there�s nothing wrong with making a fast buck.
+
+Just make sure that when you�re looking for a way to make money quick you don�t become the target for someone else trying to make money quick. ...
+
+
+Keywords:
+make money quick,money scams, money online
+
+
+Article Body:
+Everyone wants to make money quick. I�m not sure what happened, but in this age of high speed internet access and instant online everything, everyone is looking for a way to make money quick as well. And why not? Who wouldn�t want to make money fast anyway? So long as no one gets hurt, there�s nothing wrong with making a fast buck.
+
+Just make sure that when you�re looking for a way to make money quick you don�t become the target for someone else trying to make money quick. The almost universal desire to make money fast has created a huge market to be easily exploited by anyone with a little creative savvy. I see so many make money quick schemes exploding across the internet, it kind of scares me a little. I have to wonder at their popularity; is that a sign of their desperation, or is it a measure of their success? Picturing thousands of people across the world giving out their credit card numbers and falling prey to these little gimmicks makes me kind of sad.
+
+Some of my favorite make money quick schemes pop up on the television at strange hours of the night. These are nothing short of hilarious. My favorite is that guy who�s selling �The Greatest Vitamin in the World�. That guy is the funniest guy I�ve ever seen, and represents everything you want to avoid when trying to make money quick.
+
+A good general rule to keep in mind when perusing through different �make money quick� ideas you see online or on TV; if it sounds too good to be true, it is. You can�t make money quick without knowing how to do something well, taking some risks, and yes, doing some work. Any make money quick offer you see that doesn�t require any work, skill, or risk on your part is more than likely a scam, and should be approached with a high degree of criticism.
+
+I�m not going to suggest any ways to make money quick, because if I knew any I�d be out there doing it right now instead of writing this. My idea of a way to make money quick is to go to medical school, so what the heck do I know about fast money. 11 years of education, training, and a lifetime of debt isn�t really a good way to make money quick, but then again 11 years is just a blink of an eye with respect to the age of the universe.
+
+

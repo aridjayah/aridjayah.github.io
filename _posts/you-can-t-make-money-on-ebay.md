@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "You Can't Make Money On Ebay"
+author: emma
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
+That's right, you can't make money on eBay until you learn the secrets of selling on eBay. When it comes to making money from home, one of the first places that people turn to is eBay.  The only problem is that to make money on eBay, you must be a successful seller.  There are a number of steps that you can take to become that successful eBay seller.
+
+If you have ever dreamed of having an internet business, ebay has to be one of the easiest ways of achieving your dream. There is a lot to be learned and you won't achieve success overnight. However, through hard work and determination you will make that dream come true to become a successful ebay seller.
+
+Okay, here's the thing about selling on eBay. It's true, you can very easily start your own home-based eBay business with very little money and nothing more than a garage full of things you no longer want. But wait... Just how much money are you going to make, based on the amount of time you have to invest to create your auctions and the cost to ship them. Is it going to be $5 a hour, $20 a hour or $50 a hour. 
+
+If all you want to do is to empty out the garage and or basement and make a couple of hundred dollars that's fine but if you want to develop an ongoing full or part time eBay business then you have better have a good understanding of what you are getting yourself into. Don't think you can drop ship your way to some six-figure income either. I'm not saying it can't be done but it won't happen by hooking up with some drop shipper and start selling the same items that a hundred other sellers are selling. 
+
+You need to learn what sells and for how much, how to find a niche where there is less competition, learn how to make money on the back end of your sales, how to stay in touch with your customers to keep them coming back every week without spamming them. 
+
+Make sure you take advantage of every tool ebay gives you. Do you know what one of the most valuable tools ebay gives you and how to use it? It's the About Me page. This is the only page on ebay that you can really call your own. This page can set you apart from your competition. Use it...
+
+One last thing. Remember you are in business to make money. It is very easy to sell something on ebay if you have the lowest price. But are you making a profit selling at the lowest price? Most ebay buyers are very smart and will pick you clean if you are giving your stuff away. They will end up with a great deal and you will end up with no money in your pocket.
