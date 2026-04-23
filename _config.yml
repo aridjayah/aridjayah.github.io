@@ -5,7 +5,7 @@ baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Admin
 paginate: 10
 disqus: 'aridjaya'
 locale: en_us
@@ -28,56 +28,56 @@ authors:
     name: Admin
     display_name: Admin
     avatar: 'assets/images/admin.jpg'
-    email: wowthemesnet@gmail.com
-    web: admin/
-    twitter: twitter/
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: https://tiny.cc/chatr00m
+    web: https://dub.sh/facebok
+    twitter: https://dub.sh/twiter
+    description: "Discover articles, insights, and helpful information shared by the author. Explore a collection of useful content designed to inform, educate, and inspire readers worldwide."
   emma:
     name: Emma
     display_name: Emma
     avatar: 'assets/images/emma.jpg'
-    email: wowthemesnet@gmail.com
-    web: emma/
-    twitter: twitter/
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+    email: https://tiny.cc/chatr00m
+    web: https://dub.sh/facebok
+    twitter: https://dub.sh/twiter
+    description: "Explore the author’s collection of articles covering various topics, offering simple explanations, useful tips, and reliable information for online readers."
   grace:
     name: Grace
     display_name: Grace
     avatar: 'assets/images/grace.jpg'
-    email: wowthemesnet@gmail.com
-    web: grace/
-    twitter: twitter/
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+    email: https://tiny.cc/chatr00m
+    web: https://dub.sh/facebok
+    twitter: https://dub.sh/twiter
+    description: "Stay connected with the author’s latest content, including informative posts and helpful resources that aim to provide value and inspiration to readers."
   john:
     name: John
     display_name: John
     avatar: 'assets/images/john.jpg'
-    email: wowthemesnet@gmail.com
-    web: john/
-    twitter: twitter/
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+    email: https://tiny.cc/chatr00m
+    web: https://dub.sh/facebok
+    twitter: https://dub.sh/twiter
+    description: "Find a wide range of articles and resources from the author, created to share knowledge, useful ideas, and practical information for everyday needs."
   mia:
     name: Mia
     display_name: Mia
     avatar: 'assets/images/mia.jpg'
-    email: wowthemesnet@gmail.com
-    web: mia/
-    twitter: twitter/
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+    email: https://tiny.cc/chatr00m
+    web: https://dub.sh/facebok
+    twitter: https://dub.sh/twiter
+    description: "Browse content written by the author, featuring insights, tips, and articles designed to deliver clear, helpful, and accessible information for everyone."
   violet:
     name: Violet
     display_name: Violet
     avatar: 'assets/images/violet.jpg'
-    email: wowthemesnet@gmail.com
-    web: violet/
-    twitter: twitter/
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: https://tiny.cc/chatr00m
+    web: https://dub.sh/facebok
+    twitter: https://dub.sh/twiter
+    description: "Explore the author's latest posts, ideas, and resources created to provide valuable knowledge and practical information for readers from different backgrounds."
   
 # Social
 social:
-  instagram: 'instagram'
-  facebook: 'facebook'
-  twitter: 'twitter'
+  instagram: 'https://dub.sh/instaggram'
+  facebook: 'https://dub.sh/facebok'
+  twitter: 'https://dub.sh/twiter'
 
 # Plugins
 plugins: 

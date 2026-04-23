@@ -19,7 +19,7 @@ post_class: post-template
         <a href="https://tiny.cc/smartlynk">
             {% if page.image %}
             <img class="featured-image img-fluid rounded" src="{{ page.image | prepend: '/' | relative_url }}"
-                alt="{{ page.title }}" loading="lazy">
+                alt="{{ page.title }}" title="{{ page.title }}" loading="lazy">
             {% endif %}
         </a>
         <!-- End Featured Image -->
