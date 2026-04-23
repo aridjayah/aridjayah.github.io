@@ -132,6 +132,7 @@ body {}
 .related-item img {
     width: 100%;
     object-fit: cover;
+    aspect-ratio: 16/9;
 }
 
 .related-item p {
