@@ -487,6 +487,11 @@ blockquote {
     border: 0;
 }
 
+.card-title a {
+    &:hover {color: #dc3545;
+    }
+}
+
 .card .img-thumb {
     border-top-right-radius: 4px;
     border-top-left-radius: 4px;
