@@ -3,7 +3,7 @@ layout: post
 title:  "Best Way to Make Money Online: What It Takes"
 author: violet
 categories: [ business, make money, advertising, google adwords ]
-image: assets/images/make-money/48jpg
+image: assets/images/make-money/48.jpg
 ---
 When you are thinking of ways to make money online, you likely want to know immediately what the best way to make money online is.  The truth is that the answer to that varies from person to person.  Everyone is different and what one person can make money on may not be easy for another person to make money on.  Therefore, it is important to assess what you know and what you have in order to figure out what the best way to make money online is.  Use these assessment tips to help you get started and on your way to making money online.
 
