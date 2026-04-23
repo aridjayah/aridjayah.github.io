@@ -12,4 +12,3 @@ At our core, we are committed to delivering quality content, user-friendly tools
 We value your presence and the trust you place in us. We are continually evolving, expanding our offerings, and enhancing your online experience. Thank you for being part of our community. Together, we embark on a journey of learning, discovery, and achievement.
 
 [Get it here](https://tiny.cc/smartlynk)
-
