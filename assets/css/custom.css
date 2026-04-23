@@ -197,6 +197,13 @@ body {}
     }
 }
 
+@media (max-width: 576px) {
+    .popular-item img,
+    .popular-thumb {
+        width: 100%;
+    }
+}
+
 /* Fix jika ada style lain yang override */
 .sidebar img {
     max-width: none;
