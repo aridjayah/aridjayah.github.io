@@ -155,3 +155,20 @@ post_class: post-template
 <script src="{{ site.baseurl }}/assets/js/readmore.js"></script>
 <script src="{{ site.baseurl }}/assets/js/popularpost.js"></script>
 <!-- End Article -->
+
+<!-- Index Now -->
+<script>
+if (location.hostname !== "localhost") {
+  fetch("https://api.indexnow.org/indexnow", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({
+      host: location.hostname,
+      key: "639671a75c2147f593d1fbee7b1162d1",
+      urlList: [location.href]
+    })
+  });
+}
+</script>

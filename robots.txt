@@ -1,0 +1,16 @@
+# robots.txt for aridjaya.com
+
+User-agent: *
+Allow: /
+
+# Block system files
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+
+# Allow search engines to crawl images, css, js
+Allow: /assets/
+Allow: /images/
+
+# Sitemap location
+Sitemap: https://www.aridjaya.com/sitemap.xml
