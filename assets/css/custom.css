@@ -6,20 +6,18 @@ Just customize your theme here.
 body {}
 
 /* Read More List */
-.readmore{
-
-}  
+.readmore {}
 
 .readmore-list {
     padding: 30px;
     background-color: #fafafa;
     border-radius: 5px;
-    text-align:left;
+    text-align: left;
 }
 
 .readmore-title {
-    margin-top: 0!important;
-    text-transform:uppercase;
+    margin-top: 0 !important;
+    text-transform: uppercase;
     letter-spacing: 1px;
 }
 
@@ -186,14 +184,20 @@ body {}
 }
 
 /* Judul menyesuaikan */
-
 .popular-title {
     font-size: 15px;
     line-height: 1.4;
 }
 
-/* Fix jika ada style lain yang override */
+/* Mobile */
+@media (max-width: 922px) {
+    .popular-item img,
+    .popular-thumb {
+        width: 80px;
+    }
+}
 
+/* Fix jika ada style lain yang override */
 .sidebar img {
     max-width: none;
 }
