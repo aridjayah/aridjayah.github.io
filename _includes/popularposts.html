@@ -1,35 +1,31 @@
 <div class="popular-posts">
 
-<ul>
+  <ul>
 
-{% for post in site.posts limit:5 %}
+    {% for post in site.posts limit:5 %}
 
-<li class="popular-item">
+    <li class="popular-item">
 
-<a href="{{ post.url | relative_url }}">
+      <a href="{{ post.url | relative_url }}">
 
-<img
-  src="{% if post.image %}
+        <img class="rounded" src="{% if post.image %}
         {{ post.image | prepend: '/' | relative_url }}
        {% else %}
         {{ '/assets/images/no-image.jpg' | relative_url }}
-       {% endif %}"
-  alt="{{ post.title }}"
-  width="80"
-  height="60">
+       {% endif %}" alt="{{ post.title }}">
 
-</a>
+      </a>
 
-<div class="popular-title">
-<a href="{{ post.url | relative_url }}">
-{{ post.title }}
-</a>
-</div>
+      <div class="popular-title">
+        <a href="{{ post.url | relative_url }}">
+          {{ post.title }}
+        </a>
+      </div>
 
-</li>
+    </li>
 
-{% endfor %}
+    {% endfor %}
 
-</ul>
+  </ul>
 
 </div>
