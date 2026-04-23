@@ -316,6 +316,10 @@ small,
     border-right: 1px solid #eee;
 }
 
+.author img {
+    text-align: center
+}
+
 .author-thumb {
     object-position: center;
     width: 50px;
@@ -538,6 +542,10 @@ ul.tags li a:hover {
     display: inline-block;
     box-shadow: none;
     font-weight: 400;
+
+    &:hover {
+        background-color: #f05f70;
+    }
 }
 
 .btn.subscribe {
