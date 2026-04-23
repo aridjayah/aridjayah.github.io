@@ -12,6 +12,7 @@ post_class: post-template
     <!-- Post -->
     {% assign author = site.authors[page.author] %}
 
+    
     <div class="col-sm-8">
         <!-- Post Featured Image 
 			{% if page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
@@ -23,6 +24,7 @@ post_class: post-template
             {% endif %}
         </a>
         <!-- End Featured Image -->
+
 
         <div class="mainheading">
             <!-- Post Categories -->
@@ -38,24 +40,29 @@ post_class: post-template
             </div>
             <!-- End Categories -->
 
+
             <!-- Post Title -->
             <h1 class="posttitle">{{ page.title }}</h1>
         </div>
+
 
         <!-- Ad Top -->
         <div class="ad adtop">
             {% include adtop.html %}
         </div>
 
+
         <!-- Post Content -->
         <div class="article-post serif-font">
             {{content}}
         </div>
 
+
         <!-- Read More -->
         <div id="readmore" class="readmore" style="display:none;">
             {% include readmore.html %}
         </div>
+
 
         <!-- Ad Bottom -->
         <div class="ad adbottom">
@@ -77,10 +84,12 @@ post_class: post-template
             </small>
         </p>
 
+
         <!-- Share -->
         <div class="share">
             {% include share.html %}
         </div>
+
 
         <!-- Prev/Next -->
         <div class="row PageNavigation mt-4 prevnextlinks d-flex justify-content-between">
@@ -97,24 +106,29 @@ post_class: post-template
         </div>
         <!-- End Prev/Next -->
 
+
         <!-- Author Box -->
         {% if page.author %}
         <div class="row post-top-meta">
             <div class="col-md-3 author text-center">
-                <img class="author-thumb" src="{{site.baseurl}}/{{author.avatar}}" alt="{{ author.display_name }}">
+                <a target="_blank" href="{{ author.web }}">
+                    <img class="author-thumb" src="{{site.baseurl}}/{{author.avatar}}" alt="{{ author.display_name }}">
+                </a>
             </div>
             <div class="col-md-9">
-                <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a
-                    target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+                <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a>
+                <a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
                 <span class="author-description">{{ author.description }}</span>
             </div>
         </div>
         {% endif %}
 
+
         <!-- Related Posts -->
         <div class="related-posts">
             {% include relatedposts.html %}
         </div>
+
 
         <!-- Begin Comments -->
         <section>
@@ -124,8 +138,10 @@ post_class: post-template
         </section>
         <!-- End Comments -->
 
+
     </div>
     <!-- End Post -->
+
 
     <!-- Sidebar  -->
     <div class="col-sm-4">
@@ -133,6 +149,7 @@ post_class: post-template
     </div>
 
 </div>
+
 
 <!-- JavaScript -->
 <script src="{{ site.baseurl }}/assets/js/readmore.js"></script>
