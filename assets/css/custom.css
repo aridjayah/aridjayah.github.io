@@ -189,20 +189,6 @@ body {}
     line-height: 1.4;
 }
 
-/* Mobile */
-@media (max-width: 922px) {
-    .popular-item img,
-    .popular-thumb {
-        width: 80px;
-    }
-}
-
-@media (max-width: 576px) {
-    .popular-item img,
-    .popular-thumb {
-        width: 100%;
-    }
-}
 
 /* Fix jika ada style lain yang override */
 .sidebar img {
