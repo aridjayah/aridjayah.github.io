@@ -322,12 +322,9 @@ small,
 
 .author-thumb {
     object-position: center;
-    width: 50px;
-    height: 50px;
-    margin-right: 9px;
     border-radius: 100%;
     border: 2px solid #eaeaea;
-    padding: 2px;
+    padding: 3px;
     object-fit: cover;
 }
 
@@ -403,6 +400,8 @@ span.post-read-more a:hover {
 
         .author-thumb {
             margin: 15px auto;
+            width: 50px;
+            height: 50px;
         }
     }
 }
