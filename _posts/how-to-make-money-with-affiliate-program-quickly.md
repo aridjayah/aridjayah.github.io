@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How To Make Money With Affiliate Program Quickly
 
 Word Count:
@@ -25,7 +31,7 @@ As an affiliate marketer, we have to find a market before we can promote certain
 
 Step #2: Build up Your Content Rich Website
 
-In fact, you probably need only a simple site with a landing page for each affiliate product or your product you want to promote. Let’s talk about the simple site structure most people can be very successful with. But first, a word about domains and hosting. You need a domain which targets the keyword you want to dominate in your niche. It’s that simple. And don’t include dashes in the name—that used to help you with search engines, but probably doesn’t anymore, and it’s harder to type.
+In fact, you probably need only a simple site with a landing page for each affiliate product or your product you want to promote. Letï¿½s talk about the simple site structure most people can be very successful with. But first, a word about domains and hosting. You need a domain which targets the keyword you want to dominate in your niche. Itï¿½s that simple. And donï¿½t include dashes in the nameï¿½that used to help you with search engines, but probably doesnï¿½t anymore, and itï¿½s harder to type.
 
 Step #3: Use Multiple Traffic Generation Strategies
 

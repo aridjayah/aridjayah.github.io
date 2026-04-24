@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money with No Stop Currency Trading
 
 Word Count:
@@ -13,7 +19,7 @@ no stop forex, no stop forex trading, forex trading, hedged grid
 
 
 Article Body:
-Hedged, No Stop, Forex Grid system trading (“the No Stop system”) is one of the most misunderstood techniques in forex trading.  I am going to describe the No Stop system as best I can in the limited space available. There is a series of 7 other articles describing the elements below in greater detail.
+Hedged, No Stop, Forex Grid system trading (ï¿½the No Stop systemï¿½) is one of the most misunderstood techniques in forex trading.  I am going to describe the No Stop system as best I can in the limited space available. There is a series of 7 other articles describing the elements below in greater detail.
 
 There are many hedged systems around and the No Stop system below is one that is being traded profitably.
 The No Stop system is an investment technique which creates favourable dollar cost averaging on all transactions entered into.  For this reason the technique is too much of a paradigm shift for most conventional traders who like charts, support and resistance and indicators.  
@@ -25,7 +31,7 @@ Transactions can or should be slow at a rate of about 3 to 4 a week. As price le
 
 The No Stop system is always in a sell and a buy at the same time and therefore can cash in on any move the market makes. Being in a sell and a buy at the same time also created a hedge.  Predetermined cash in levels create a grid of price levels there positive transactions will be cashed in continuously until the group of transactions are profitable. 
 
-In simple terms you will enter the market at a particular level with an active bay and a sell. You would have predetermined levels at which you would cash in positive transactions.  For instance one could decide to cash in on every 100pip (grid gap) move made in the market.  When the price moves 100 pips you would cash in your positive transaction and then enter into another buy and sell transaction at that point. This process will continue until the total for the group of transaction is positive and then you would liquidate. You would then start again – as simple as that. No need for charts. Patience is the biggest virtue required.
+In simple terms you will enter the market at a particular level with an active bay and a sell. You would have predetermined levels at which you would cash in positive transactions.  For instance one could decide to cash in on every 100pip (grid gap) move made in the market.  When the price moves 100 pips you would cash in your positive transaction and then enter into another buy and sell transaction at that point. This process will continue until the total for the group of transaction is positive and then you would liquidate. You would then start again ï¿½ as simple as that. No need for charts. Patience is the biggest virtue required.
 
 Money is made when the price revisits some of the cash in levels over and over and over again (which it does). 
 
@@ -43,6 +49,6 @@ Trends tend to scare people away from this technique but if one views this as an
 
 Success factors for this No Stop system are: - Selecting appropriate grid sizes, currency pairs, lot sizes, cash in times and an investment mentality.  All very easy, if you have done it for a few years.  
 
-This No Stop system is not for everybody however, and is not the best Forex system since sliced bread, but is does very nicely for some traders, thank you very much. It is important to know about this system as using its principles could help your conventional trading. For freely available information on this No Stop system search the net for “no stop forex trading”
+This No Stop system is not for everybody however, and is not the best Forex system since sliced bread, but is does very nicely for some traders, thank you very much. It is important to know about this system as using its principles could help your conventional trading. For freely available information on this No Stop system search the net for ï¿½no stop forex tradingï¿½
 
 

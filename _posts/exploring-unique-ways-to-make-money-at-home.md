@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Exploring Unique Ways To Make Money At Home
 
 Word Count:
@@ -27,6 +33,6 @@ Medical billing or transcription is another work at home business idea that is a
 
 Additionally, if you are looking for a work at home business idea, it might be worthwhile to find internet bulletin boards that allow you to post your resume online.  This can lead to a work at home business idea through the contact information and qualifications you have specified on the internet.
 
-Because the internet is such a busy place where many people are looking for a work at home business idea, it is helpful to spend some time each day devoted to your search for the best possible job.  This way, you will be able to take your time, sort through any potentially fraudulent job claims, and observe how legitimately hiring companies work.  Don’t be discouraged if it seems that every other work at home business idea you see does not measure up to what you would like.  The good jobs do tend to be more rare, but there is a work at home business idea out there that will work perfectly for you!
+Because the internet is such a busy place where many people are looking for a work at home business idea, it is helpful to spend some time each day devoted to your search for the best possible job.  This way, you will be able to take your time, sort through any potentially fraudulent job claims, and observe how legitimately hiring companies work.  Donï¿½t be discouraged if it seems that every other work at home business idea you see does not measure up to what you would like.  The good jobs do tend to be more rare, but there is a work at home business idea out there that will work perfectly for you!
 
 

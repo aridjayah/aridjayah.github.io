@@ -1,15 +1,21 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money At Home The Easy Way!
 
 Word Count:
 479
 
 Summary:
-Who among you can live without money? Isn’t it impossible? Does it make a difference if you have a single cent or a bundle of green money in your pocket? Indeed, it does make a difference. 
+Who among you can live without money? Isnï¿½t it impossible? Does it make a difference if you have a single cent or a bundle of green money in your pocket? Indeed, it does make a difference. 
 
-Parents cannot buy the needs of their children, cannot send them to school and cannot give them what they want. The only solution is money…
+Parents cannot buy the needs of their children, cannot send them to school and cannot give them what they want. The only solution is moneyï¿½
 
-Even if you are already surrounded with all the things that you need, if you do not have money, you cannot do anything else. Don’t you realize t...
+Even if you are already surrounded with all the things that you need, if you do not have money, you cannot do anything else. Donï¿½t you realize t...
 
 
 Keywords:
@@ -17,13 +23,13 @@ adwords, make money, affiliate
 
 
 Article Body:
-Who among you can live without money? Isn’t it impossible? Does it make a difference if you have a single cent or a bundle of green money in your pocket? Indeed, it does make a difference. 
+Who among you can live without money? Isnï¿½t it impossible? Does it make a difference if you have a single cent or a bundle of green money in your pocket? Indeed, it does make a difference. 
 
-Parents cannot buy the needs of their children, cannot send them to school and cannot give them what they want. The only solution is money…
+Parents cannot buy the needs of their children, cannot send them to school and cannot give them what they want. The only solution is moneyï¿½
 
-Even if you are already surrounded with all the things that you need, if you do not have money, you cannot do anything else. Don’t you realize that it is quite disgusting when you just sit in a corner of your room?
+Even if you are already surrounded with all the things that you need, if you do not have money, you cannot do anything else. Donï¿½t you realize that it is quite disgusting when you just sit in a corner of your room?
 
-Laziness should not be part of a person’s lifestyle. People must learn how to maximize their time and effort. They should go on with the flow of the water. Remember that when there is work, there is money. You have to grab the chance!
+Laziness should not be part of a personï¿½s lifestyle. People must learn how to maximize their time and effort. They should go on with the flow of the water. Remember that when there is work, there is money. You have to grab the chance!
 
 There are many things you can do to make money. If you get annoyed working at an office where you hear the voice of your boss everyday, you can do something else.
 

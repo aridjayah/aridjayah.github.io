@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money By Starting An Online Business
 
 Word Count:
@@ -23,7 +29,7 @@ However, some parents cannot stand the thought of leaving their child with stran
 
 To contribute with the household expenses, a stay at home parent usually starts his or her business at home. 
 
-In the past, this could be cooking or baking food and sell it to their neighbors, but with today’s technology, the internet can produce a wider variety of businesses and broader number of customers.
+In the past, this could be cooking or baking food and sell it to their neighbors, but with todayï¿½s technology, the internet can produce a wider variety of businesses and broader number of customers.
 
 One type of online business is internet marketing. All a stay-at-home parent has to do is create a website and affiliate with other websites.
 
@@ -33,13 +39,13 @@ Targeted traffic is also important to make sure that people who are visiting you
 
 One great way to generate targeted traffic is to write an article about the product you are advertising.
 
-After you finished writing the article, submit it to article publishing websites. Include your website’s URL after the end of the article. Readers who are interested in the product will most likely visit your website
+After you finished writing the article, submit it to article publishing websites. Include your websiteï¿½s URL after the end of the article. Readers who are interested in the product will most likely visit your website
 
 Make sure to make your articles interesting and easy to read. Try to make your family and friends read the articles first and get their opinion before submitting it to the article-publishing website. 
 
 The great thing about posting an article is that it is often free and free advertising is always good.
 
-Your website should also include details about the product you are advertising and should catch your website visitor’s attention the moment they enter your website. Add some articles about the pros and cons about the product, some reviews and customer’s testimonials. This is a great way to earn money at home.
+Your website should also include details about the product you are advertising and should catch your website visitorï¿½s attention the moment they enter your website. Add some articles about the pros and cons about the product, some reviews and customerï¿½s testimonials. This is a great way to earn money at home.
 
 Another way to earn money at home is by using auction websites. You can auction practically anything. It is also a great way to get rid of unwanted items from your house, or selling your crafts, such as home made knitted clothing or your own paintings. 
 

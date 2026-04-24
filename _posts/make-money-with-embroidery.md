@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make money with embroidery
 
 Word Count:
@@ -19,7 +25,7 @@ When you decide to start a business based on selling embroidered products, you s
 
 Once you have identified what items you plan to make and sell, begin working on the business logistics of the plan.  Where do you plan to sell your items?  How are you going to advertise your goods and get the word out about your fabulous items?  Many men and women who start embroidery businesses first start at craft shows.  These shows are an excellent way to start your fledgling business, since the money needed to participate is generally low, and you are able to show your items to a great deal of people. 
 
-Look to the World Wide Web for selling your wares.  Popular online auction sites like Ebay or Yahoo! Auctions are a great place to start, since you can create virtual storefronts while gaining access to the site’s customers.  Owning your own internet business is very inexpensive and often a great choice for individuals who are just starting out or who do not have the resources to rent, buy, or run a traditional store of their own.
+Look to the World Wide Web for selling your wares.  Popular online auction sites like Ebay or Yahoo! Auctions are a great place to start, since you can create virtual storefronts while gaining access to the siteï¿½s customers.  Owning your own internet business is very inexpensive and often a great choice for individuals who are just starting out or who do not have the resources to rent, buy, or run a traditional store of their own.
 
 Finally, take the old fashioned route and sell your items in a traditional store.  If you do not have the resources to open your own shop, ask local store owners about potentially using their space to sell your goods for a cut of the profits.  Also, antique stores or shops that showcase goods from local crafters often allow individuals to rent a small space in their store instead of going out on their own.
 

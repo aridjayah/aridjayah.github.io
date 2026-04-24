@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Paid Online Surveys - An Easy Way To Make Money At Home
 
 Word Count:
@@ -15,7 +21,7 @@ Paid Online Surveys , Make Money At Home,Get Paid, Internet, Survey Database, Pa
 Article Body:
 Doing paid online surveys is a very easy way to make money at home. I discovered the existence of paid online surveys by accident. I was actually using the Internet to search for a job and I had the idea of looking for work at home opportunities. It all seems a bit unreal when I look back - was there really a time when I didn't know you could get paid for doing online surveys? In those days, the only surveys I knew about were the ones I occasionally received in the post and which would promise entry into a prize draw as a reward for taking the time to complete the survey. I never did win a prize but I built up quite a collection of free pens. Now I take it for granted that email invitations to take part in paid online surveys will turn up in my mailbox on a daily basis and (the important bit) that I will get paid for completing the surveys.
 
-One great thing about paid online surveys is the fact that you don't need any special skills to take part. As long as you have an Internet linked computer and an opinion, you are qualified. There are no right or wrong answers when it comes to surveys, the companies want to hear what you think, they don't want to test your knowledge. Most questions will permit you to answer "don’t know" or "not sure". Sometimes, you will be given multiple choices and asked to pick the closest to your viewpoint. The best survey companies, without fail, try to make it easy for you to give meaningful answers.
+One great thing about paid online surveys is the fact that you don't need any special skills to take part. As long as you have an Internet linked computer and an opinion, you are qualified. There are no right or wrong answers when it comes to surveys, the companies want to hear what you think, they don't want to test your knowledge. Most questions will permit you to answer "donï¿½t know" or "not sure". Sometimes, you will be given multiple choices and asked to pick the closest to your viewpoint. The best survey companies, without fail, try to make it easy for you to give meaningful answers.
 
 Another great thing is that you can complete your paid online surveys at your leisure. When the invitation is sent to you, it will normally state a deadline for closure of the survey and, as long as you respond before the deadline, it does not matter when you complete the survey. As the majority of paid online surveys can be completed in 5-15 minutes, it is very easy to slot them here and there into your daily routine. You can easily do a short survey or two while you drink your morning coffee but, if you prefer, you can save up all your survey invitations and do them at midnight.
 

@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 There Are Many Ways To Make Money At Home
 
 Word Count:
@@ -7,7 +13,7 @@ Word Count:
 Summary:
 If you do not want to do a 9 to 5 job in an office and would like to have the freedom to work according to your convenience, there is no shortage of opportunities to make money at home. All you have to do is to tap the right sources and find your option. 
 
-Work or do business from home – the choice is yours
+Work or do business from home ï¿½ the choice is yours
 
 Once you have decided on the factor that your place of work has to be your home then you have to look at the opportunities that are available to make money at home. Y...
 
@@ -19,7 +25,7 @@ Make money at home, make money, home based business
 Article Body:
 If you do not want to do a 9 to 5 job in an office and would like to have the freedom to work according to your convenience, there is no shortage of opportunities to make money at home. All you have to do is to tap the right sources and find your option. 
 
-Work or do business from home – the choice is yours
+Work or do business from home ï¿½ the choice is yours
 
 Once you have decided on the factor that your place of work has to be your home then you have to look at the opportunities that are available to make money at home. You could either decide on a home based business or you could take on work that you could do from home.
 
@@ -39,7 +45,7 @@ Other business opportunities to run from your home are catering, day care for ki
 
 The work from home options
 
-This consists mainly of online work that you could do for your client. The services and options that you could offer are typing of reports and data entry, creating databases, doing graphics or wed designing, designing architectural or other products, editing photographs as per the client’s instructions. For all these jobs you would have to have some specialized soft ware on your system and you are all set to make money at home..
+This consists mainly of online work that you could do for your client. The services and options that you could offer are typing of reports and data entry, creating databases, doing graphics or wed designing, designing architectural or other products, editing photographs as per the clientï¿½s instructions. For all these jobs you would have to have some specialized soft ware on your system and you are all set to make money at home..
 
 You could also do freelance writing for various editorials and magazines; design software programs as per the clients specification and several other such online jobs.
 

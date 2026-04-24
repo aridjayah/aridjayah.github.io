@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How To Make Money From Your Blog
 
 Word Count:
@@ -27,7 +33,7 @@ Find a method to Monetize your blog
 
 Contextual advertising today in the form of google represents one of the best ways to make money from your blog. Google can decipher from your title tag what your post is about and places advertisements there and each time someone clicks on an advisement on your blog, you get paid.
 
-Affiliate programs also represent another great way to make extra money from your blog. By referring your visitors to the webstore through your own affiliate link, you can make money from each other their purchases online and what’s best you get paid by a third party provider to eliminate the risk of fraud on the part of the vendor.
+Affiliate programs also represent another great way to make extra money from your blog. By referring your visitors to the webstore through your own affiliate link, you can make money from each other their purchases online and whatï¿½s best you get paid by a third party provider to eliminate the risk of fraud on the part of the vendor.
 
 Publicise your blog
 

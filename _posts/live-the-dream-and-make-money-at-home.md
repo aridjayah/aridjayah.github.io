@@ -1,11 +1,17 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Live The Dream And Make Money At Home
 
 Word Count:
 585
 
 Summary:
-How many times have you thought that there has to be a better way? There is one and it is the chance for you to make money at home. Don’t you owe it to yourself and your family to explore the possibilities of being able to work from the comfort of your own home instead of working the 9-5 grind for someone else?
+How many times have you thought that there has to be a better way? There is one and it is the chance for you to make money at home. Donï¿½t you owe it to yourself and your family to explore the possibilities of being able to work from the comfort of your own home instead of working the 9-5 grind for someone else?
 
 What Type of Opportunities are Available to Make Money at Home?
 
@@ -17,7 +23,7 @@ Make money at home, make money, money
 
 
 Article Body:
-How many times have you thought that there has to be a better way? There is one and it is the chance for you to make money at home. Don’t you owe it to yourself and your family to explore the possibilities of being able to work from the comfort of your own home instead of working the 9-5 grind for someone else?
+How many times have you thought that there has to be a better way? There is one and it is the chance for you to make money at home. Donï¿½t you owe it to yourself and your family to explore the possibilities of being able to work from the comfort of your own home instead of working the 9-5 grind for someone else?
 
 What Type of Opportunities are Available to Make Money at Home?
 

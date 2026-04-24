@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How To Make Money Using The Internet To Trade In The Forex Market
 
 Word Count:
@@ -25,7 +31,7 @@ In the past, the FOREX market was limited to large financial institutions. Howev
 
 First, you need to have a computer with an active internet connection. Today, there are numerous programs available that is specifically designed for FOREX. All you need is to download these programs and you will notice that your computer screed is instantly converted into a FOREX trading floor. Through this program, you will be able to know what major currency you should invest in.
 
-If you don’t know how to trade in the FOREX market, you will see that there are numerous training programs that you can download over the internet. With this program, you will be able to learn the ropes of FOREX trading without actually risking real money. You have to remember that the FOREX market is the largest market in the world. Although there is a great chance for you to earn a lot of money from a small investment, there are also risks involved that you should avoid.
+If you donï¿½t know how to trade in the FOREX market, you will see that there are numerous training programs that you can download over the internet. With this program, you will be able to learn the ropes of FOREX trading without actually risking real money. You have to remember that the FOREX market is the largest market in the world. Although there is a great chance for you to earn a lot of money from a small investment, there are also risks involved that you should avoid.
 
 You have to remember that you should never trade in the FOREX market if you are not confident enough to take the risk. You also have to be prepared in case you lose money on your trades.
 

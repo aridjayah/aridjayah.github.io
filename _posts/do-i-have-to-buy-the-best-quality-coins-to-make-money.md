@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Do I have to Buy the Best Quality Coins to Make Money?
 
 Word Count:
@@ -25,7 +31,7 @@ So if my interest is in rare coins as an investment, what do I do?  Well, there 
 4.	Age.  Although age can have some factor, I would rate it lower than the three above 
 
 
-Ok then, considering all these factors, how do I find nice coins that I can afford that will not only appreciate in value, but appreciate at a higher rate than other coins?  I think the key word here is “nice”.  Coins other than Mint State coins can appreciate in value if you know what to look for.  Look at the 4 driving factors of price again.  They are demand and scarcity.   Take a good look at the following chart.  The chart shows a good comparison of some different coins.  Some you might consider a good investment and some you may not.  The main comparison I am trying to make is from 2005 to 2006.  I had an old issue of Coins Magazine from November 1973 so I thought I would throw those values in as well.
+Ok then, considering all these factors, how do I find nice coins that I can afford that will not only appreciate in value, but appreciate at a higher rate than other coins?  I think the key word here is ï¿½niceï¿½.  Coins other than Mint State coins can appreciate in value if you know what to look for.  Look at the 4 driving factors of price again.  They are demand and scarcity.   Take a good look at the following chart.  The chart shows a good comparison of some different coins.  Some you might consider a good investment and some you may not.  The main comparison I am trying to make is from 2005 to 2006.  I had an old issue of Coins Magazine from November 1973 so I thought I would throw those values in as well.
 
 First, let's look at the 1877 Indian Head Cent, the key of the series.  In a one year period of time, the value of the coin rose 18-19% depending on condition.  The 1909 S, the coin with the lowest mintage of the whole series rose only 2-3%.  Take a look at the mintages.  The 1877 had over 2.5 times the coins produced than the 1909 S yet is valued much higher.  Part of this is demand and there are probably less 1877 dated cents to go around.   
 
@@ -35,7 +41,7 @@ Compare the mintages of the 5 above coins to the 1879 Shield Nickel.  A mere 29,
 
 So, what does this all prove?  To me, it proves that picking coins solely for investment is as tricky as playing the stock market.  You just never know what may be the hot item.  Certainly, key issues will continue to rise and will probably rise at a higher rate than non-key issues.  If you are truly set on buying rare coins as an investment and you cannot afford the high-end items then keys in some of the lower grades may be the way to go.
 
-What will be the next “hot” coin?  Only time will tell and your guess is as good as mine.  I suspect that with more and more interest in Lincolns, especially with the upcoming changes to the Lincoln Cent <http://www.mountainviewcoins.com/Lincoln_Cents.htm>, there will be more demand for Lincoln Keys, but that is only a guess. Others to keep an eye on are the 1932 D and S quarters.  The State Quarter program has created more interest in quarters.  This is just pure speculation.  As for me, I will just continue to buy the coins I like.
+What will be the next ï¿½hotï¿½ coin?  Only time will tell and your guess is as good as mine.  I suspect that with more and more interest in Lincolns, especially with the upcoming changes to the Lincoln Cent <http://www.mountainviewcoins.com/Lincoln_Cents.htm>, there will be more demand for Lincoln Keys, but that is only a guess. Others to keep an eye on are the 1932 D and S quarters.  The State Quarter program has created more interest in quarters.  This is just pure speculation.  As for me, I will just continue to buy the coins I like.
 
 As always, happy collecting!
 

@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money Blogging.
 
 Word Count:
@@ -23,7 +29,7 @@ Getting started is easy. Just head over to www.blogger.com and setup your blog. 
 
 Pick a topic you are really interested in and which has good keyword traffic (these are the words people use to search for things in search engines). DigitalPoint has a free keyword tool that is very easy to use. You can also check your keyword (or tag) out at Technorati to see how popular it is. In general, the most popular keywords are the most profitable.
 
-Now, all you need to do, is ensure you post something every day, then when the post is done tell the world that you have updated your blog. You do this by issuing a ‘ping’. Platforms like Wordpress do this automatically. If you use Blogger then you must use a service like Pingomatic to do it for you.
+Now, all you need to do, is ensure you post something every day, then when the post is done tell the world that you have updated your blog. You do this by issuing a ï¿½pingï¿½. Platforms like Wordpress do this automatically. If you use Blogger then you must use a service like Pingomatic to do it for you.
 
 As the number of your posts increase, search engines will regularly stop by to pick up new content. Your visitors will begin to grow. Your objective is to get as many visitors as possible to visit your blog. The more people who visit your blog the more money you will make.
 
@@ -41,6 +47,6 @@ By now you will have put in the hard work to develop your weblog. It's become a 
 
 There are many ways to make money with your blog. I hope this simple guide helps you on the way to earning a good return. 
 
-As a parting piece of advice, don’t believe the hype you read. There are no short cuts. You are unlikely to make instant, riches, but with some hard work and great content, you can generate a good additional income from your blog.
+As a parting piece of advice, donï¿½t believe the hype you read. There are no short cuts. You are unlikely to make instant, riches, but with some hard work and great content, you can generate a good additional income from your blog.
 
 

@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Paid Survey Income - Using A Paid Survey Program To Make Money From Home
 
 Word Count:

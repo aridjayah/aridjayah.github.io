@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money Online With The Ebay Affiliate Program?
 
 Word Count:
@@ -23,7 +29,7 @@ Every day millions of people are buying & selling on eBay. Every day there are m
 
 The income potential for an eBay affiliate website is huge and very convenient.
 
-The eBay affiliate money you can earn is between 50% and 75% of eBay’s revenue on winning bids and/or buy it now transactions. eBay will also pay you between $25.00 and $35.00 for each new eBay user that registers from your website. If that was not enough; eBay rewards their affiliates with more money with increased performance rewards. The more traffic you drive the more eBay affiliate money you will earn for each transaction or new active user.
+The eBay affiliate money you can earn is between 50% and 75% of eBayï¿½s revenue on winning bids and/or buy it now transactions. eBay will also pay you between $25.00 and $35.00 for each new eBay user that registers from your website. If that was not enough; eBay rewards their affiliates with more money with increased performance rewards. The more traffic you drive the more eBay affiliate money you will earn for each transaction or new active user.
 
 For success with the eBay affiliate program, we recommend that you grow your eBay affiliate website empire by creating as many eBay affiliate websites as you can. Your affiliate websites will get you started down your road to success with eBay. We also recommend you stay current with trends and technology to create new affiliate niche websites when the opportunity arises.
 

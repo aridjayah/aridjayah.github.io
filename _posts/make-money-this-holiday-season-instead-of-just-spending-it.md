@@ -1,11 +1,17 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money This Holiday Season Instead of Just Spending  It
 
 Word Count:
 1160
 
 Summary:
-It’s the holidays and what better time to make some additional cash. There’s a good chance that one of the holiday business ideas listed could be perfect for you. And a business you could run through-out the year.
+Itï¿½s the holidays and what better time to make some additional cash. Thereï¿½s a good chance that one of the holiday business ideas listed could be perfect for you. And a business you could run through-out the year.
 
 
 Keywords:
@@ -17,13 +23,13 @@ What if you could make more money than you spend this holiday season? Sounds lik
 
 SANTA LETTERS
 
-Making a child feel special during the holidays is something I think most adults strive for. And when a child gets a letter from Santa, the guy they look up to and respect…that child is going to feel like a million bucks. Selling to parents, grandparents, daycares and preschools are a great way to get business. And once one child starts telling their friends that THEY got a letter from Santa. News will start to spread. These children will turn into little walking advertisements for you. If you really enjoy this business during the holidays, you can run this type of business all year long with letters from the Easter Bunny, Cupid, the Great Pumpkin…just to name a few. 
+Making a child feel special during the holidays is something I think most adults strive for. And when a child gets a letter from Santa, the guy they look up to and respectï¿½that child is going to feel like a million bucks. Selling to parents, grandparents, daycares and preschools are a great way to get business. And once one child starts telling their friends that THEY got a letter from Santa. News will start to spread. These children will turn into little walking advertisements for you. If you really enjoy this business during the holidays, you can run this type of business all year long with letters from the Easter Bunny, Cupid, the Great Pumpkinï¿½just to name a few. 
 
  CRAFTS
 
 It doesn't matter if you're into woodworking, sewing, painting, pottery, or creating handmade paper. More than ever, people enjoy giving that one-of-a-kind special gift. You can sell your wares via the Net, at holiday bazaars or craft shows, or even consignment style. Once you become known for your crafts, word-of-mouth will keep you very busy.
 A HOLIDAY GRATITUDE SERVICE
-Here’s a way businesses can say ‘Thank you ‘to the community. It’s also a way to help plump up the retailers business in December. Talk with your local business about what they’d like to contribute to your holiday kit that you will be offering to local residents. It could be a free gift, a discount, coupons etc. It’s a win win situation for everyone. The community receives some discounts and the businesses get more business. This type of service can also be run all throughout the year by offering newcomer packets to those who have just moved into the neighborhood, new baby and new pet packets etc. You could have a lot of fun with this one. 
+Hereï¿½s a way businesses can say ï¿½Thank you ï¿½to the community. Itï¿½s also a way to help plump up the retailers business in December. Talk with your local business about what theyï¿½d like to contribute to your holiday kit that you will be offering to local residents. It could be a free gift, a discount, coupons etc. Itï¿½s a win win situation for everyone. The community receives some discounts and the businesses get more business. This type of service can also be run all throughout the year by offering newcomer packets to those who have just moved into the neighborhood, new baby and new pet packets etc. You could have a lot of fun with this one. 
 
 RUBBER STAMPING
 

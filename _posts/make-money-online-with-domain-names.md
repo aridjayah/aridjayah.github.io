@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money Online With Domain Names
 
 Word Count:
@@ -25,7 +31,7 @@ A third way to make money online with domain names is to buy up generic domain n
 
 Making money online with domain names can be a very lucrative source of income if it is done properly. Public domain names become available constantly, mostly because of a negligence to renew them. The three main markets for domain names include buyers who wish to use the domain name to redirect traffic to their own website, buyers who have lost the domain name because they forgot to renew it and have spent a lot to create the site, so they are willing to pay to regain the domain name, and domain names that contain industry specific generic keywords.
 
-You can also make money with domain names by gathering up generic domain names that contain buzz words within an industry and offering them to the highest bidder to be redirected toward a main site. As an example, if you had control of a URL like “conferencecallnow.com" chances are you would find interest on the part of a number of the teleconferencing companies around the world. It is relatively easy to make money selling domain names that are generic but still apply to a particular service offering.
+You can also make money with domain names by gathering up generic domain names that contain buzz words within an industry and offering them to the highest bidder to be redirected toward a main site. As an example, if you had control of a URL like ï¿½conferencecallnow.com" chances are you would find interest on the part of a number of the teleconferencing companies around the world. It is relatively easy to make money selling domain names that are generic but still apply to a particular service offering.
 
 To make money with domain names, you have to have an eye for what will resell in a reasonable amount of time, understand what the market will bear, and have plenty of answers to the question "how can I make money with a domain name?" Any speculator who can do this will know exactly how to make money from public domain names.
 
@@ -80,15 +86,15 @@ Hostway
 Fr $179 per mo - Linux/Windows - 99.99% network uptime
 Tools
 
-•Guestbooks
-•Webmaster Forums
-•Web Templates
-•Mailing Lists
-•Classifieds
-•Hit Counters
-•Greeting Cards
-•Blog
+ï¿½Guestbooks
+ï¿½Webmaster Forums
+ï¿½Web Templates
+ï¿½Mailing Lists
+ï¿½Classifieds
+ï¿½Hit Counters
+ï¿½Greeting Cards
+ï¿½Blog
 
-Copyright © 2007 Joel Teo. All rights reserved.
+Copyright ï¿½ 2007 Joel Teo. All rights reserved.
 
 

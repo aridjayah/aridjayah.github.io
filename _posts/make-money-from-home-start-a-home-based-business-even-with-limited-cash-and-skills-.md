@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money From Home-Start A Home Based Business Even With Limited Cash And Skills!
 
 Word Count:
@@ -19,7 +25,7 @@ You wish to start a Home Based Business, Make Money from Home, be your own Boss 
 
 If you are highly motivated and passionate about achieving your goal of being a successful home based business entrepreneur and make money from home, first you have to do some self searching and self assessment. Next you have to get your priorities right. 
 
-"Good things don’t come to those who wait, they come to those who want something so bad, and they can’t wait for it."—Ashton Kutcher
+"Good things donï¿½t come to those who wait, they come to those who want something so bad, and they canï¿½t wait for it."ï¿½Ashton Kutcher
 
 Every person is blessed with certain skills or qualities they are good at.
 
@@ -65,6 +71,6 @@ Lack of money or skills should not act as a barrier to start a home based busine
 Often the difference between a successful person who is able to make money from home and another is not that the former had better skills, ideas and money but the courage that he had, to take the first step and implement his home based business ideas.
 
 
-Copyright © 2006 Kanaga Siva.
+Copyright ï¿½ 2006 Kanaga Siva.
 
 

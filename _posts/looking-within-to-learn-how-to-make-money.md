@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Looking Within To Learn How To Make Money
 
 Word Count:
@@ -9,7 +15,7 @@ Learning how to make money always starts with yourself; if you want to learn how
 
 10 Tips for Learning How to Make Money by Looking Within
 
-Know your interests. This will let you know what kind of your job you’ll be happiest of. Don’t think about its profit potential first. W...
+Know your interests. This will let you know what kind of your job youï¿½ll be happiest of. Donï¿½t think about its profit potential first. W...
 
 
 Keywords:
@@ -21,22 +27,22 @@ Learning how to make money always starts with yourself; if you want to learn how
 
 10 Tips for Learning How to Make Money by Looking Within
 
-Know your interests. This will let you know what kind of your job you’ll be happiest of. Don’t think about its profit potential first. What you should really be concerned about is to search for any interest that will make you enjoy work and get paid for something you love and don’t mind to do!
+Know your interests. This will let you know what kind of your job youï¿½ll be happiest of. Donï¿½t think about its profit potential first. What you should really be concerned about is to search for any interest that will make you enjoy work and get paid for something you love and donï¿½t mind to do!
 
-Know your strengths and weaknesses in relation to your chosen field of profession. When you’ve identified your key interests, this will lead you to your chosen profession. And when that happens, it’s time to take a good look at your reflection and know what makes you strong and weak. Afterwards, we do things to improve our strengths and reduce or eliminate our weaknesses.
+Know your strengths and weaknesses in relation to your chosen field of profession. When youï¿½ve identified your key interests, this will lead you to your chosen profession. And when that happens, itï¿½s time to take a good look at your reflection and know what makes you strong and weak. Afterwards, we do things to improve our strengths and reduce or eliminate our weaknesses.
 
-Invest effort in learning and gaining experience. Don’t stop learning new things. It doesn’t have to be directly connected with your chosen field all the time. Any educational opportunity is ultimately beneficial because it exercises your mind. And of course, you’ve heard about how experience is the best teacher, and it’s still true. That’s why you should do your best to gain as much experience in your preferred job.
+Invest effort in learning and gaining experience. Donï¿½t stop learning new things. It doesnï¿½t have to be directly connected with your chosen field all the time. Any educational opportunity is ultimately beneficial because it exercises your mind. And of course, youï¿½ve heard about how experience is the best teacher, and itï¿½s still true. Thatï¿½s why you should do your best to gain as much experience in your preferred job.
 
-Be ethical. Contrary to popular opinion, good guys don’t finish last often nowadays. In fact, it’s the big guys who are now leading the pack. You only have to look at Bill Gates and Warren Buffett to understand this. 
+Be ethical. Contrary to popular opinion, good guys donï¿½t finish last often nowadays. In fact, itï¿½s the big guys who are now leading the pack. You only have to look at Bill Gates and Warren Buffett to understand this. 
 
-Being ethical pays, but don’t do this just for the sake of higher returns. Do this because you know it’s right. Be fair to your clients, employees, employers, superiors, distributors, retailers, suppliers, and all other people who are working with you. Do unto them what you want them to do unto you in short.
+Being ethical pays, but donï¿½t do this just for the sake of higher returns. Do this because you know itï¿½s right. Be fair to your clients, employees, employers, superiors, distributors, retailers, suppliers, and all other people who are working with you. Do unto them what you want them to do unto you in short.
 
-Set standards for your company. Having standards is a way of motivating the people in your company or business to aim higher and do better. It also lets you know whether you’re making money or not, and if you are – whether you’re making as much as you should or not. If you aren’t, it lets you know what you’re doing right and what you’re doing wrong.
+Set standards for your company. Having standards is a way of motivating the people in your company or business to aim higher and do better. It also lets you know whether youï¿½re making money or not, and if you are ï¿½ whether youï¿½re making as much as you should or not. If you arenï¿½t, it lets you know what youï¿½re doing right and what youï¿½re doing wrong.
 
 Think of your work or business as a plant. You need to nourish it if you want it to grow, blossom, and bear fruit. It will not survive solely on financial investment. For anything to become truly profitable, you first need to involve your body and soul into it.
 
-Rule by example. Your employees play a key part in turning your company around, and if you want them to perform well, you need to show them that you can and will always do what you’re asking them to do.
+Rule by example. Your employees play a key part in turning your company around, and if you want them to perform well, you need to show them that you can and will always do what youï¿½re asking them to do.
 
-And most importantly of all – don’t be afraid to take risks. If you focus too much on what you could lose, you might lose track completely of what you could gain if you take the risk. Instead of being impulsive, weigh your options carefully to ascertain which risks are foolish…and which ones aren’t. Use your heart to know which risks have great potential, but use your head to decide which is right.
+And most importantly of all ï¿½ donï¿½t be afraid to take risks. If you focus too much on what you could lose, you might lose track completely of what you could gain if you take the risk. Instead of being impulsive, weigh your options carefully to ascertain which risks are foolishï¿½and which ones arenï¿½t. Use your heart to know which risks have great potential, but use your head to decide which is right.
 
 

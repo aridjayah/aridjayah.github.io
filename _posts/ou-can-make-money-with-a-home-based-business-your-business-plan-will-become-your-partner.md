@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 You Can Make Money With A Home Based Business & Your Business Plan Will Become Your Partner.
 
 Word Count:

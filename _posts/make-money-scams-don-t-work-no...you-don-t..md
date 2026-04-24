@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money Scams Don't Work? No...You Don't.
 
 Word Count:
@@ -47,7 +53,7 @@ Translation: Next I bought a make money idea to become a translator. This was gr
 
 But the work didn't come in. I didn't make money. 
 
-It turns out that not all translation is equal to make money. If you can translate from English into the language of a new third-world market that manufacturers want to open up you can make money û large dollops of it. The manufacturers are happy to help you to make money so that they can make money in larger quantities. 
+It turns out that not all translation is equal to make money. If you can translate from English into the language of a new third-world market that manufacturers want to open up you can make money ï¿½ large dollops of it. The manufacturers are happy to help you to make money so that they can make money in larger quantities. 
 
 However, if you translate into English as I do, then the manufacturers are in the third-world countries. That means that they can't afford quality translators. They will always go for the cheapest work from their own country where slave- labor fees are charged. It doesn't matter that English is not the native language of the translator. The manufacturer can't afford to help you make money by going for quality. 
 

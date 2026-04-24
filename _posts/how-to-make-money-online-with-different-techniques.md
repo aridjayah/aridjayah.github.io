@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How To Make Money Online With Different Techniques
 
 Word Count:
@@ -47,7 +53,7 @@ While it is time consuming and can take over as a full-time job for many people,
 
 home job has the best potential to make money online.  After all the promises and the marketing 
 
-“mumbo jumbo” about making money online with website that people just click and spend, after all 
+ï¿½mumbo jumboï¿½ about making money online with website that people just click and spend, after all 
 
 the explanation of creating content that holds the viewers, after all the work to get the 
 

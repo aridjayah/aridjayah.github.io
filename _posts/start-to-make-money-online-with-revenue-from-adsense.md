@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Start To Make Money Online With Revenue From Adsense
 
 Word Count:
@@ -35,7 +41,7 @@ When you want to make money online, once you have finished designing the website
 
 You will then want to join AdSense. It will take up to a week for a team from AdSense to approve your site after they have reviewed it. Once your application has been accepted by Google you can begin to learn the tricks of the trade of how to produce AdSense code so that you can include it on your site and start to make money online by generating revenue from AdSense.
 
-If Google rejects your site application, don’t panic; you will still have a chance to make money online. It is standard procedure for Google to advise you as to the reasons why your website application has been rejected. Once you are aware of the problems, you can repair the setbacks, and apply again.
+If Google rejects your site application, donï¿½t panic; you will still have a chance to make money online. It is standard procedure for Google to advise you as to the reasons why your website application has been rejected. Once you are aware of the problems, you can repair the setbacks, and apply again.
 
 How You Can Make the Most of AdSense
 

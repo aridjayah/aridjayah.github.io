@@ -1,11 +1,17 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How NOT to Make Money with Google Adsense
 
 Word Count:
 598
 
 Summary:
-If you’re like me and have been scouring the internet for a sure fire way of making some extra income from your content rich website then you have no doubt come across and have probably joined the Google Adsense program
+If youï¿½re like me and have been scouring the internet for a sure fire way of making some extra income from your content rich website then you have no doubt come across and have probably joined the Google Adsense program
 
 
 Keywords:
@@ -13,17 +19,17 @@ google adsense, adsense revenue, adsense, make money
 
 
 Article Body:
-If you’re like me and have been scouring the internet for a sure fire way of making some extra income from your content rich website then you have no doubt come across and have probably joined the Google Adsense program and placed Google ads on your website, and have also had the frustration of not getting enough visitors to your site and again have been scouring the internet for information on combining Google Adsense and Google Adwords to get targeted visitors to your site.
+If youï¿½re like me and have been scouring the internet for a sure fire way of making some extra income from your content rich website then you have no doubt come across and have probably joined the Google Adsense program and placed Google ads on your website, and have also had the frustration of not getting enough visitors to your site and again have been scouring the internet for information on combining Google Adsense and Google Adwords to get targeted visitors to your site.
 
-You no doubt like me have come across the so called “Get Rich Quick With Google Adsense” e-books, which offer a sure fire system to use the Google Adwords feature to unlock those Google Adsense riches on your website and have probably handed over the $30 to $60 to find out the secret system. Well this article has been written to expose the myths behind these so called systems and to warn people that the results will be very disappointing.
+You no doubt like me have come across the so called ï¿½Get Rich Quick With Google Adsenseï¿½ e-books, which offer a sure fire system to use the Google Adwords feature to unlock those Google Adsense riches on your website and have probably handed over the $30 to $60 to find out the secret system. Well this article has been written to expose the myths behind these so called systems and to warn people that the results will be very disappointing.
 
 Google Adsense Fact
 
 The major problem with these systems is they try to blind you with a massive list of high paying keywords which Google Adword bidders supposedly pay for certain keywords and your focus is to try and concentrate your efforts on including these keywords on your website page, so the Google Adsense can put these high paying Google ads on your site, therefore increase your click through payments.
 
-Fact is Google ads rarely payout over $2 per click for Google Adsense, I have run sites myself with the supposed top keyword "yahoo domains” and the most I earned was about 50 cents per click which seems to be the Google Adsense average.
+Fact is Google ads rarely payout over $2 per click for Google Adsense, I have run sites myself with the supposed top keyword "yahoo domainsï¿½ and the most I earned was about 50 cents per click which seems to be the Google Adsense average.
 
-All this high paying keyword information is not going to make the so called $50 per click that some of these e-books claim, the best paying keyword out there at the moment is to do with “asbestos cancer” and this will only give you between $3 and $5 per click and is such a niche keyword, that not everyone is interested in reading about the subject or going to click on the Google ads on your website.
+All this high paying keyword information is not going to make the so called $50 per click that some of these e-books claim, the best paying keyword out there at the moment is to do with ï¿½asbestos cancerï¿½ and this will only give you between $3 and $5 per click and is such a niche keyword, that not everyone is interested in reading about the subject or going to click on the Google ads on your website.
 
 Google Adwords Fact
 

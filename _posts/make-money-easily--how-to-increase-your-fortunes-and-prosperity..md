@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money Easily - How To Increase Your Fortunes And Prosperity.
 
 Word Count:
@@ -25,6 +31,6 @@ I still kick myself for not starting a company like Pay friend. I mean, come on.
 
 One of the cool things about cyberspace is all the income. Did you know that people with websites can earn income? It all has to do with interesting content that others are actually interested in viewing and web transfer. How many hits can you acquire in one day? Start your own websites and find out. This is a modern way to make money easily, and do it while you're lie around on a beach somewhere. Wow, you've got to love cyberspace.
 
-If you're interested in more ways you can make money easily, and then get online now. Find out just how much business is done from home these days. I think you'll be shocked to learn that you have the ability to make money easily, and do it without slaving away for ‘the man.’ There is a sea of green out there waiting. It's all about choosing the right vehicle to reach it.
+If you're interested in more ways you can make money easily, and then get online now. Find out just how much business is done from home these days. I think you'll be shocked to learn that you have the ability to make money easily, and do it without slaving away for ï¿½the man.ï¿½ There is a sea of green out there waiting. It's all about choosing the right vehicle to reach it.
 
 

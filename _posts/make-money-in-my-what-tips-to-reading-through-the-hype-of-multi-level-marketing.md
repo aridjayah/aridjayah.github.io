@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money In My What? Tips To Reading Through The Hype Of Multi-Level Marketing
 
 Word Count:
@@ -17,11 +23,11 @@ internet marketing, mlm, money, testimonials
 Article Body:
 Picture this scene.
 
-It could have been written by Rod Serling (The TWILIGHT ZONE™).
+It could have been written by Rod Serling (The TWILIGHT ZONEï¿½).
 
 A man shows up at your door. He is wearing a mask - so you can't tell who he is. He is representing a business - but he won't tell you what the business is. He wants you to give him $150 to become part of this business.
 
-The masked man (no, not the Lone Ranger™) goes on to guarantee that you can make $10,000 a month (after 12 months) with this business - that is not yet in business, or you get your money back. But, this anonymous stranger offers no contract. You ask where you write in order to get your money back. He gives you the address of a vacant lot. The mysterious stranger continues by saying that you need to do nothing. He will build your business for you. You ask, "how?" You are told that is on a need-to-know basis only. And, you do not need to know.
+The masked man (no, not the Lone Rangerï¿½) goes on to guarantee that you can make $10,000 a month (after 12 months) with this business - that is not yet in business, or you get your money back. But, this anonymous stranger offers no contract. You ask where you write in order to get your money back. He gives you the address of a vacant lot. The mysterious stranger continues by saying that you need to do nothing. He will build your business for you. You ask, "how?" You are told that is on a need-to-know basis only. And, you do not need to know.
 
 Question. Do you give this man your $150?
 

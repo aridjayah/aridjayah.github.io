@@ -1,19 +1,13 @@
-Title: 
-Cash in On Herbalife Shapeworks Diet - Lose Weight & Make Money
+---
+layout: post
+title:  "Cash in On Herbalife Shapeworks Diet - Lose Weight & Make Money"
+author: admin
+categories: [ business, make money, diet program, herbalife, weigh loss ]
+image: assets/images/make-money/105.jpg
+---
+Herbalife has been in the health and wellness business for over twenty-five years. And in all of those years they have helped countless millions of people with all kinds of different health issues. They have made life a little bit better for men and women and even children and they have done it because they care about the wellbeing of everyone both young and old. 
 
-Word Count:
-622
-
-Summary:
-Herbalife has been in the health and wellness business for over twenty-five years. And in all of those years they have helped countless millions of people with all kinds of different health issues.
-
-
-Keywords:
-diet program, herbalife, weigh loss
-
-
-Article Body:
-Herbalife has been in the health and wellness business for over twenty-five years. And in all of those years they have helped countless millions of people with all kinds of different health issues. They have made life a little bit better for men and women and even children and they have done it because they care about the wellbeing of everyone both young and old. One of their biggest sellers is Shapeworks and this diet system alone has assisted millions of people of all ages to lose the weight that they so desperately want to shed. Getting in shape is a life altering event and it is something that we can all do and feel good about, so if you know you could be a healthier weight then you need to do something about it now before it is too late. 
+One of their biggest sellers is Shapeworks and this diet system alone has assisted millions of people of all ages to lose the weight that they so desperately want to shed. Getting in shape is a life altering event and it is something that we can all do and feel good about, so if you know you could be a healthier weight then you need to do something about it now before it is too late. 
 
 Herbalife and Shapeworks exist to change people?s lives by providing the best nutritional diet plan on the market today. There is much more to these programs that losing weight and becoming more healthy though. There is also a fantastic business opportunity in direct selling. You too can become one of the top people working for Herbalife and Shapeworks because you can sell these great nutrition and weight management products to other people who needs them so desperately. More people than you could ever count have been doing this successfully for years and they love it. There are many reasons to join the Herbalife team and they are all better than the last. This could be your calling.
 

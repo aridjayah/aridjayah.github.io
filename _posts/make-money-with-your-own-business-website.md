@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money With Your Own Business Website
 
 Word Count:
@@ -35,7 +41,7 @@ You may also want to consider the belief of offering discounts to those that pur
 
 Owning a business website can mean that your customers can locate their bargains easier, and administer you a faster distinction of being a great body.
 
-Having “Links” to your site from other related websites will attract more attention to your specific site. You will need to contact the website that you would like to have “Link” to your site and receive information regarding achievable linking, such as rates, and location of the siting. You may want to connect a link to their site from your website, too.
+Having ï¿½Linksï¿½ to your site from other related websites will attract more attention to your specific site. You will need to contact the website that you would like to have ï¿½Linkï¿½ to your site and receive information regarding achievable linking, such as rates, and location of the siting. You may want to connect a link to their site from your website, too.
 
 Hoping you have the best of luck in this lucrative business.
 

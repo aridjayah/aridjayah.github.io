@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money; Sell Credit Cards
 
 Word Count:
@@ -79,7 +85,7 @@ How about these rewards:
 Faster Cards
 There are now new cards , where cardmembers simply hold their card near a point-of-sale reader at a checkout, instead of swiping their card or handing it to a store employee. As cardmembers hold their  card with this feature near the point-of-sale reader, the reader will quickly emit a tone and light up to signal payment confirmation. 
 
-"We believe the innovative cards with this feature provide merchants and cardmembers with the increased speed and convenience they want at the point-of-sale," said a senior vice president of a company’s credit card division.
+"We believe the innovative cards with this feature provide merchants and cardmembers with the increased speed and convenience they want at the point-of-sale," said a senior vice president of a companyï¿½s credit card division.
 
  "With this feature, cardmembers can save time when making their everyday purchases." 
 So you could use any of the above incentives to promote your affiliate credit card link and earn additional Internet Income.

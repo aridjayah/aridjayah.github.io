@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money Online: Three fast ways to Make Money Online
 
 Word Count:
@@ -27,8 +33,8 @@ Through better positions of your own website in the search engines, like MSN, Ya
 
 To earn money online, the third thing that you can do is to start a newsletter or ezine. It does not matter if your web site is large or small, just post the code for newsletters that different websites have onto your own web site. 
 
-For example, Google offers “Free Mailing Groups”, an auto-responder system used to submit a newsletter to your subscription list. There are various free scripts that carry out this function. In other words, through this way you will allow people to subscribe for your newsletter or ezine with the latest news you will have about your products and promotions.
+For example, Google offers ï¿½Free Mailing Groupsï¿½, an auto-responder system used to submit a newsletter to your subscription list. There are various free scripts that carry out this function. In other words, through this way you will allow people to subscribe for your newsletter or ezine with the latest news you will have about your products and promotions.
 
-A free gift might be absolutely necessary in order to motivate your visitor to give you his – her name an email address.
+A free gift might be absolutely necessary in order to motivate your visitor to give you his ï¿½ her name an email address.
 
 

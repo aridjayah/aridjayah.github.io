@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money From Home And Live In Financial Freedom!
 
 Word Count:
@@ -25,22 +31,22 @@ If you want to work from home or make money from home, you would have to scour t
 
 The benefits to make money from home
 
-To know what is available in this area as work or business you just have to search for options on the net and you will definitely find something that would suit your requirement. There are so many benefits in working from home –
+To know what is available in this area as work or business you just have to search for options on the net and you will definitely find something that would suit your requirement. There are so many benefits in working from home ï¿½
 
-• You have flexible timings with more time to give your family
-• Being at home more makes family bonding stronger
-• You can manage your own life the way you want to
-• You have no fixed income limits but can work more and earn more
-• You have more tax benefits
-• You do not have to be stressed out with peer pressure or with difficult bosses
-• You can do many things at the same time as the time is all yours
-• You can qualify further and have varied and multiple jobs at the same time
+ï¿½ You have flexible timings with more time to give your family
+ï¿½ Being at home more makes family bonding stronger
+ï¿½ You can manage your own life the way you want to
+ï¿½ You have no fixed income limits but can work more and earn more
+ï¿½ You have more tax benefits
+ï¿½ You do not have to be stressed out with peer pressure or with difficult bosses
+ï¿½ You can do many things at the same time as the time is all yours
+ï¿½ You can qualify further and have varied and multiple jobs at the same time
 
 These are just a few of the benefits of working from home, once you start to make money from home you will find so much more to be thankful for, because you took this step to work from home.
 
 A low investment will bring in high dividends
 
-The best thing about work from home is that you do not have to invest much money in whatever you are planning to do from home. Whether it is taking on online work to make money from home, or to start a home business, the money that you would have to invest is minimal. After all the work spot or the “office” is your own home, so there is no additional expenditure and apart from this you would only need a computer and an internet connection. Whether you go in for selling on ecommerce or providing services to customers all your communication would be done via email.
+The best thing about work from home is that you do not have to invest much money in whatever you are planning to do from home. Whether it is taking on online work to make money from home, or to start a home business, the money that you would have to invest is minimal. After all the work spot or the ï¿½officeï¿½ is your own home, so there is no additional expenditure and apart from this you would only need a computer and an internet connection. Whether you go in for selling on ecommerce or providing services to customers all your communication would be done via email.
 
 Home made craft and other such trade
 

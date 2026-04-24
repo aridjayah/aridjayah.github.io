@@ -1,24 +1,10 @@
-Title: 
-Can You Really Make Money With Internet Marketing?
-
-Word Count:
-504
-
-Summary:
-One of the most frequently asked questions I receive is: 'Can You Really Make Money With Internet Marketing?'
-
-The short answer is YES. The longer answer is that it takes a little work and time to make money with Internet Marketing.
-
-I never say it is hard to make money with Internet Marketing because it really is not. What you must understand is that if you want to really make money with Internet Marketing, then you need to be ready to be patient and be consistent.
-
-Ma...
-
-
-Keywords:
-
-
-
-Article Body:
+---
+layout: post
+title:  "Can You Really Make Money With Internet Marketing?"
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/104.jpg
+---
 One of the most frequently asked questions I receive is: 'Can You Really Make Money With Internet Marketing?'
 
 The short answer is YES. The longer answer is that it takes a little work and time to make money with Internet Marketing.

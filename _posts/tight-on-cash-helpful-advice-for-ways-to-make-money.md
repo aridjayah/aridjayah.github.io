@@ -1,11 +1,17 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Tight On Cash? Helpful Advice For Ways To Make Money.
 
 Word Count:
 502
 
 Summary:
-If you are anything like me, you are always thinking about ways to make money. I have a full-time job and make a somewhat civilized living, but it just never seems to be enough. My bills just wont go away, no matter how many times I try to overlook them. Over the years, I have learned that there are some other ways to make money than resorting to prostitution or selling drugs. While both of those ‘jobs’ may earn decent money and be tax-free, they are not the idea ways to make...
+If you are anything like me, you are always thinking about ways to make money. I have a full-time job and make a somewhat civilized living, but it just never seems to be enough. My bills just wont go away, no matter how many times I try to overlook them. Over the years, I have learned that there are some other ways to make money than resorting to prostitution or selling drugs. While both of those ï¿½jobsï¿½ may earn decent money and be tax-free, they are not the idea ways to make...
 
 
 Keywords:
@@ -13,7 +19,7 @@ ways to make money
 
 
 Article Body:
-If you are anything like me, you are always thinking about ways to make money. I have a full-time job and make a somewhat civilized living, but it just never seems to be enough. My bills just wont go away, no matter how many times I try to overlook them. Over the years, I have learned that there are some other ways to make money than resorting to prostitution or selling drugs. While both of those ‘jobs’ may earn decent money and be tax-free, they are not the idea ways to make money. Ending up in jail or even worse, isnt going to help your bills disappear any quicker.
+If you are anything like me, you are always thinking about ways to make money. I have a full-time job and make a somewhat civilized living, but it just never seems to be enough. My bills just wont go away, no matter how many times I try to overlook them. Over the years, I have learned that there are some other ways to make money than resorting to prostitution or selling drugs. While both of those ï¿½jobsï¿½ may earn decent money and be tax-free, they are not the idea ways to make money. Ending up in jail or even worse, isnt going to help your bills disappear any quicker.
 
 I will contribute with you some of the ways to make money that I have uncovered or tried. A few of them may sound ridiculous or useless, but if you need money, there is a need for creativity. If you dont have a job,one of the best ways to make money is to find one. If you are capable of having two jobs or picking up a part-time job in addition to your other jobs or schooling, it would be the most perfect way. I presently work full-time and part-time and am raising a child. It isnt easy but I am strong-minded to become debt-free as quickly as possible.
 

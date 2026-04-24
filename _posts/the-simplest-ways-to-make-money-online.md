@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 The Simplest Ways To Make Money Online
 
 Word Count:
@@ -19,7 +25,7 @@ There are millions made daily online, through various programs, websites, and In
 
 From grandparents to house wives, doctors to professors, computer technicians to working mothers, these are just a few of the many people turning to online business opportunities to either make extra income or supplement their existing income. Many working mothers for instance are leaving their full time jobs, and taking up home business so they can spend more time with their children. This is the main reason so many mothers choose to work at home.
 
-They want to establish some type of financial standing while still being able to watch over and spend quality time with their children. Internet home business can be a great idea for stay at home mothers, as it provides a flexible schedule as well as the benefit of making money to supplement the family’s income and raising your kids at the same time.
+They want to establish some type of financial standing while still being able to watch over and spend quality time with their children. Internet home business can be a great idea for stay at home mothers, as it provides a flexible schedule as well as the benefit of making money to supplement the familyï¿½s income and raising your kids at the same time.
 
 Some examples of great ways to make money online are: owning a home business, completing surveys, selling on eBay, freelancing, selling from your own website, and reading emails. The benefits of owning an online business are immense, when done the right way, or can be very difficult if you are not dedicated. Anyone interested in making money online should carefully consider the steps necessary to do this.
 
@@ -35,6 +41,6 @@ Affiliate programs for instance are a legitimate way to make money online as the
 
 Many of these programs, provide affiliates with resources such as a ready-made website to help affiliates market their products. And all you will have to do is to advertise these products to make money online.
 
-Copyright © David Nettey
+Copyright ï¿½ David Nettey
 
 

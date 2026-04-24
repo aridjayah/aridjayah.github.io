@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money Selling E-books on EBay
 
 Word Count:
@@ -13,13 +19,13 @@ ebooks, e-book, e-books, ebay
 
 
 Article Body:
-Selling informative E-books on eBay could be very rewarding financially. However, many a people have tried to take advantage of this by selling other people’s e-books or some other free e-books and have got into problems. 
+Selling informative E-books on eBay could be very rewarding financially. However, many a people have tried to take advantage of this by selling other peopleï¿½s e-books or some other free e-books and have got into problems. 
 
 Many a people are also of the opinion that e-books should be freely available since many of them are already available for free. This situation has given rise to difficulties in selling e-books; however, this can be overcome easily.
 
 Copyright issues associated with e-books have also been a center of discussion and scandal, as a result of which, eBay has taken some bold and relevant steps and modified its VERO (Verified Rights Owner) policy, making it more stringent. A copy of this can be found at http://pages.ebay.com/help/confidence/ia/protecting_intellectual_property.html.
 
-Instead of getting into all the rigmarole of getting an e-book and trying to circumvent eBay’s VERO policy to suit yourself, it is much easier to create your own information product of e-book. This can bring you better rewards by way of being 
+Instead of getting into all the rigmarole of getting an e-book and trying to circumvent eBayï¿½s VERO policy to suit yourself, it is much easier to create your own information product of e-book. This can bring you better rewards by way of being 
 1.	made for a particular niche
 2.	can have only required information
 3.	can be edited and tailor made as and when needed

@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 To Make Money Online, You Must Commit!
 
 Word Count:
@@ -25,10 +31,10 @@ This is what I call information overload!
 
 Internet Marketers count on this attribute to make their fortunes.  They know that you are looking.  They know that you are impressionable and they know that if their sales letter is strong enough then you are hooked.  Then what happens to you?
 
-You just found the perfect product or idea, one that is guaranteed to give you the financial freedom and the wealth you are so desperately seeking.  You read through the sales page, find your excitement building, order the product or just give your email address and deep down you know that this is “the one”.
+You just found the perfect product or idea, one that is guaranteed to give you the financial freedom and the wealth you are so desperately seeking.  You read through the sales page, find your excitement building, order the product or just give your email address and deep down you know that this is ï¿½the oneï¿½.
 
 You receive the product or e-book, and then what?  This is where it ends for most people.
-Before you even finish reviewing the product, provided that you even start, you move on to your next great idea.  This last “great idea” just sits on your desktop, completely forgotten, collecting virtual dust.
+Before you even finish reviewing the product, provided that you even start, you move on to your next great idea.  This last ï¿½great ideaï¿½ just sits on your desktop, completely forgotten, collecting virtual dust.
 
 Your days of moving on Must Stop Now!
 
@@ -40,7 +46,7 @@ No!  Most people fail because of lack of commitment.
 
 Everybody wants to make money online.  Everybody wants to fire their boss.  Everybody wants to work from home.  Everybody does not have what it takes.  Commitment.
 
-You are told that you can make a fortune by signing up with such and such program.  Pay the small fee, do a few simple steps and watch the money pour in.  Bam you’re rich.
+You are told that you can make a fortune by signing up with such and such program.  Pay the small fee, do a few simple steps and watch the money pour in.  Bam youï¿½re rich.
 
 There is no such thing!
 
@@ -49,7 +55,7 @@ The reward, however, can be great.  You can work from home, you can make more mo
 
 It is time to join among the ranks of the successful Internet marketers.  The fact that you are reading this article shows me that you have what it takes.  Chances are that you already have an idea about what you would like to do.  Research this idea, build upon and most importantly, do it!
 
-When you are presented with other ideas, think about how they can fit in with your current project.  If they don’t, discard them.  If they do, then pick out the useful parts and utilize them, ignore the rest
+When you are presented with other ideas, think about how they can fit in with your current project.  If they donï¿½t, discard them.  If they do, then pick out the useful parts and utilize them, ignore the rest
 
 This article is not to sell you on any program.  I am not trying to pitch the next big thing.  I am trying to have you reach deep inside of yourself and to have you make a decision on what to do.  Stop making everyone else rich on your uncertainty.  Make a commitment and create your own path to financial freedom.
 

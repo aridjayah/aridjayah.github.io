@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Three Inside Strategies To Make Money With Forex Trading
 
 Word Count:
@@ -9,7 +15,7 @@ Making money with Forex but more important is the ability to make wealth.  Check
 
 There are plenty of strategies for working Forex but inside strategies are always the best.  These three inside strategies to make money with Forex Trading will certainly have you on the right track in no time.
 
-1.	Do not use gold as an inflation hedge – Generally gold is a good bet against inflation but prices seem to be di...
+1.	Do not use gold as an inflation hedge ï¿½ Generally gold is a good bet against inflation but prices seem to be di...
 
 
 Keywords:
@@ -21,7 +27,7 @@ Making money with Forex but more important is the ability to make wealth.  Check
 
 There are plenty of strategies for working Forex but inside strategies are always the best.  These three inside strategies to make money with Forex Trading will certainly have you on the right track in no time.
 
-1.	Do not use gold as an inflation hedge – Generally gold is a good bet against inflation but prices seem to be dipping.  Many use gold as a hedge against inflation especially if oil prices are rising because gold usually tracks gold.  However the dipping oil prices also translate to dipping gold.  Of the three inside strategies to make money with Forex Trading this one needs your full attention.
+1.	Do not use gold as an inflation hedge ï¿½ Generally gold is a good bet against inflation but prices seem to be dipping.  Many use gold as a hedge against inflation especially if oil prices are rising because gold usually tracks gold.  However the dipping oil prices also translate to dipping gold.  Of the three inside strategies to make money with Forex Trading this one needs your full attention.
 
 2.	Avoid Emerging Forex Markets
 Currently choosing emergency markets is not a good choice.  There is no question that emerging markets are exciting to add to any Forex strategy just because they are volatile.  Right now bypassing them is a far better choice than getting involved with them.  Many of these markets that are emerging are currently struggling.  These three inside strategies to make money with Forex Trading are just the beginning.
@@ -35,6 +41,6 @@ You might also decide on the Forex Mini trading rather than the standard Forex w
 
 You are just at the beginning of making great gains on your investments using these three inside strategies to make money with Forex Trading.  What will you do with all your profits?
 
-Copyright © 2007 Joel Teo. All rights reserved. (You may publish this article in its entirety with the following author's information with live links only.)
+Copyright ï¿½ 2007 Joel Teo. All rights reserved. (You may publish this article in its entirety with the following author's information with live links only.)
 
 

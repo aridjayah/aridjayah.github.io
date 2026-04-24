@@ -2,7 +2,7 @@
 layout: post
 title:  ""
 author: emma
-categories: [ business, make money, adsense ]
+categories: [ business, make money ]
 image: assets/images/make-money/0.jpg
 ---
 Wholesale Distribution: Make Money With The Best Business in the World!

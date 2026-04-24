@@ -1,11 +1,17 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money With Adsense - Get the Basics Here!
 
 Word Count:
 823
 
 Summary:
-Adsense is considered as one of the most powerful tool in a website publisher’s arsenal. It enables a person to monetize their sites easily. If used properly, it can generate a very large and healthy income for them. However if you are not using them rightly and just maximizing the income you squeeze from it, you are actually leaving a lot of money on the table. Something all people hate doing.
+Adsense is considered as one of the most powerful tool in a website publisherï¿½s arsenal. It enables a person to monetize their sites easily. If used properly, it can generate a very large and healthy income for them. However if you are not using them rightly and just maximizing the income you squeeze from it, you are actually leaving a lot of money on the table. Something all people hate doing.
 
 
 Keywords:
@@ -17,7 +23,7 @@ The more you understand about any subject, the more interesting it becomes. As y
 
 The information about Adsense presented here will do one of two things: either it will reinforce what you know about Adsense or it will teach you something new. Both are good outcomes. 
 
-Adsense is considered as one of the most powerful tool in a website publisher’s arsenal. It enables a person to monetize their sites easily. If used properly, it can generate a very large and healthy income for them. However if you are not using them rightly and just maximizing the income you squeeze from it, you are actually leaving a lot of money on the table. Something all people hate doing. 
+Adsense is considered as one of the most powerful tool in a website publisherï¿½s arsenal. It enables a person to monetize their sites easily. If used properly, it can generate a very large and healthy income for them. However if you are not using them rightly and just maximizing the income you squeeze from it, you are actually leaving a lot of money on the table. Something all people hate doing. 
 
 How you can start earning money with Adsense can be done easily and quickly. You will be amazed at the results you will be getting in such a short period of time.
 
@@ -29,7 +35,7 @@ Keyword search. Find some popular subjects, keywords or phrase. Select the ones 
 
 Writing articles. Start writing original content with keywords from the topics that you have achieved in your search. Take note that search engines are taking pride in the quality of their articles and what you will be writing should keep up with their demands.
 
-Quality content site.  Build a quality content site incorporated with Adsense ads that is targeting the subject and keywords of your articles and websites. This is where all that you’ve done initially will go to and this is also where they will prove their worth to you. 
+Quality content site.  Build a quality content site incorporated with Adsense ads that is targeting the subject and keywords of your articles and websites. This is where all that youï¿½ve done initially will go to and this is also where they will prove their worth to you. 
 
 The proper positioning of your ads should be done with care. Try to position your ads where surfers are most likely to click on them. According to research, the one place that surfers look first when they visit a certain site is the top left. The reason behind this is not known. Maybe it is because some of the most useful search engine results are at the top of all other rankings. So visitors tend to look in that same place when browsing through other sites.
 
@@ -37,7 +43,7 @@ Some of those who are just starting at this business may think they are doing pr
 
 Finally, Adsense has some excellent tracking statistics that allows webmasters and publishers to track their results across a number of site on a site by site, page by page, or any other basis you wanted. You should be aware oft his capability and make the most of it because it is one powerful tool that will help you find out which ads are performing best. This way, you can fine tune your Adsense ads and focus more on the ones being visited the most rather than those who are being ignored.
 
-Another thing you should know. Banners and skyscrapers are dead. Ask the experts. So better forget about banners and skyscrapers. Surfers universally ignore these kinds of ad formats. The reason behind this is that they are recognized as an advert and advert are rarely of any interest that’s why people ignore them. 
+Another thing you should know. Banners and skyscrapers are dead. Ask the experts. So better forget about banners and skyscrapers. Surfers universally ignore these kinds of ad formats. The reason behind this is that they are recognized as an advert and advert are rarely of any interest thatï¿½s why people ignore them. 
 
 To really start making money with Adsense, you should have a definite focus on what you wanted to achieve and how you will go about achieving them. As with any other kind of business ventures, time is needed coupled with patience. 
 

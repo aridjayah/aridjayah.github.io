@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Tips to Make Money from Home with a Turn Key, Automated Home Based Business
 
 Word Count:

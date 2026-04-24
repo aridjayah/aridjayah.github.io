@@ -1,11 +1,17 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How To Make Money From Your Pay Slip
 
 Word Count:
 573
 
 Summary:
-With the prices of basic commodities on the upsurge, it is not enough that people rely on their salaries alone. In fact, if you want to survive in today’s world, you need to use money to make more money.
+With the prices of basic commodities on the upsurge, it is not enough that people rely on their salaries alone. In fact, if you want to survive in todayï¿½s world, you need to use money to make more money.
 
 That is probably the reason why it is the rich that get rich while the middle class stay in the middle and the poor are still in the E class. It takes a lot of money to make money. Without the finances to start a worthwhile investment or a business, you will have to rely f...
 
@@ -15,7 +21,7 @@ business opportunity,how to make money,earn money
 
 
 Article Body:
-With the prices of basic commodities on the upsurge, it is not enough that people rely on their salaries alone. In fact, if you want to survive in today’s world, you need to use money to make more money.
+With the prices of basic commodities on the upsurge, it is not enough that people rely on their salaries alone. In fact, if you want to survive in todayï¿½s world, you need to use money to make more money.
 
 That is probably the reason why it is the rich that get rich while the middle class stay in the middle and the poor are still in the E class. It takes a lot of money to make money. Without the finances to start a worthwhile investment or a business, you will have to rely forever on the good graces of your monthly play slips.
 
@@ -35,8 +41,8 @@ Of course, before you invest your money make sure that you carefully study and i
 
 Get a house loan
 
-A house loan is a good investment because you don’t have to spend so much as opposed to buying a whole new house in cash. You can pay for the house in installments just like when you are paying for the rent of the house. This is actually a good way of killing two birds in one stone. You can already live in the house while still paying for it!
+A house loan is a good investment because you donï¿½t have to spend so much as opposed to buying a whole new house in cash. You can pay for the house in installments just like when you are paying for the rent of the house. This is actually a good way of killing two birds in one stone. You can already live in the house while still paying for it!
 
-If you can, look for offers that has no interests for a couple of years. Often, government housing programs have these kinds of offers. If you can’t find anything like this in the area where you want to live in, look for offers that have low interests or those with fixed interests for a period of time. This is largely better than if you are going to risk it out with fluctuating interests.
+If you can, look for offers that has no interests for a couple of years. Often, government housing programs have these kinds of offers. If you canï¿½t find anything like this in the area where you want to live in, look for offers that have low interests or those with fixed interests for a period of time. This is largely better than if you are going to risk it out with fluctuating interests.
 
 

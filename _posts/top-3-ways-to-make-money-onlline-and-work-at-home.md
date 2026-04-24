@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Top 3 ways to make money onlline and work at home
 
 Word Count:
@@ -15,7 +21,7 @@ make money online, work from home, work at home, make fast money online, affilia
 Article Body:
 Written by: Crystal Collins
 
-Let’s face it; there are thousands and thousands of ideas for making money on the internet and working at home.  Many of these ideas take a lot of time and money to get started.  Do you want to make money online, but want the checks to start rolling in right away?
+Letï¿½s face it; there are thousands and thousands of ideas for making money on the internet and working at home.  Many of these ideas take a lot of time and money to get started.  Do you want to make money online, but want the checks to start rolling in right away?
 
 Below I will talk about the absolute best ways to make fast money online and work from home.  Following are the top 3.
 
@@ -25,7 +31,7 @@ Below I will talk about the absolute best ways to make fast money online and wor
 
 Affiliate programs 
 
-Affiliate programs are the best way to start making money instantly.  Big name companies like, Amazon, Circuit city, Best Buy, Expedia, and many many others are willing to send you checks for promoting their products online.  All you have to do is go to the Commission Junction website www.cj.com and sign up for their associates program.  You will then be given promotion tools in the form of text ads, banner ads ect. to promote the affiliates products.  You then promote their products and earn commission on every sale, or even better, every LEAD !  That means you make money even if someone doesn’t even buy their product!  Visit: www.mymoneymachines.com for more info.
+Affiliate programs are the best way to start making money instantly.  Big name companies like, Amazon, Circuit city, Best Buy, Expedia, and many many others are willing to send you checks for promoting their products online.  All you have to do is go to the Commission Junction website www.cj.com and sign up for their associates program.  You will then be given promotion tools in the form of text ads, banner ads ect. to promote the affiliates products.  You then promote their products and earn commission on every sale, or even better, every LEAD !  That means you make money even if someone doesnï¿½t even buy their product!  Visit: www.mymoneymachines.com for more info.
 
 Google Adsense
 

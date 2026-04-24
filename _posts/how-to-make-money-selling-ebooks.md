@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How To Make Money Selling Ebooks
 
 Word Count:
@@ -23,7 +29,7 @@ If you don't know of anyone who has e-books and an affiliate program that you ca
 
 Once you find e-books that you would like to promote, start promoting them. Here is information to help you promote them:
 
-Create good web marketing copy for the e-books on your web site. It is not enough to list the e-books on your web site and then link to the seller’s web site. The people who come to your web site are not looking for links to other sites; rather, they are looking for useful information for themselves. Having useful information on your web site increases the changes of your web site visitors buying the e-book, and will generate affiliate commissions for you.
+Create good web marketing copy for the e-books on your web site. It is not enough to list the e-books on your web site and then link to the sellerï¿½s web site. The people who come to your web site are not looking for links to other sites; rather, they are looking for useful information for themselves. Having useful information on your web site increases the changes of your web site visitors buying the e-book, and will generate affiliate commissions for you.
 
 Once you have good web site copy, start promoting your web site online and drive traffic to it. One way to do that is by optimizing the site for search engines. Search engine optimization is the process of modifying web page content and meta-information to improve the search engine ranking of the page. Successful search engine optimization will greatly increase the number of visitors that come to your web site. The more visitors to the web site you have, the more affiliate products you will be able to sell, and the more money you will make. Make sure you optimize every page of your web site for search engines, especially the ones that provide the information about the e-books and sell the e-books; that way you will get more web site visitors.
 

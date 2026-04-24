@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How To Make Money Online By Sharing Videos
 
 Word Count:
@@ -29,6 +35,6 @@ Before you get started, you are going to need to open a Google Adsense account. 
 
 The next step, of course, is to start uploading videos. One of the great things about Flixya, is that you don't have to submit original content. You can use any video from sites like YouTube and MySpace. A lot of other sites that pay for videos require that you only submit original content, which makes it difficult to not only submit a large quantity of videos, but to also ensure your videos will be popular. The fact that Flixya allows you to share any video makes it easy to contribute content that will be well liked and get lots of views.
 
-Copyright © 2007 Joel Teo. All rights reserved.
+Copyright ï¿½ 2007 Joel Teo. All rights reserved.
 
 

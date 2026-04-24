@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Do You Want To Make Money Online?
 
 Word Count:
@@ -13,7 +19,7 @@ Make Money, Make Money Online, Home Business, Work at Home, Work From Home, Affi
 
 
 Article Body:
-© Jon Viney, 2006
+ï¿½ Jon Viney, 2006
 
 There are actually many different ways to make money online. Some of them are obviously more lucrative than others, however. Also, there are many scams for supposedly making money online that don't really work, and you end up losing money.
 

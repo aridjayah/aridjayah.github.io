@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Online Investment Advice: How To Make Money From Short Selling
 
 Word Count:
@@ -25,8 +31,8 @@ Once you start short selling, you also have to remember that you can do this onl
 
 Finally, if you are afraid that you may make an unfortunate investment in stocks which increase their value instead of falling, you should make use of stop orders. You will be able to cut your losses short if you are disciplined and use stop orders, which will automatically close your losing positions once they reach certain predetermined acceptable losses.
 
-All in all, if you’re planning to try short selling remember that successful trades do not always win. If you want to become good at this, you must learn to accept that losses are also part of the game and that there are different ways to limit the losses you may experience.
+All in all, if youï¿½re planning to try short selling remember that successful trades do not always win. If you want to become good at this, you must learn to accept that losses are also part of the game and that there are different ways to limit the losses you may experience.
 
-Copyright © 2007 Joel Teo. All rights reserved. (You may publish this article in its entirety with the following author's information with live links only.)
+Copyright ï¿½ 2007 Joel Teo. All rights reserved. (You may publish this article in its entirety with the following author's information with live links only.)
 
 

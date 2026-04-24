@@ -1,11 +1,17 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How To Make Money Using Your Digital Camera
 
 Word Count:
 322
 
 Summary:
-Have you ever wanted to find a way to bring extra money into your household--yet don’t have a lot of time to spend on a full-time endeavor?
+Have you ever wanted to find a way to bring extra money into your household--yet donï¿½t have a lot of time to spend on a full-time endeavor?
 
 
 Keywords:
@@ -13,7 +19,7 @@ digital cameras, digital photos, digital photographs
 
 
 Article Body:
-Have you ever wanted to find a way to bring extra money into your household--yet don’t have a lot of time to spend on a full-time endeavor? 
+Have you ever wanted to find a way to bring extra money into your household--yet donï¿½t have a lot of time to spend on a full-time endeavor? 
  
 The solution is as close as the digital camera sitting there in a drawer. The following suggestions are only a few of the many ways you can make money in your spare time with your camera.
 

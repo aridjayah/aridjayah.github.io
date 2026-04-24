@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Does Money Make Money?
 
 Word Count:
@@ -63,7 +69,7 @@ Make it your goal to...
 
 I do not remember how I got started but after a while I started searching for money earning opportunities on the net. I would sit and search for long hours every day. I would search till my eyes get sore. I was wasting my time but I did not know. Everyday I would search and click new sites. Making money ideas by Victoria, Duvet Dollars. See my Duvet Dollars review here! 
 
-With Google Adwords advertising program, you can make your ad show-up when somebody types in these terms… and you don’t even need your own product. There are thousands of retailers that offer you up to 70% commission for every product you sell. 
+With Google Adwords advertising program, you can make your ad show-up when somebody types in these termsï¿½ and you donï¿½t even need your own product. There are thousands of retailers that offer you up to 70% commission for every product you sell. 
 
 With so many ways to make money online, what is the best way to work from the comfort of your own home without breaking a sweat?
 

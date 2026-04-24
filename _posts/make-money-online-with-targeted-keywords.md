@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money Online With Targeted Keywords
 
 Word Count:
@@ -13,7 +19,7 @@ make money online, targeted keywords, make money with targeted keywords
 
 
 Article Body:
-A keyword is a word or concept with special significance which describes a concept used to organize webpages and objects on the Internet. In today's world, more and more people use the Internet as a tool to get or sell specific product, service or information.  Compared to previous model—directory search, keywords search has specific advantage, convenient, fast and also exact.
+A keyword is a word or concept with special significance which describes a concept used to organize webpages and objects on the Internet. In today's world, more and more people use the Internet as a tool to get or sell specific product, service or information.  Compared to previous modelï¿½directory search, keywords search has specific advantage, convenient, fast and also exact.
 
 The trend is that most of those users use keywords to search. The search engine giant Google holds the half market of keywords search. Meanwhile, PPC (pay per click) campaign has hit the web like a storm. Pay per click campaign attracts much more interest from both advertisers and webmasters. 
 
@@ -31,7 +37,7 @@ Be realistic about targeting highly competitive keywords - you may be better off
 
 For webmasters, your content is always the king but if you can design your website based on top paying keywords, then the targeted Ads have the high value, your website will make more money with these high paying targeted keywords.
 
-Top paying keywords will increase your Google AdSense’s revenue. With the top paying targeted keywords for maximizing GoogleAdsense, you can exactly target your site’s content with the top paying or high paying keywords. It means you use top paying keywords to express your meaning on your website to attract high paying AdWords Ads.
+Top paying keywords will increase your Google AdSenseï¿½s revenue. With the top paying targeted keywords for maximizing GoogleAdsense, you can exactly target your siteï¿½s content with the top paying or high paying keywords. It means you use top paying keywords to express your meaning on your website to attract high paying AdWords Ads.
 
 However, keywords are the same important to users. Whenever users want to search something, the first thing is entering keywords which are relevant to search item. The more the keywords relevant, the easier the item found.
 

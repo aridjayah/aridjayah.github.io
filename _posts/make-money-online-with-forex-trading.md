@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money Online With Forex Trading
 
 Word Count:
@@ -19,6 +25,6 @@ A smart Forex trader never bets more than he can afford to lose. Because of the 
 
 By learning everything you can about Forex trading, you will be able to make money online with this knowledge. Do your research and understand the risks involved, and learn about the market indicators and trends. The more you learn, the more informed your decisions will be. This could help protect you against losing your investment. Talk to a Forex broker, even if you do not use their services, to get some basic ideas of the strategies they use to protect against losses. Learn about what global conditions will affect the market, and what these effects will have on your investments.
 
-Copyright © 2007 Joel Teo. All rights reserved.
+Copyright ï¿½ 2007 Joel Teo. All rights reserved.
 
 

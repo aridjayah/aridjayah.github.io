@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Is It Possible To Make Money Without Having To Work For It?
 
 Word Count:
@@ -17,12 +23,12 @@ make money
 Article Body:
 The quick answer is that sure it is possible to make money without working. But then we have to slow down because that sounds too good to be true. So what is wrong with an answer to this question in the affirmative? Well it is true that people make money all the time without working, but then you have to define work.
 
-If work is something you loathe and you do only because you have to in order to make a living well then there are a lot of people who love their jobs and therefore are making money without “working”—and I’m not even talking about all the people who make money playing sports or gambling. I am simply referring to people that love what they do and think that it is crazy that they can make so much money doing that. (This by the way is such a huge blessing, and something worth being patient and making the right decisions for isn’t it?).
+If work is something you loathe and you do only because you have to in order to make a living well then there are a lot of people who love their jobs and therefore are making money without ï¿½workingï¿½ï¿½and Iï¿½m not even talking about all the people who make money playing sports or gambling. I am simply referring to people that love what they do and think that it is crazy that they can make so much money doing that. (This by the way is such a huge blessing, and something worth being patient and making the right decisions for isnï¿½t it?).
 
-Yes, there are people who don’t actually do anything and make money. These are the people who come by their money with a stroke of major luck. That is the lottery winners, and those who made some “fantastic” decision to invest in a company like apple or google before they got big, or even the people who just happened to be born into money. These people did nothing and yet are fabulously wealthy.
+Yes, there are people who donï¿½t actually do anything and make money. These are the people who come by their money with a stroke of major luck. That is the lottery winners, and those who made some ï¿½fantasticï¿½ decision to invest in a company like apple or google before they got big, or even the people who just happened to be born into money. These people did nothing and yet are fabulously wealthy.
 
-But there is another problem with an answer to the affirmative considering the title question—is it possible to make money without working? The problem is that it is asking more than just about working but rather about it costing anything. Maybe more correctly asking “is making money for free possible?” The answer to this question is decidedly NO! Anyone knows that having lots of money has tremendous and often unforeseen costs.
+But there is another problem with an answer to the affirmative considering the title questionï¿½is it possible to make money without working? The problem is that it is asking more than just about working but rather about it costing anything. Maybe more correctly asking ï¿½is making money for free possible?ï¿½ The answer to this question is decidedly NO! Anyone knows that having lots of money has tremendous and often unforeseen costs.
 
-This “cost” may be more apparent to the person who goes from the relative anonymity of normalcy, such as a school teacher who wins the lottery. This person formerly was able to go home at night and relax. They could go places and blend in and do what they needed to do without interruption. They were not constantly bombarded with solicitation. Now that they are rich beyond their dreams they never have a dull moment. Their lives are not peaceful or simple any longer, and they wonder if having all that money is worth the hassle. These people might say that “no, it is not possible to make money without working.” So before you spend your whole life trying to prove the question, consider that the “costs” just might come after the fact rather than before.
+This ï¿½costï¿½ may be more apparent to the person who goes from the relative anonymity of normalcy, such as a school teacher who wins the lottery. This person formerly was able to go home at night and relax. They could go places and blend in and do what they needed to do without interruption. They were not constantly bombarded with solicitation. Now that they are rich beyond their dreams they never have a dull moment. Their lives are not peaceful or simple any longer, and they wonder if having all that money is worth the hassle. These people might say that ï¿½no, it is not possible to make money without working.ï¿½ So before you spend your whole life trying to prove the question, consider that the ï¿½costsï¿½ just might come after the fact rather than before.
 
 

@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money Fast - Become a Magician in Sales
 
 Word Count:
@@ -17,7 +23,7 @@ There are ancient teachings for increasing wealth that few people will ever know
 
 Perhaps you feel like giving up your quest to make large sums of money and live the life you want.  Do you know something?  It does not matter if you are sell a packet of gum to an island of chimpanzees or if you are selling a product for $997 you can become rich and attract money faster to you by doing things in a certain way.
 
-One of the greatest secrets to attracting money fast is to place a large amount of power behind the intention.  Few people know how to do that and even fewer will use it even if they were told.  You see it’s quite easy, magical and powerful and most people like complicated and confusing.
+One of the greatest secrets to attracting money fast is to place a large amount of power behind the intention.  Few people know how to do that and even fewer will use it even if they were told.  You see itï¿½s quite easy, magical and powerful and most people like complicated and confusing.
 
 If affirmations and visualization is not backed by a super natural power it is a hit or miss.  You can yield some of that power by starting to free up your time.
 

@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How To Make Money With An Investment Property Company
 
 Word Count:
@@ -33,9 +39,9 @@ Investors are usually more likely to find ways of reducing the taxation bills. O
 
 Many investments carry significant risk that the investor will lose some or all of the invested capital. For example, investments in company stock shares put capital at risk.
 
-A stock share is partial ownership of a company, and the value of the stock depends on many factors, including the likelihood that the company will pay a dividend (a distribution of profit to shareholders). When stock shares are first offered for sale, the company receives the capital from the stock purchaser and uses the capital to operate its business. Once stock shares are sold to investors, the investors can sell the shares to other investors. Publicly-traded companies’ stock shares are bought and sold (traded) on the stock markets.
+A stock share is partial ownership of a company, and the value of the stock depends on many factors, including the likelihood that the company will pay a dividend (a distribution of profit to shareholders). When stock shares are first offered for sale, the company receives the capital from the stock purchaser and uses the capital to operate its business. Once stock shares are sold to investors, the investors can sell the shares to other investors. Publicly-traded companiesï¿½ stock shares are bought and sold (traded) on the stock markets.
 
-The value of a stock share depends on what someone is willing to pay for it at a certain point in time. Unlike capital invested in a savings account, the capital value (price) of a stock share constantly changes. If the price is relatively stable, the stock is said to have “low volatility.” If the price often changes a great deal, the stock has “high volatility.” All stock shares have some volatility, and the change in price directly effects ROI for stock investments.
+The value of a stock share depends on what someone is willing to pay for it at a certain point in time. Unlike capital invested in a savings account, the capital value (price) of a stock share constantly changes. If the price is relatively stable, the stock is said to have ï¿½low volatility.ï¿½ If the price often changes a great deal, the stock has ï¿½high volatility.ï¿½ All stock shares have some volatility, and the change in price directly effects ROI for stock investments.
 
 4. Saving money through things like strategies and inside secrets
 

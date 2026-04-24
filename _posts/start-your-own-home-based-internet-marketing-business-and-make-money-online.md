@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Start Your Own Home Based Internet Marketing Business and Make Money Online
 
 Word Count:
@@ -21,11 +27,11 @@ You need a level of commitment and due diligence to be cut out for home based in
 
 Business planning itself is a separate subject. It's not easy to make money online without a plan. If you want to turn that interest into a business, you should plan it and work it like a business to survive the transition.  Changes come faster and faster with each new technology, innovation or social connection.  Invest some of your time in participating in free and paid forums for discussion, groups of topic-specific memberships and the likes to keep track of the latest news and breakthroughs in internet marketing.  Becoming skilled and knowledgeable in home based internet marketing business means committing yourself to continuous learning and adjustment. Here are a few internet business start up ideas you must learn in starting an internet business:
 
-• Most people use the Internet to get information, not spend money.
-• People who do want to spend money online know what they want in specific detail.
-• Customers can be very self-centered - if you don't have what they want, they're gone in split-second. If they bought from you and are not satisfied, they'll want an instant refund.
-• If your online impression doesn't seem reliable, practically nobody will trust you with his or her money.
-• Every business, online or offline, has problems and challenges. You need patience, will power and persistence to follow such a path and not quit.
+ï¿½ Most people use the Internet to get information, not spend money.
+ï¿½ People who do want to spend money online know what they want in specific detail.
+ï¿½ Customers can be very self-centered - if you don't have what they want, they're gone in split-second. If they bought from you and are not satisfied, they'll want an instant refund.
+ï¿½ If your online impression doesn't seem reliable, practically nobody will trust you with his or her money.
+ï¿½ Every business, online or offline, has problems and challenges. You need patience, will power and persistence to follow such a path and not quit.
 
 If you think you have what it takes to tackle such challenges in starting an internet business, with passion and commitment, you'll be on your way on making money and success online while working at home!
 

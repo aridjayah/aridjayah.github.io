@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Tips And Motivational Strategies To Make Money In Affiliate Marketing
 
 Word Count:
@@ -29,7 +35,7 @@ Be Confident:
 
 Confidence plays a major role in the success of your business. You have to believe in yourself and in whatever you have decided to do.
 
-“Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy”
+ï¿½Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happyï¿½
 Norman Vincent Peale
 
 Do Hard Work:
@@ -38,7 +44,7 @@ Unless you put in a lot of hard work you can never dream of success in any busin
 
 Be Committed and Dedicated:
 
-”Unless commitment is made, there are only promises and hopes... but no plans.” --Peter F. Drucker
+ï¿½Unless commitment is made, there are only promises and hopes... but no plans.ï¿½ --Peter F. Drucker
 Success comes only to those who are completely committed to whatever tasks they have undertaken to do. In affiliate marketing too working with commitment , dedication and self motivation will ultimately bring you the rewards you are longing for.
 
 Be Willing to Learn:

@@ -1,24 +1,10 @@
-Title: 
-Can You Really Make Money With A Home Business
-
-Word Count:
-512
-
-Summary:
-Would you like to earn an income by starting your own business from home? 
-
-Many people decide that they like the thought of working from home for a lot of different reasons.
-
-These reasons can include wanting to spend more time at home with their families, needing an extra source of income, or just simply disliking their current job. 
-
-A work from home business is a great chance to earn money and be your own boss. There are many opportunities available to internet mark...
-
-
-Keywords:
-home business,internet marketing,make money online
-
-
-Article Body:
+---
+layout: post
+title:  "Can You Really Make Money With A Home Business"
+author: admin
+categories: [ business, make money, internet, marketing ]
+image: assets/images/make-money/101.jpg
+---
 Would you like to earn an income by starting your own business from home? 
 
 Many people decide that they like the thought of working from home for a lot of different reasons.

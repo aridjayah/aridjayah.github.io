@@ -1,5 +1,10 @@
-﻿Can You Make Money as a Beauty Salon Owner?
-
+﻿---
+layout: post
+title:  "Can You Make Money as a Beauty Salon Owner?"
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/89.jpg
+---
 Are you interested in perusing a career that is focused on beauty and fashion?  If you are, have you started to examine your career options yet?  If you haven’t, you will soon find that you have a number of different options.  One of those options is to start your own beauty salon business. 
 
 When it comes to owning and operating a beauty salon, there are many hopeful owners who wonder if it is really possible to do.  Of course, starting any business can be a stressful and trying time, but it is more than possible for you to develop and run your own profitable beauty salon.  If you would like to learn more about how you can go about doing so, should you wish to do so, you will want to continue reading on.
@@ -11,7 +16,3 @@ Another factor that you may want to take into consideration is your beauty and f
 Startup costs are another factor that should be taken into consideration, when trying to determine if you can make a living running your own beauty salon.  Most businesses have startup costs, but it can be kind of expensive to get a beauty salon up and running.  In addition to building space, you will also need to purchase other fixtures and supplies.  There is a good chance that you will need a receptionist’s desk, hair care stations, nail care products, and possibly even tanning beds. These pieces of equipment can get fairly costly, but is there financing assistance out there for you, should you need it.
 
 As a reminder, running your own beauty salon is just one of the many careers that you can have that is focused on beauty, in one way or another.  However, if you have your heart set on running a beauty salon, it should be more than possible for you to do so.  Before you get started though, it is important that you take the time to familiarize yourself with all local, state, and federal laws concerning small businesses.
-
-PPPPP
-
-Word Count 563

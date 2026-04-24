@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money And Avoid Scams
 
 Word Count:
@@ -47,7 +53,7 @@ People like myself have spent years getting burned on online opportunities and h
 
 Let the mistakes of others save you money.
 
-4. Start slow and don’t panic.
+4. Start slow and donï¿½t panic.
 
 Starting a new online job can be a bit scary. Even when you join you may feel lost or unsure if this is for you. You must give it a chance!
 
@@ -55,9 +61,9 @@ There is a learning curve with anything in life, and it may take some time for y
 
 5. Work it for real.
 
-When you decide to take an online job or join an online opportunity, treat it as a real, offline business. Since it’s online and usually done from home, many people don’t treat it like a real offline job.
+When you decide to take an online job or join an online opportunity, treat it as a real, offline business. Since itï¿½s online and usually done from home, many people donï¿½t treat it like a real offline job.
 
-To succeed, you must treat your new online job like a real online job. Don’t slack off. Set a schedule. Remember, you only get back what you put it.
+To succeed, you must treat your new online job like a real online job. Donï¿½t slack off. Set a schedule. Remember, you only get back what you put it.
 
 Put as much into your new online job as possible, and it will reward you.
 

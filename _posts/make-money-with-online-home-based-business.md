@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money With Online Home Based Business
 
 Word Count:
@@ -29,7 +35,7 @@ For example, if you have extra things in your home that you consider as junk, th
 
 If you have a talent for writing, you can be a freelance web content writer. Through this kind of home based business, you will be able to make money by writing articles about a particular product. Plus, you can also make use of your article writing skills for affiliate marketing. 
 
-The great thing about affiliate marketing is that you don’t actually have to do anything at all. All you need is a website that has been optimized for search engines and a specific topic. Then you need to affiliate with a company that is offering products related to the topic of your website. With every product sold that has been referred to by your website, you will be able to earn a small commission. Although the commission is quite small, you have to remember that there are millions of people surfing the internet everyday. This means that you will never run out of potential customers interested on the product your affiliate is trying to sell.
+The great thing about affiliate marketing is that you donï¿½t actually have to do anything at all. All you need is a website that has been optimized for search engines and a specific topic. Then you need to affiliate with a company that is offering products related to the topic of your website. With every product sold that has been referred to by your website, you will be able to earn a small commission. Although the commission is quite small, you have to remember that there are millions of people surfing the internet everyday. This means that you will never run out of potential customers interested on the product your affiliate is trying to sell.
 
 If you love to manufacture wood crafts or you like making T-shirt designs, you can advertise your services in the internet. This can be a very lucrative business provided that you provide high quality products that people will surely love.
 

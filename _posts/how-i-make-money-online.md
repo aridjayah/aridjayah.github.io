@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How I Make Money Online
 
 Word Count:
@@ -19,7 +25,7 @@ Nothing beats the excitement you feel when you first start to make money online.
 
 My motivation has always been simple. I want the freedom to live life on my own terms.To be able to do what I want when I feel like it. I want to feel the security of having a regular income. And, finally I want the spending power to be able to buy what I want and go where I want. Not much to ask. 
 
-I now know that I went by the long route when I set out to learn how to make money online. I wasted an enromous amount of time, energy and money on learning things I didn’t need to know and doing things that are a complete waste of time. 
+I now know that I went by the long route when I set out to learn how to make money online. I wasted an enromous amount of time, energy and money on learning things I didnï¿½t need to know and doing things that are a complete waste of time. 
 
 The most annoying thing of all was that the know-it-alls who are reaping the amazing rewards of their success are so poor at showing others how they do it. However, they are very good at charging a lot for their information and then making it hard to understand what they mean. So I made up my mind early on that I would never charge for any information that I pass on to others about how to make money online. 
 
@@ -33,12 +39,12 @@ Third, build a really simple, one page web site. Your site only needs to offer a
 
 Fourth, drive traffic to that web site. 
 
-Imagine my excitement when, by simply applying this formula, I started receiving e-mails saying: “Congratulations, you just made a sale!” 
+Imagine my excitement when, by simply applying this formula, I started receiving e-mails saying: ï¿½Congratulations, you just made a sale!ï¿½ 
 
 The excitement grew when I went to my online bank account and saw the money sitting there, right under my name. 
 
-And the excitement reached fever pitch when the ‘congratulations’ e-mails started coming in ever-increasing numbers. 
+And the excitement reached fever pitch when the ï¿½congratulationsï¿½ e-mails started coming in ever-increasing numbers. 
 
-My advice is simple; don’t wait, use the simple formula I’ve outlined above to build yourself a web site today. Let me show you how. I promise that you will feel massively uplifted when you too start to make money online.
+My advice is simple; donï¿½t wait, use the simple formula Iï¿½ve outlined above to build yourself a web site today. Let me show you how. I promise that you will feel massively uplifted when you too start to make money online.
 
 

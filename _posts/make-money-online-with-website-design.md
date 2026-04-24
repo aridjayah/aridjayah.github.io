@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money Online With Website Design
 
 Word Count:
@@ -23,6 +29,6 @@ Whenever you freelance website design, always make sure that you use an escrow a
 
 To make money online with website design, honestly evaluate the skills you have and then find a market for them. This can be done by joining a freelance program or through marketing and advertising. Always make the buyer use escrow, as this feature protects both of you. Then get to work and start making money online with website design.
 
-Copyright © 2007 Joel Teo. All rights reserved. (You may publish this article in its entirety with the following author's information with live links only.)
+Copyright ï¿½ 2007 Joel Teo. All rights reserved. (You may publish this article in its entirety with the following author's information with live links only.)
 
 

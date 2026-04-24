@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money - Work At Home - Forget The Rat Race
 
 Word Count:
@@ -31,7 +37,7 @@ Small business owners the world over often feel like they are in a prison cell u
 
 Many entrepreneurs waste a couple of hours a day traveling to and from their business premises stuck in traffic jams, looking for parking and getting angry and irritated at the same time. They face high fuel bills, traffic fumes, police with speed cameras, traffic wardens and end up eating unhealthy food bought at an exorbitant price at fast food outlets!
 
-Somebody working from home might be limiting their chances of becoming fabulously wealthy but with lower overheads, less time spent stuck in traffic jams, more quality time with the family and total freedom to work the hours they choose… who needs all that money anyway?
+Somebody working from home might be limiting their chances of becoming fabulously wealthy but with lower overheads, less time spent stuck in traffic jams, more quality time with the family and total freedom to work the hours they chooseï¿½ who needs all that money anyway?
 
 It is a foolish person indeed who does not seriously evaluate how they too could possibly escape the rat race! I guess this statement is slightly unfair because there are many people who enjoy running their business and would never dream of working from home but for many who are unhappy with their current lifestyle it is a choice that they should not overlook.
 

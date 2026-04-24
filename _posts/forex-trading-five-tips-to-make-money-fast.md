@@ -1,11 +1,17 @@
-Title: 
-Forex Trading – Five Tips to Make Money Fast!
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
+Forex Trading ï¿½ Five Tips to Make Money Fast!
 
 Word Count:
 584
 
 Summary:
-This article is all about FOREX trading to make you rich - and we’re going to give some alternatives to conventional investment wisdom. 
+This article is all about FOREX trading to make you rich - and weï¿½re going to give some alternatives to conventional investment wisdom. 
 
 Why? - Because most traders in FOREX follow the norm and make average gains - while this article is about making spectacular gains from FOREX Trading and making money fast!
 
@@ -15,7 +21,7 @@ forex trading
 
 
 Article Body:
-This article is all about FOREX trading to make you rich - and we’re going to give some alternatives to conventional investment wisdom. Why? - Because most traders in FOREX follow the norm and make average gains - while this article is about making spectacular gains from FOREX Trading and making money fast!
+This article is all about FOREX trading to make you rich - and weï¿½re going to give some alternatives to conventional investment wisdom. Why? - Because most traders in FOREX follow the norm and make average gains - while this article is about making spectacular gains from FOREX Trading and making money fast!
 
 The Aim
 
@@ -29,11 +35,11 @@ FOREX trading offers the opportunity to make money fast - so lets see how it can
 
 All good FOREX trading systems incorporate volatility.
 
-You can't have a profitable FOREX trading method without taking calculated risks, and taking losses - if you can’t accept risk, then don’t trade.
+You can't have a profitable FOREX trading method without taking calculated risks, and taking losses - if you canï¿½t accept risk, then donï¿½t trade.
 
-Many traders back away from a market because it’s too risky - however, risk also means reward! If you are a trader who doesn’t like volatility, then go and find something else to do.
+Many traders back away from a market because itï¿½s too risky - however, risk also means reward! If you are a trader who doesnï¿½t like volatility, then go and find something else to do.
 
-Drawdowns are part of trading; it’s volatile markets that make FOREX trading fun and highly profitable.
+Drawdowns are part of trading; itï¿½s volatile markets that make FOREX trading fun and highly profitable.
 
 To the well-informed FOREX trader, a drawdown is not something to fear, but something to enjoy.
 
@@ -47,9 +53,9 @@ The big moves in FOREX trading, with the best risk to reward, come a few times a
 
 Focus on the trades that make the really big gains
 
-3. Don’t Diversify
+3. Donï¿½t Diversify
 
-Diversification is an accepted wisdom, believed by most investors in Forex trading, but it won’t make you money fast, - it will do the exact opposite.
+Diversification is an accepted wisdom, believed by most investors in Forex trading, but it wonï¿½t make you money fast, - it will do the exact opposite.
 
 4. Money Management
 
@@ -63,9 +69,9 @@ If you are taking risk, you need to control it - risk as much as 10% per trade, 
 
 Many traders lose, not because they were wrong in market direction - they just were stopped out by a volatile counter move - and options will give you staying power.
 
-2. Many traders start trailing their stops to close, they then get stopped out – but the trade runs on to make spectacular gains. Don’t fall into this trap - keep your stop in its original position - until the move is well in profit, before moving it up.
+2. Many traders start trailing their stops to close, they then get stopped out ï¿½ but the trade runs on to make spectacular gains. Donï¿½t fall into this trap - keep your stop in its original position - until the move is well in profit, before moving it up.
 
-You’re looking to make money fast, and you’re trading selectively - so have the guts to go for a trade when it looks good - and milk it for all it’s worth.
+Youï¿½re looking to make money fast, and youï¿½re trading selectively - so have the guts to go for a trade when it looks good - and milk it for all itï¿½s worth.
 
 5. Understand the Power of Compound Growth
 

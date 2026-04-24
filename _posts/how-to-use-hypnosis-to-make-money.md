@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How To Use Hypnosis To Make Money
 
 Word Count:
@@ -7,7 +13,7 @@ Word Count:
 Summary:
 If you are interested in alternative therapies and have a website, there is a great way to increase your income on the internet.
 
-Using Clickbank I have set up an account through which I promote my Hypnotherapy scripts, Hypnosis MP3’s and NLP and Hypnosis e-books. As a qualified and accredited trainer of both Hypnosis and NLP, I only feature worthwhile, well written material on the People Building website.
+Using Clickbank I have set up an account through which I promote my Hypnotherapy scripts, Hypnosis MP3ï¿½s and NLP and Hypnosis e-books. As a qualified and accredited trainer of both Hypnosis and NLP, I only feature worthwhile, well written material on the People Building website.
 
 The page which feature the Hypnosis scripts on our website, is at...
 
@@ -19,11 +25,11 @@ free Hypnosis scripts, free hypnotherapy scripts, Hypnosis scripts
 Article Body:
 If you are interested in alternative therapies and have a website, there is a great way to increase your income on the internet.
 
-Using Clickbank I have set up an account through which I promote my Hypnotherapy scripts, Hypnosis MP3’s and NLP and Hypnosis e-books. As a qualified and accredited trainer of both Hypnosis and NLP, I only feature worthwhile, well written material on the People Building website.
+Using Clickbank I have set up an account through which I promote my Hypnotherapy scripts, Hypnosis MP3ï¿½s and NLP and Hypnosis e-books. As a qualified and accredited trainer of both Hypnosis and NLP, I only feature worthwhile, well written material on the People Building website.
 
 The page which feature the Hypnosis scripts on our website, is at the time of writing this article, the page which is viewed most on our website. Along with the traffic that arrives to this page are buyers of the scripts on the page. This means that writing and selling scripts has become a source of income in itself.
 
-Of course, I’m always looking for new and worthwhile ways to promote the scripts so that people have even more opportunities to buy them. When I found out about the success other people have had as a result of internet marketing, I decided to sign up for a click bank account. This was a relatively simple and fast process. You do not have to pay to sell other peoples stuff, but if you want clickbank to sell your products, you have to pay a one off fee.
+Of course, Iï¿½m always looking for new and worthwhile ways to promote the scripts so that people have even more opportunities to buy them. When I found out about the success other people have had as a result of internet marketing, I decided to sign up for a click bank account. This was a relatively simple and fast process. You do not have to pay to sell other peoples stuff, but if you want clickbank to sell your products, you have to pay a one off fee.
 
 Now, I am inviting you to make extra income as a result of the success of our hypnosis products. All you have to do is open a clickbank account and become an affiliate to us. That means you will promote our products on your website and earn a whopping 40% commission on the products you sell. Of course, the temptation is to sell the most expensive products (currently $120.00) to earn the most commission, however, it would be true to say that often our cheaper product sell on a more consistent basis. Things like the Stop Smoking scripts, fear of flying scripts and nail biting scripts are all very popular.
 

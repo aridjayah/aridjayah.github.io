@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Discover How to Make Money Online Creating Your Own Niche Web Site.
 
 Word Count:

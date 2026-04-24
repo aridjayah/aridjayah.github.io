@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money With Online Stores
 
 Word Count:
@@ -23,6 +29,6 @@ The most important part of making money with online stores is generating enough 
 
 Offering too many items at first is a common mistake many people make when they open an online store for the first time. Find a niche or specialty that works for you and build your website and online store around it. Fill your site with SEO keyword rich content to get a higher ranking on the search engines, as the more content there is the higher your ranking will be. Add links from this site to your niche online store, and you will get a lot more traffic, which means a lot more sales. Do not use generic keywords, as new stores will not get anywhere near the top ten search results. Avoiding these mistakes will help you make money with your online store.
 
-Copyright © 2007 Joel Teo. All rights reserved. (You may publish this article in its entirety with the following author's information with live links only.)
+Copyright ï¿½ 2007 Joel Teo. All rights reserved. (You may publish this article in its entirety with the following author's information with live links only.)
 
 

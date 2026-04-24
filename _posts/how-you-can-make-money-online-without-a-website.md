@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How You Can Make Money Online Without A Website
 
 Word Count:
@@ -7,7 +13,7 @@ Word Count:
 Summary:
 In the past, those who wanted to make money online needed a website, marketing know-how and goods or products to sell. There is a new wave of making money on the web simply by selling not what you have, but what you know.
 
-You don’t have to be a genius in marketing or even a web designer, you can make money with information you have.
+You donï¿½t have to be a genius in marketing or even a web designer, you can make money with information you have.
 
 Help Others Find Job Opportunities
 
@@ -21,7 +27,7 @@ Make money online, make money, money online, money
 Article Body:
 In the past, those who wanted to make money online needed a website, marketing know-how and goods or products to sell. There is a new wave of making money on the web simply by selling not what you have, but what you know.
 
-You don’t have to be a genius in marketing or even a web designer, you can make money with information you have.
+You donï¿½t have to be a genius in marketing or even a web designer, you can make money with information you have.
 
 Help Others Find Job Opportunities
 
@@ -31,7 +37,7 @@ When you present a client to an employer and that candidate is hired for the job
 
 Connect Buyers to Suppliers
 
-A common business practice has long been receiving fees for referrals. There has not been much activity in this area to make money online, because thus far there hasn’t been a way to accurately track them. There is a company that can provide you with the means to do just that. Vendors that are willing to make deals using a set referral fee they pay, and when the deal comes through, you can receive as much as 70 percent of that fee. This is a great way for one to make money online.
+A common business practice has long been receiving fees for referrals. There has not been much activity in this area to make money online, because thus far there hasnï¿½t been a way to accurately track them. There is a company that can provide you with the means to do just that. Vendors that are willing to make deals using a set referral fee they pay, and when the deal comes through, you can receive as much as 70 percent of that fee. This is a great way for one to make money online.
 
 You Can Provide Contact Information for Businesses
 

@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money At Home And Give Your Family The Best
 
 Word Count:
@@ -35,7 +41,7 @@ To make money at home through a home based business, you would have to have a cl
 
 You could take to marketing and advertising online, ecommerce business, buying and selling, doing online work, doing a travel related business and assist in relocating clients to your city, Other options are medical transcription, web designing, and many other IT solutions with which you could assist your clients and this will get you to make money at home.
 
-Another profitable and interesting business is to manage events and make all the arrangements for such events. This can also be done from your home office. You would need the contacts to source all the things you need for the event and organize it from your home base. The contacts that you would need are caterers, florists, some music providers, photographers, maybe car rental services. If it is for a children’s party then you would have to have someone to organize games, magic shows, a clown and other interests that kids have. What would be a big event to organize would be a wedding where you would have to start from the printing of the wedding invitations and help the bride and groom in choosing the dress designers, their accessories, and all that goes in a wedding.
+Another profitable and interesting business is to manage events and make all the arrangements for such events. This can also be done from your home office. You would need the contacts to source all the things you need for the event and organize it from your home base. The contacts that you would need are caterers, florists, some music providers, photographers, maybe car rental services. If it is for a childrenï¿½s party then you would have to have someone to organize games, magic shows, a clown and other interests that kids have. What would be a big event to organize would be a wedding where you would have to start from the printing of the wedding invitations and help the bride and groom in choosing the dress designers, their accessories, and all that goes in a wedding.
 
 Your telephone book and email contacts are the only paraphernalia that you would have to have on hand, everything else you would have to just delegate to the various service providers.
 

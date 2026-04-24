@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How To Work From Home And Make Money Online
 
 Word Count:
@@ -23,7 +29,7 @@ Question#5:  Who are the EXPERTS in the world of online marketing?
 
 Do your due diligence regarding the many options available in the world of home based businesses and making money online.  You want your home based business to be as successful as possible so I suggest choosing to market a product you really are passionate about.  Do you like sports?, Travel?, Money?, Cars?, Boats?
 
-Working from home and making money online will allow you to market your products to the entire world.  Think about the reach you will have, it’s incredible!  Time zones, age, education level, hours of operation;  the internet does not discriminate when it comes to making money online.
+Working from home and making money online will allow you to market your products to the entire world.  Think about the reach you will have, itï¿½s incredible!  Time zones, age, education level, hours of operation;  the internet does not discriminate when it comes to making money online.
 
 The start-up costs of your new home-based business will include initial product purchase, online advertising and marketing budgets, Web site hosting fees, telephone bills, software, hardware, educational materials, office products, Domain name, merchant account fees, etc.  The good news is having a home based business affords you many tax benefits so get with your accountant regarding these perks!
 

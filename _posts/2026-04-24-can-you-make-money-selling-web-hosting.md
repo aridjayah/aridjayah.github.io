@@ -1,18 +1,10 @@
-Title: 
-Can You Make Money Selling Web Hosting?
-
-Word Count:
-921
-
-Summary:
-There is a new fad in the web hosting market. Reseller hosting. In this article I will show you what exactly is reseller hosting and how can you get started.
-
-
-Keywords:
-reseller, web, hosting
-
-
-Article Body:
+---
+layout: post
+title:  "Can You Make Money Selling Web Hosting?"
+author: admin
+categories: [ business, make money, reseller, web, hosting ]
+image: assets/images/make-money/98.jpg
+---
 There is a new fad in the web hosting market. Reseller hosting. Where individuals like you and I can become web hosts (sell web hosting) without having to buy all the infrastructure and do-hickeys that go along with setting up such a business. 
 
 Becoming a web hosting reseller for a web hosting company is becoming a very profitable past time for a lot of Internet marketers. Being able to earn a monthly on going income selling a service every webmaster needs with out huge setup costs is a hard business model to ignore.
@@ -29,7 +21,7 @@ There is more to it but you can find out more about a web hosting companies rese
 
 So how can you make money selling web hosting? Here are my favorite methods.
 
-#1 - Create And Sell Businesses On Ebay
+## 1 - Create And Sell Businesses On Ebay
 
 This is my favorite method of generating sales for my web hosting services. In a nut shell, what I do is I create turnkey businesses (businesses built just to be resold to other people) on Ebay and charge people a flat monthly fee to host the site they just brought on my web hosting service.
 
@@ -41,7 +33,7 @@ You could easily sell 100 small websites a week on Ebay. On average, you could s
 
 You get paid every month whether or not you actually even work. 
 
-#2 - Become A Dedicated Hosting Service Just For Blogs
+## 2 - Become A Dedicated Hosting Service Just For Blogs
 
 Blogging is hot right now. Very hot. There are an estimated 40,000 new blogs started every day. EVERY DAY. Can you imagine that? Sure, most of them are hosted for free, but there are a lot of blogs and bloggers who want the control of having a domain name and their own web hosting for their blogs.
 
@@ -62,5 +54,3 @@ The way to really make an impact with this type of service is to offer something
 There are many ways to make money reselling hosting, and as you can tell, it is quite the lucrative business model.
 
 To your success.
-
-

@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Intro 101:  Make Money Taking Great Photographs
 
 Word Count:
@@ -45,6 +51,6 @@ You could use some more unconventional methods to generate cash with your camera
 
 There are all kinds of other markets you can consider selling your photo's to. Online magazines, print magazines, newspapers, travel brochures and books all need photos. Keep your eye's open for any publications that appeal to your niche. 
 
-All that’s left to do it grab your camera and start shooting!
+All thatï¿½s left to do it grab your camera and start shooting!
 
 

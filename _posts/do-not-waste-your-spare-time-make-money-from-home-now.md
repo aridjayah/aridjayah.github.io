@@ -1,11 +1,17 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Do Not Waste Your Spare Time - Make Money From Home Now
 
 Word Count:
 562
 
 Summary:
-Everyone has some spare time or the other and can put it to good use. The best of course would be to make money from home. A little extra money is always welcome, so why don’t you think about the options that are available to do this.
+Everyone has some spare time or the other and can put it to good use. The best of course would be to make money from home. A little extra money is always welcome, so why donï¿½t you think about the options that are available to do this.
 
 You have the afternoons free to your self
 
@@ -17,13 +23,13 @@ Make money from home, make money
 
 
 Article Body:
-Everyone has some spare time or the other and can put it to good use. The best of course would be to make money from home. A little extra money is always welcome, so why don’t you think about the options that are available to do this.
+Everyone has some spare time or the other and can put it to good use. The best of course would be to make money from home. A little extra money is always welcome, so why donï¿½t you think about the options that are available to do this.
 
 You have the afternoons free to your self
 
 You have been napping every afternoon and want to give up this habit, but need some motivation to do so. Surely the thought to make money from home is exciting enough to drive that sleep pattern out of the window. Yes you could very well use this free time of yours constructively.
 
-Your next door neighbor is looking for someone to leave her baby with so that she could go out for some classes that she would like to attend in the afternoon. Why don’t you help her and also another few neighbors in this way so that they are free to do what they have been wanting to, and you could use this to make money from home? You could charge them by the hour and take care of these kids. Before your realize it you have started your own day care centre and can make money from home.
+Your next door neighbor is looking for someone to leave her baby with so that she could go out for some classes that she would like to attend in the afternoon. Why donï¿½t you help her and also another few neighbors in this way so that they are free to do what they have been wanting to, and you could use this to make money from home? You could charge them by the hour and take care of these kids. Before your realize it you have started your own day care centre and can make money from home.
 
 Word has spread about the lovely baked dishes you make
 
@@ -35,7 +41,7 @@ You have a fairly large home and enough room for unexpected guests who love to v
 
 There are so many things that you have been doing so beautifully and now you can lend these services and talents to friends and also get new clients and start a home business of sorts that will help you to make money from home.
 
-Going to the beautician is often very time consuming and also difficult for women to fit into their busy schedule. But if you have a flair for this and can provide some of these services at your home, you could have women staying in the close vicinity come to you for help. Your clientèle will definitely build up by word of mouth, but you need not take on too many, just as many as you are comfortable with.
+Going to the beautician is often very time consuming and also difficult for women to fit into their busy schedule. But if you have a flair for this and can provide some of these services at your home, you could have women staying in the close vicinity come to you for help. Your clientï¿½le will definitely build up by word of mouth, but you need not take on too many, just as many as you are comfortable with.
 
 You could even have a combination of services to offer and sell your wares to those who visit you for beauty therapy or to stay in your bed and breakfast home stead.
 Go on and start looking ahead to this exciting new you who has discovered that you make money from home.

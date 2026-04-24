@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Learn How To Make Money Using PLR Products
 
 Word Count:
@@ -19,7 +25,7 @@ Selling private label rights digital products can be very profitable. There are 
 
 Private label rights products are the best kind of product that you can get. When you buy them you are given the rights to the entire resale rights along with the master resale rights. The added benefit to private label rights products is that you can change or rewrite the content in way that you want to. You can also put your own name on the product which will mean that you are now the sole owner, creator and seller of this product.
 
-When you purchase a private label rights product you will be given the whole product as is, which means that you want to make sure that you get the master document. You will need this in order to be able to make changes to the product. When you get these products they will cost you a little bit of money since they don’t come cheap. These products can range in price anywhere from $297.00 to $1,000 or more. The price will depend on what is included in the package you are purchasing.
+When you purchase a private label rights product you will be given the whole product as is, which means that you want to make sure that you get the master document. You will need this in order to be able to make changes to the product. When you get these products they will cost you a little bit of money since they donï¿½t come cheap. These products can range in price anywhere from $297.00 to $1,000 or more. The price will depend on what is included in the package you are purchasing.
 
 When you decide to sell private label rights products it will mean that you will have your own instant product and that will give you the power to control the content. The beauty of being the owner of these products is that you will be able to sell this product in individual reports or put the information on CD so that you can sell it as a physical product. You can even decide to resell the private label rights to the product you made. When you have changed the product it will make it a brand new product that you can offer different resale rights to.
 

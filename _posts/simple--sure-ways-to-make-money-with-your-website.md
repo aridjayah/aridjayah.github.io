@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Simple & sure ways to make money with your website
 
 Word Count:
@@ -41,7 +47,7 @@ b. Make money selling other company's products through affiliate programs. They'
 
 5. Charge a fee to access a section of your site - Provide free access to main sections of your website, but you can charge a fee for an access to members lounge where more lucrative information is often available. If your content is unique and valuable, you can make money charging for it online. People will pay for access, if it's useful to them. Your members lounge could be a forum, downloadable software, eBooks, listings, etc.
 
-6. Collect and sell information - Creating a information database isn't just a good idea - it´s good business. e.g., you can compile listings for free classified websites, ezines, directories, work at home websites,etc. Put a price tag to download them.
+6. Collect and sell information - Creating a information database isn't just a good idea - itï¿½s good business. e.g., you can compile listings for free classified websites, ezines, directories, work at home websites,etc. Put a price tag to download them.
 
 7. Sell your own services to your target audience. Like if you have a web site on "making money online" and you are a web designer, you can make an offer to design web site to your visitor, so that they can make money from website. You want to be able to take credit cards (at least with PayPal if not otherwise) on your site and deliver your product to your customers as fast as possible.
 

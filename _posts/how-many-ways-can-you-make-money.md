@@ -1,11 +1,17 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How Many Ways Can You Make Money?
 
 Word Count:
 588
 
 Summary:
-People all over the world are looking for an easier way to make money. With the help of the internet, many of these people have become rich. If you are looking to try something that is new that has the potential to change your life, don’t you owe it to yourself to find out more?
+People all over the world are looking for an easier way to make money. With the help of the internet, many of these people have become rich. If you are looking to try something that is new that has the potential to change your life, donï¿½t you owe it to yourself to find out more?
 
 How to Get On Your Way to Financial Freedom
 
@@ -17,7 +23,7 @@ Make money, money
 
 
 Article Body:
-People all over the world are looking for an easier way to make money. With the help of the internet, many of these people have become rich. If you are looking to try something that is new that has the potential to change your life, don’t you owe it to yourself to find out more?
+People all over the world are looking for an easier way to make money. With the help of the internet, many of these people have become rich. If you are looking to try something that is new that has the potential to change your life, donï¿½t you owe it to yourself to find out more?
 
 How to Get On Your Way to Financial Freedom
 
@@ -33,7 +39,7 @@ If you are someone who is talented at fixing things, landscaping, plumbing or an
 
 Use the Internet to Make Money
 
-If you find yourself spending lots of time surfing on the web, why not find out how you can make money while you are doing it. There are many ways that a regular Joe can make a good living without a lot of cost to start. Anyone with the ambition to make money with their computer can find plenty of ways to line their pockets with cash. Use common sense when you are looking for opportunities. If an offer seems too good to be true you can almost guarantee that it is. Don’t expect to make any money without putting some work and effort into it either. So if you are a computer buff, look into ways to make your living doing what you do best.
+If you find yourself spending lots of time surfing on the web, why not find out how you can make money while you are doing it. There are many ways that a regular Joe can make a good living without a lot of cost to start. Anyone with the ambition to make money with their computer can find plenty of ways to line their pockets with cash. Use common sense when you are looking for opportunities. If an offer seems too good to be true you can almost guarantee that it is. Donï¿½t expect to make any money without putting some work and effort into it either. So if you are a computer buff, look into ways to make your living doing what you do best.
 
 Become an Online Book Seller
 

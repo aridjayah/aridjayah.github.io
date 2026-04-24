@@ -1,28 +1,17 @@
-Title: 
-Can You Make Money Giving Away Credit Cards?
+---
+layout: post
+title:  "Can You Make Money Giving Away Credit Cards?"
+author: admin
+categories: [ business, make money, online, income ]
+image: assets/images/make-money/96.jpg
+---
 
-Word Count:
-600
-
-Summary:
-Can you make money giving away credit cards?  Giving away credit cards is the basis of a brand new type of home based business.  Some features that make this business stand out are that it is not multi-level marketing (MLM), you don't have to do any cold-calling, you don't have to sell anything you don't have to make a monthly purchase or pay fees to remain a member of the business, and you don't have to recruit other people into the business to make money.
-
-So, back to the...
-
-
-Keywords:
-online income,Internet based business,home business,home based business,earn money,business opportun
-
-
-Article Body:
 Can you make money giving away credit cards?  Giving away credit cards is the basis of a brand new type of home based business.  Some features that make this business stand out are that it is not multi-level marketing (MLM), you don't have to do any cold-calling, you don't have to sell anything you don't have to make a monthly purchase or pay fees to remain a member of the business, and you don't have to recruit other people into the business to make money.
 
 So, back to the original question: can you make money giving away credit cards?  I'd like to show you the answer by asking you to consider these, three questions:
 
 1.  How many people do you know who have at least one credit card?
-
 2.  How hard do you think it must be to get along without a credit card?
-
 3.  How easy do you think it would be to give a credit card to someone who wants one?
 
 Nowadays practically everything we pay for calls for a payment card of some kind.  Things that spring to mind are restaurant bills, purchases made online, vacation bookings, clothing purchases, grocery bills.  Checks used to be an option but they are no longer accepted in many places; paper has been replaced by plastic for most everyday purchases.  It is easy to see that credit card transactions offer a method of payment which is convenient to both the seller and the spender.

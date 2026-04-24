@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Paid Opinion Survey Programs - Can You Really Make Money From Home Taking Paid Opinion Surveys?
 
 Word Count:

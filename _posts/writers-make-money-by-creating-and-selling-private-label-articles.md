@@ -2,7 +2,7 @@
 layout: post
 title:  ""
 author: emma
-categories: [ business, make money, adsense ]
+categories: [ business, make money ]
 image: assets/images/make-money/0.jpg
 ---
 Writers, Make Money by Creating and Selling Private Label Articles

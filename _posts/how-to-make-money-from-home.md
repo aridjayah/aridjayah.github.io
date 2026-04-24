@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How To Make Money From Home
 
 Word Count:
@@ -23,6 +29,6 @@ Sharing your writing, photos, videos, poems, and other material can also help yo
 
 No matter which way you decide to make money from home, make sure that you research the pros and cons before you start. It is possible to make money from home in a variety of ways, so find one that works well for you. Each method is different, and requires different levels of knowledge and talent. Finding a way to make money from home that works for you is simply a matter of researching your possibilities and then choosing one.
 
-Copyright © 2007 Joel Teo. All rights reserved.
+Copyright ï¿½ 2007 Joel Teo. All rights reserved.
 
 

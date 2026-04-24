@@ -1,20 +1,10 @@
-Title: 
-Can You Make Money At Home Stuffing Envelopes
-
-Word Count:
-510
-
-Summary:
-Have you seen the ads to work from home stuffing envelopes and wondered if these ads can assist you in giving you a part-time income where you can stay at home with your kids?
-
-Unfortunately these offers first ask you to pay for a packet, then you'll be paying for processing fees, plus you'll only make money IF the person responds to the lead or sales offer in the envelope. Some of these work at home stuffing envelope programs actually only include a letter telling you to r...
-
-
-Keywords:
-work at home stuffing envelopes, internet scams
-
-
-Article Body:
+---
+layout: post
+title:  "Can You Make Money At Home Stuffing Envelopes"
+author: admin
+categories: [ business, make moneym, internet scams ]
+image: assets/images/make-money/94.jpg
+---
 Have you seen the ads to work from home stuffing envelopes and wondered if these ads can assist you in giving you a part-time income where you can stay at home with your kids?
 
 Unfortunately these offers first ask you to pay for a packet, then you'll be paying for processing fees, plus you'll only make money IF the person responds to the lead or sales offer in the envelope. Some of these work at home stuffing envelope programs actually only include a letter telling you to run similar ads telling others how they can make money stuffing envelopes! That is a pyramid scheme. Basically you get that letter to use and the ad, but could you really live that way ripping off another person?
@@ -29,7 +19,6 @@ Look at your interests and hobbies to try to find something that is not in the i
 
 There are instant businesses where you can sell products and put up a paypal button and these are popular purchases as we live in an instant delivery culture and also one where environmental concerns of saving paper are valued. Please do your homework and don't lay out money for something that looks questionable and is too good to be true such as taking surveys or working at home stuffing envelopes. If it seems like it's no work and only residual income, you are kidding yourself and being scammed.
 
-A legitimate business will involve product creation (or outsourcing of it) , marketing it via offline and online methods as well as perhaps having resellers or affiliates and picking a popular interest that fills a need. Marketing usually needs constant maintenance though at a certain point it can be passive income if you have either a newsletter where you mention
-useful products and services or you through viral marketing get lots of traffic to your site.
+A legitimate business will involve product creation (or outsourcing of it), marketing it via offline and online methods as well as perhaps having resellers or affiliates and picking a popular interest that fills a need. Marketing usually needs constant maintenance though at a certain point it can be passive income if you have either a newsletter where you mention useful products and services or you through viral marketing get lots of traffic to your site.
 
 

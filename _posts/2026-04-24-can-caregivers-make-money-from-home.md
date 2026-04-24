@@ -1,20 +1,10 @@
-Title: 
-Can Caregivers Make Money From Home?
-
-Word Count:
-523
-
-Summary:
-After a lifetime of working in various offices as a secretary, I suddenly found myself in the position of trying to figure out how to make money from home. Going from being handed a paycheck to creating one on my own required a total mental transformation. Was I up to the task? I had to be!
-
-My husband and I were already living with Mom, keeping her company after Dad died, doing the "heavy stuff" that she could no longer do. I happened to be between jobs when Mom was diagno...
-
-
-Keywords:
-
-
-
-Article Body:
+---
+layout: post
+title:  "Can Caregivers Make Money From Home"
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/85.jpg
+---
 After a lifetime of working in various offices as a secretary, I suddenly found myself in the position of trying to figure out how to make money from home. Going from being handed a paycheck to creating one on my own required a total mental transformation. Was I up to the task? I had to be!
 
 My husband and I were already living with Mom, keeping her company after Dad died, doing the "heavy stuff" that she could no longer do. I happened to be between jobs when Mom was diagnosed with bone cancer, then her heart began acting up and she was reduced to the unenviable position of looking for a nursing home or being cared for at home.
@@ -34,5 +24,3 @@ Can you imagine how liberating that felt? I was no longer a victim of the "poor 
 I'm doubly blessed to actually be contributing to the family income instead of feeling guilty that I'm not "doing something."
 
 Are you "stuck" at home, too? It's truly a privilege, you know, to be a caregiver to a loved one. You are a Very Important Person in his/her life. Instead of turning your financial frustration into resentment, turn it into a lucrative career on the Internet! You can name your own hours, work as little or as much as you want, and still have a big part in making your family's financial dreams come true. Do your research carefully, but rest assured--you, too, can make money from home.
-
-

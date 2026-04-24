@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Great Ways To Make Money Online
 
 Word Count:
@@ -7,7 +13,7 @@ Word Count:
 Summary:
 If you wish to be at home and also work, the easiest way is to make money online. With opportunities galore in this area, there is no problem at all to have online work and to do it from home. This gives you the flexibility of time and working hours too.
 
-Have a flexible work time – work online
+Have a flexible work time ï¿½ work online
 
 For those who would rather work from home and be able to manage both their home as well as have an income, the best way to do this is to work and make money online. Unlike a job t...
 
@@ -19,7 +25,7 @@ Make money online, make money, money online, money
 Article Body:
 If you wish to be at home and also work, the easiest way is to make money online. With opportunities galore in this area, there is no problem at all to have online work and to do it from home. This gives you the flexibility of time and working hours too.
 
-Have a flexible work time – work online
+Have a flexible work time ï¿½ work online
 
 For those who would rather work from home and be able to manage both their home as well as have an income, the best way to do this is to work and make money online. Unlike a job that holds you from at least 9 to 5, working at home allows you the freedom to take care of other priorities if they crop up in between and manage your home and your work side by side. There is nothing more satisfying than being able to ensure a happy home life and a well balanced job together and the way is to make money online. Your only expenditure would be a computer with an internet connection to give you a good foundation in your work. Apart from this all you would have to invest is your time and that too according to your convenience.
 

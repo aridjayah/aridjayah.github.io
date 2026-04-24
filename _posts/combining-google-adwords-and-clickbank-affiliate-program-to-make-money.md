@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Combining Google Adwords And Clickbank Affiliate Program To Make Money
 
 Word Count:

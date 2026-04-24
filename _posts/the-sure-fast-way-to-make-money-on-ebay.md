@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 The Sure Fast Way To Make Money On eBay
 
 Word Count:
@@ -27,6 +33,6 @@ When you are finally up and running, you will want to continue with your researc
 
 Overall, learning how to make money selling on eBay can take a little bit of time. But over the long haul you will begin to become comfortable with the system and it will become second nature to you. And after a while you will be the one giving out the eBay selling tips!
 
-Copyright © David Nettey
+Copyright ï¿½ David Nettey
 
 

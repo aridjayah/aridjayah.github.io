@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money At Home Easy Home Business-how To Start Profiting Now
 
 Word Count:
@@ -21,7 +27,7 @@ Think about that: most people go through life only enjoying about 10-15% of it, 
 
 The idea of starting a home business is very appealing to most people, because it offers them the time freedom and income they want to live the life so they've always wanted to without having to get up for work every single day and live in the rat race. Many people today want to quit their jobs in corporate America, and a home businesses the best way to help him do that.
 
-Unfortunately, the statistics are out, and they aren’t good. 90% of home-based businesses fail ultimately, to make their owners a legitimate income to help them live from home. Why is this?
+Unfortunately, the statistics are out, and they arenï¿½t good. 90% of home-based businesses fail ultimately, to make their owners a legitimate income to help them live from home. Why is this?
 
 Simply, most people take the tryout approach when it comes to working from home. Quite simply, if the home-based businesses does not provide them with the income they expected to, they will quit and try something else.
 

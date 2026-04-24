@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Six Reasons Why You Would Want to Make Money Online - Auto Recovery
 
 Word Count:

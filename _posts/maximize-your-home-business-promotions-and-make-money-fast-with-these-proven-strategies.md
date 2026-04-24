@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Maximize Your Home Business Promotions and Make Money Fast with these Proven Strategies
 
 Word Count:

@@ -1,11 +1,17 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How to Make Money Using Nothing But Your List
 
 Word Count:
 757
 
 Summary:
-An opt-in list allows for a company to market their products and site via an e-mail. With an opt-in list, a site and a subscriber consent to sending and receiving a newsletter from your company. Through this, you can keep your subscribers abreast of what is currently available in your site as well as whatever you have to offer.  It would be good to first build a successful list with a huge number of subscribers. The more subscribers you have, the more money you can get. Here are seven ways to make money using nothing more than your list….
+An opt-in list allows for a company to market their products and site via an e-mail. With an opt-in list, a site and a subscriber consent to sending and receiving a newsletter from your company. Through this, you can keep your subscribers abreast of what is currently available in your site as well as whatever you have to offer.  It would be good to first build a successful list with a huge number of subscribers. The more subscribers you have, the more money you can get. Here are seven ways to make money using nothing more than your listï¿½.
 
 
 Keywords:

@@ -1,11 +1,17 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How You Can Make Money Over A Short Or Long Period
 
 Word Count:
 575
 
 Summary:
-It is everyone’s ambition to make money. There are many factors that are involved in this function. You have to have a financial know how or consult a financial expert for guidance in these matters to go the most efficient way in managing your money.
+It is everyoneï¿½s ambition to make money. There are many factors that are involved in this function. You have to have a financial know how or consult a financial expert for guidance in these matters to go the most efficient way in managing your money.
 
 Consulting a financial expert for money management
 
@@ -17,7 +23,7 @@ Make money, money
 
 
 Article Body:
-It is everyone’s ambition to make money. There are many factors that are involved in this function. You have to have a financial know how or consult a financial expert for guidance in these matters to go the most efficient way in managing your money.
+It is everyoneï¿½s ambition to make money. There are many factors that are involved in this function. You have to have a financial know how or consult a financial expert for guidance in these matters to go the most efficient way in managing your money.
 
 Consulting a financial expert for money management
 

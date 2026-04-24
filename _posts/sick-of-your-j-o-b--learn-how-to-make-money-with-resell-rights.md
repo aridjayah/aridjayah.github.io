@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Sick Of Your J-o-b?  Learn How To Make Money With Resell Rights
 
 Word Count:

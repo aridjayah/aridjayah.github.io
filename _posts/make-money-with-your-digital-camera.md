@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money With Your Digital Camera
 
 Word Count:
@@ -33,7 +39,7 @@ Similar to the novelty products, you can find services that will allow you to cr
 
 Create Slideshows
 
-Software like Microsoft PowerPoint makes it easy to design a photo slide show that can be a great addition to any social event. However, some people don’t have the time or expertise to create their own shows, and this is where you can make money. Think of all the business and organizations in your area that may need a service like this. Give them your business card or sample of your work. Even if they don’t call you directly, one their members may use your services in the future. The key is to spread the word and take on smaller jobs until you build a solid reputation.
+Software like Microsoft PowerPoint makes it easy to design a photo slide show that can be a great addition to any social event. However, some people donï¿½t have the time or expertise to create their own shows, and this is where you can make money. Think of all the business and organizations in your area that may need a service like this. Give them your business card or sample of your work. Even if they donï¿½t call you directly, one their members may use your services in the future. The key is to spread the word and take on smaller jobs until you build a solid reputation.
 
 Offer a Class
 

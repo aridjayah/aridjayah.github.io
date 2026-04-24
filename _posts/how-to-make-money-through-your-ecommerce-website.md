@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How To Make Money Through Your Ecommerce Website
 
 Word Count:
@@ -19,7 +25,7 @@ Of course, at the heart of understanding how to make money through your eCommerc
 
 Competition on the Net today is fierce.  Therefore, when it comes to learning how to make money through your eCommerce website you need to employ all of the various effective techniques that have been demonstrated successful at increasing traffic to eCommerce website venues.  Chief amongst these techniques and practices is search engine optimization or SEO.
 
-In order to master the ability to understand how to make money through your eCommerce website you will want to make sure that the design and development of your eCommerce website results in a venue that is attractive.  Consumers from all walks of life naturally are drawn to stores in the brick and mortar world that are nicely decorated and appointed.  Similarly, consumers in cyberspace are drawn to those websites that are professional in their appearance, that are — in a couple of words — "nice looking."
+In order to master the ability to understand how to make money through your eCommerce website you will want to make sure that the design and development of your eCommerce website results in a venue that is attractive.  Consumers from all walks of life naturally are drawn to stores in the brick and mortar world that are nicely decorated and appointed.  Similarly, consumers in cyberspace are drawn to those websites that are professional in their appearance, that are ï¿½ in a couple of words ï¿½ "nice looking."
 
 Another simple and yet vitally important factor that you need to keep in mind when it comes to how to make money through your eCommerce website is ensure that your eCommerce website completely is user friendly.  While it is all well and good to draw traffic to your website, if a potential customer or client finds your website difficult to use, other websites are only a mouse click away.
 

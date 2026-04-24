@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 It's All Good! Take Advantage Of Opportunites To Make Money On The Web
 
 Word Count:

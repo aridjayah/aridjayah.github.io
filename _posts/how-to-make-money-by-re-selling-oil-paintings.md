@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How To Make Money By Re-Selling Oil Paintings?
 
 Word Count:
@@ -25,7 +31,7 @@ By far reselling is one of the best business practices wherein the returns are f
 
 If you decide you have the killer marketing skills, you could even go in for wholesale purchase of paintings and turn them into your gallery wherein you could start building your own purchase of Oil Paintings and make profitable income.
 
-I heard an artists once say “If he sold a picture for say $50, and the buyer then resold it for $500, then lucky for them.”  An artist once sells his Painting to a person, he is entitled to sell it to others, but not make copies of it.
+I heard an artists once say ï¿½If he sold a picture for say $50, and the buyer then resold it for $500, then lucky for them.ï¿½  An artist once sells his Painting to a person, he is entitled to sell it to others, but not make copies of it.
 
 To begin with look for a site where you could purchase paintings that you feel can fetch you good market value. It is always advisable to start with popular items. Once you get a foot holding in the market arena then you could trade multiple Paintings after wholesale purchase.
 

@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 Make Money on Internet: Promote the product not the program
 
 Word Count:
@@ -25,6 +31,6 @@ But there exist other key points you have to look for before choosing an affilia
 
 Gardyne suggests also earn money online to try the product before promote it. He likes to study and use the products he is promoting, because if you like the product you will talk about it with more enthusiasm and your writing will show that, increasing your sales.
 
-Despite other experts consider that is better to offer your own products by the Web to make money online, you don’t need to do that to succeed online, according to Gardyne though it’s an excellent idea, if you want to get ahead fast.
+Despite other experts consider that is better to offer your own products by the Web to make money online, you donï¿½t need to do that to succeed online, according to Gardyne though itï¿½s an excellent idea, if you want to get ahead fast.
 
 

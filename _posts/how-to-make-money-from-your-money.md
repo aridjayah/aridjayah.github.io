@@ -1,4 +1,10 @@
-Title: 
+---
+layout: post
+title:  ""
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/0.jpg
+---
 How To Make Money From Your Money
 
 Word Count:
@@ -7,7 +13,7 @@ Word Count:
 Summary:
 What can you do?
 
-In order to make money, you also need money to make one. But you don’t have to invest a lot of money to make more money. You just need a few dollars and some cunning to earn a lot.
+In order to make money, you also need money to make one. But you donï¿½t have to invest a lot of money to make more money. You just need a few dollars and some cunning to earn a lot.
 Below are some of the ways that you can earn money from the little that you have.
 
 Invest in stocks
@@ -22,7 +28,7 @@ business opportunity,how to make money,earn money
 Article Body:
 What can you do?
 
-In order to make money, you also need money to make one. But you don’t have to invest a lot of money to make more money. You just need a few dollars and some cunning to earn a lot.
+In order to make money, you also need money to make one. But you donï¿½t have to invest a lot of money to make more money. You just need a few dollars and some cunning to earn a lot.
 Below are some of the ways that you can earn money from the little that you have.
 
 Invest in stocks
@@ -43,7 +49,7 @@ It is important though that you study and carefully select the mutual fund compa
 
 Put up a small business
 
-When you have excess money, nothing can yield a higher reward than your own business. Use some of your savings to finance the business. Who knows, your business may become successful! You don’t have to start really big. In fact, you can even start off your operations inside your home. Start small and then little by little expand. You will just notice that one day you have a thriving business.
+When you have excess money, nothing can yield a higher reward than your own business. Use some of your savings to finance the business. Who knows, your business may become successful! You donï¿½t have to start really big. In fact, you can even start off your operations inside your home. Start small and then little by little expand. You will just notice that one day you have a thriving business.
 
 You can start with buying and then selling or perhaps start producing small stuffs that you can easily sell to other people. Think of something that you can design or produce; then sell them off to others. It is good to think of a business that is based on your interests. Consider art or crafts if you are fond of these pastimes.
 
