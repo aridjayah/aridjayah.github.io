@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  ""
+title:  "Writers, Make Money with Private Label E-books Resell Rights"
 author: emma
-categories: [ business, make money, adsense ]
+categories: [ business, make money, writer ]
 image: assets/images/make-money/0.jpg
 ---
-Writers, Make Money with Private Label E-books Resell Rights 
-
 In the past, whenever a reader wanted to pick up a book they often went to their local library or book store.  Now, more readers are getting their books online. These books are being marketed as e-books.  E-books come in a format that is easy to read off of the computer, but they can also be printed.  If you are an experienced writer, you may be able to make money by creating your own e-books.
 
 If you are interested in taking part in this money making opportunity, you will first have to find a topic that will inspire readers to purchase your material. This can easily be done by using the internet.  You will want to look for popular topics that are being discussed online. It may also be a good idea to see if any e-books are already available, especially those with the topic that you intend to write on. You can still write an e-book on a popular topic, even one with numerous e-books already available; however, it may be more difficult to sell your completed e-book.
@@ -21,7 +19,3 @@ When it comes to offering your e-book resell rights for sale, you will have a nu
 The individuals who purchase the right to resell your e-book will make an unspecified amount of money off the sale.  Many times, the amount of money they make will depend on how much work they put into marketing the e-book.  While you may be interested in pocketing this money yourself, it is important to understand how resell rights work. When offering your e-book resell rights for sale, you can put any price tag on it that you would like. This means that that you can control how much money you make.  
 
 If you are interested in creating e-books for the purpose of offering private label resell rights, you are urged to start examining your options. As the popularity of private label resell rights increases, you may soon find that so does the competition. To make money off of this opportunity, you are encouraged to act fast before someone else creates an e-book just like yours.
-
-PPPPP
-
-Word Count 713
