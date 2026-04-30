@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Free Web Page To Make Money"
 author: admin
 categories: [ business, make money ]
 image: assets/images/make-money/0.jpg

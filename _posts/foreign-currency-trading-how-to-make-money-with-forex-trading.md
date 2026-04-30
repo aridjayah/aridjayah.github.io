@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Foreign Currency Trading - How To Make Money With Forex Trading"
 author: admin
 categories: [ business, make money ]
 image: assets/images/make-money/0.jpg

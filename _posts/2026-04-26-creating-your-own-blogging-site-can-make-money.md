@@ -1,9 +1,14 @@
-Creating Your Own Blogging Site Can Make Money
-
+---
+layout: post
+title:  "Creating Your Own Blogging Site Can Make Money"
+author: admin
+categories: [ business, make money ]
+image: assets/images/make-money/107.jpg
+---
 
 The internet has plenty of blogging sites and resources. There are thousands of blogging sites and almost a hundred contain topics such as yours. To compete with the thousands of blogging sites, you need to create your own style.
 
-It is always easy to have your own blogging site because blogging sites allow users to set up an account for free. You just need to fill out some forms and you’re done and you can start posting anytime you want without the expense. You can also add related links to your own blogging site.
+It is always easy to have your own blogging site because blogging sites allow users to set up an account for free. You just need to fill out some forms and youï¿½re done and you can start posting anytime you want without the expense. You can also add related links to your own blogging site.
 
 You do not actually have to be a wizard if you want to create your own blogging site. Most of the people who keep up their own blogs are enthusiasts and common people. If you have your own blogging site, you can converse with someone and learn about their comments. 
 
@@ -26,7 +31,3 @@ If you want to upgrade your own blogging site, you need to have at least 10-15 p
 To apply Adsense in your blogging site, it should have an interface that is easy to use and it has to be clean. All pages must be working and it should not contain broken links or under construction pages. It should not contain popups and animated gifts. 
 
 Your blogging site does not need professional designs. It can stay simple because designs are not the main requirement. If you have simple designs and a simple site overall, it will have more chances to get searched in the search engines. Users will also find your site easy to navigate because it is readable and not confusing.
-
-PPPPP 
-
-Word Count 343

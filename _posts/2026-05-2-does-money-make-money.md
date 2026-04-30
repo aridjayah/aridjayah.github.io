@@ -1,33 +1,18 @@
 ---
 layout: post
-title:  ""
+title:  "Does Money Make Money?"
 author: admin
-categories: [ business, make money ]
-image: assets/images/make-money/0.jpg
+categories: [ business, make money, dollar ]
+image: assets/images/make-money/113.jpg
 ---
-Does Money Make Money?
 
-Word Count:
-815
-
-Summary:
-If you write articles for your website, try not to include the affiliate links in the body of your articles: it will give the impression that you have a vested interest in recommending them. You want your visitors to trust your advice, so don't turn your article into an excuse to promote products and make a commission. 
-
-Christian home based business called Disciple's Cross. With Disciple's Cross, you make beautiful crosses and send these crosses back to the company. The co...
-
-
-Keywords:
-duvet dollars,duvet dollar,duvet dollars scam,duvet dollars reviews,duvet dollars review,
-
-
-Article Body:
 If you write articles for your website, try not to include the affiliate links in the body of your articles: it will give the impression that you have a vested interest in recommending them. You want your visitors to trust your advice, so don't turn your article into an excuse to promote products and make a commission. 
 
 Christian home based business called Disciple's Cross. With Disciple's Cross, you make beautiful crosses and send these crosses back to the company. The company will pay you for the crosses it accepts. It has been a lot of fun to participate in this business opportunity and wonderful ministry. 
 
 Instead of buying links, get one-way links from blog search engines and directories, as well as getting your RSS feed content displayed at other sites. 
 
-Does Money Make Money? 
+**Does Money Make Money?**
 
 If it is your goal to accumulate wealth, believing the fallacy that money makes money, will hinder your progress to no end. This belief stifles many to a life of failure, and misery. 
 
@@ -69,8 +54,6 @@ Make it your goal to...
 
 I do not remember how I got started but after a while I started searching for money earning opportunities on the net. I would sit and search for long hours every day. I would search till my eyes get sore. I was wasting my time but I did not know. Everyday I would search and click new sites. Making money ideas by Victoria, Duvet Dollars. See my Duvet Dollars review here! 
 
-With Google Adwords advertising program, you can make your ad show-up when somebody types in these terms� and you don�t even need your own product. There are thousands of retailers that offer you up to 70% commission for every product you sell. 
+With Google Adwords advertising program, you can make your ad show-up when somebody types in these terms and you don't even need your own product. There are thousands of retailers that offer you up to 70% commission for every product you sell. 
 
 With so many ways to make money online, what is the best way to work from the comfort of your own home without breaking a sweat?
-
-

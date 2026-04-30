@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Forex Trading - Five Tips to Make Money Fast!"
 author: admin
 categories: [ business, make money ]
 image: assets/images/make-money/0.jpg

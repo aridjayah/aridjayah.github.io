@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Forums - Talk And Make Money"
 author: admin
 categories: [ business, make money ]
 image: assets/images/make-money/0.jpg

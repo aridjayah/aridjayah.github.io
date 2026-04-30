@@ -1,24 +1,11 @@
 ---
 layout: post
-title:  ""
+title:  "Easy Ways To Make Money through School Fund Raising"
 author: admin
 categories: [ business, make money ]
-image: assets/images/make-money/0.jpg
+image: assets/images/make-money/124.jpg
 ---
-Easy Ways To Make Money through School Fund Raising
 
-Word Count:
-386
-
-Summary:
-School fund raising is a competitive field, and needs some good ideas.
-
-
-Keywords:
-school fund raising, school fund raiser, fundraising ideas 
-
-
-Article Body:
 Did you know that school fund raising brings big business to many companies? This is because schools purchase the supplies they need for fund raising in large quantities. The company can easily give a discount because they sell a lot of products at one time. School fund raising is also becoming an important part of school life because it offers schools different ways of fundraising the money they need for the equipment and trips.
 
 Schools are constantly on the lookout for fundraising ideas for their next school fund raiser. They have to be creative to come up with unique ideas so that people will attend the fund raiser and contribute to the cause. Every season of the year brings school fund raising events and some are easier for coming up with fundraising ideas than others.
@@ -30,5 +17,3 @@ Quite often school fund raising takes the form of selling items that people need
 Read-a-thons are a specialty for school fund raising. Parents avidly support this type of school fund raiser as it does promote a school activity while raising funds for other programs. Students really get into this type of fund raiser as they compete with the other classes in the school. The principal sometimes sweetens the pot by offering an incentive for the success of the fund raiser, such as offering to shave his beard or come to school dressed in pyjamas. 
 
 School fund raising is a competitive field, and needs some good ideas.
-
-
