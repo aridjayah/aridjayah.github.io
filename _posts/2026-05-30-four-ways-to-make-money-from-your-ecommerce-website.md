@@ -2,27 +2,10 @@
 layout: post
 title:  "Four Ways To Make Money From Your Ecommerce Website"
 author: admin
-categories: [ business, make money ]
-image: assets/images/make-money/0.jpg
+categories: [ business, make money, ecommerce ]
+image: assets/images/make-money/140.jpg
 ---
-Four Ways To Make Money From Your Ecommerce Website
 
-Word Count:
-579
-
-Summary:
-There are four basic ways to make money from your web site. You can sell products and services. You can sell subscriptions or memberships. You can make money from advertising. And you can use your site to generate referrals and commissions.
-
-Most businesses only use one or maybe two of the four. You can increase your direct revenue and your opportunities for cross-promotion if you consider them all.
-
-Here's a review of what you need for each. In every case you want to del...
-
-
-Keywords:
-1automationwiz,online shopping cart software,ecommerce provider,ecommerce tools,internet marketing
-
-
-Article Body:
 There are four basic ways to make money from your web site. You can sell products and services. You can sell subscriptions or memberships. You can make money from advertising. And you can use your site to generate referrals and commissions.
 
 Most businesses only use one or maybe two of the four. You can increase your direct revenue and your opportunities for cross-promotion if you consider them all.
@@ -39,7 +22,7 @@ Since the net is a worldwide phenomenon, you may get orders from other countries
 
 You can also sell digital products such as e-books and Special Reports. Buyers will expect to be able to download their digital product as soon as they've completed paying.
 
-You can sell services. Many companies are conducting classes on the web, called "webinars." You'll need to be able to take orders and send acknowledgments to those who sign up. You'll also need a reliable way to deliver your webinar.
+You can sell services. Many companies are conducting classes on the web, called webinars. You'll need to be able to take orders and send acknowledgments to those who sign up. You'll also need a reliable way to deliver your webinar.
 
 You can make money on your site by having subscribers or members who pay you a fee. A membership or subscription fee is simply payment for privileged access.
 
@@ -56,5 +39,3 @@ Your own affiliate program can help you draw more desirable traffic to your site
 None of these items is rocket science. So use this article as a checklist and take a look at online shopping cart software and ecommerce providers like 1AutomationWiz.com to help you automate all of these methods on your ecommerce web site.
 
 The bottom line in increasing revenue is using as many of the above income generation methods as you can, as effectively as possible. It's another case of how the marketing magic is in the mix.
-
-

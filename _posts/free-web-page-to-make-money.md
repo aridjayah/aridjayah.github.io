@@ -2,23 +2,10 @@
 layout: post
 title:  "Free Web Page To Make Money"
 author: admin
-categories: [ business, make money ]
+categories: [ business, make money, website ]
 image: assets/images/make-money/0.jpg
 ---
-Free Web Page To Make Money
 
-Word Count:
-418
-
-Summary:
-Article about how to make money with your own webstie.
-
-
-Keywords:
-make money,free website,free webpage,free stuff,
-
-
-Article Body:
 Today is the time to make money on the web. Everyone who is someone has his own website hosted up on the net. This has less to do with personal reasons and more to do with financial reasons. 
 
 These site owners are cashing in on their popularity. Often, there are a number of stars, Hollywood stare, pop stars etc. who host their own websites. These stars have a choice of making their sites free or paid. On a free site you can have the luxury of doing whatever you choose to do as you do not have to pay for anything you do on the site. 
