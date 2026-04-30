@@ -4,6 +4,12 @@ topmenu:
 - title: Home
   url: ""
 
+- title: Categories
+  url: "categories/"
+
+- title: Hijab
+  url: "hijab/"
+
 - title: About
   url: "about/"
 
