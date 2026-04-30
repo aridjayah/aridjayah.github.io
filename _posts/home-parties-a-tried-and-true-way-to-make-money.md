@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  ""
+title:  "Home Parties: A Tried And True Way To Make Money"
 author: admin
 categories: [ business, make money ]
-image: assets/images/make-money/0.jpg
+image: assets/images/make-money/155.jpg
 ---
-Home Parties: A Tried And True Way To Make Money
+
 
 Word Count:
 492

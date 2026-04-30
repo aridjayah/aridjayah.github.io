@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  ""
+title:  "Home Computer Business Opportunities - Make Money Working From Home"
 author: admin
 categories: [ business, make money ]
-image: assets/images/make-money/0.jpg
+image: assets/images/make-money/154.jpg
 ---
-Home Computer Business Opportunities - Make Money Working From Home
+
 
 Word Count:
 290

@@ -3,7 +3,7 @@ layout: post
 title:  "Free Web Page To Make Money"
 author: admin
 categories: [ business, make money, website ]
-image: assets/images/make-money/0.jpg
+image: assets/images/make-money/142.jpg
 ---
 
 Today is the time to make money on the web. Everyone who is someone has his own website hosted up on the net. This has less to do with personal reasons and more to do with financial reasons. 
@@ -21,5 +21,3 @@ These sites often have a set model foe making money. No site survives without a 
 It is always advisable to have a free web page to earn money. A free web page assures you that whatever you earn will be your profits because you do not have to pay anything to the web page maker as a charge for hosting your site. 
 
  A free web page to make money I also often called a commercial blog. A commercial blog is similar to your regular blog. The only difference is that in case of a commercial blog you put in the facts on the site that attract the maximum attention and give you the maximum number of page hits and thus increase your revenue.
-
-
