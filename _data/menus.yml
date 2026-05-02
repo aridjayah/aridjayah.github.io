@@ -10,6 +10,9 @@ topmenu:
 - title: Hijab
   url: "hijab/"
 
+- title: Wallpaper
+  url: "wallpaper/"
+
 - title: About
   url: "about/"
 
@@ -17,7 +20,7 @@ topmenu:
   url: "contact/"
 
 - title: Partner
-  url: https://tiny.cc/smartlynk/ 
+  url: https://indonesiya.com
   external: true
 
 - title: Sitemap
