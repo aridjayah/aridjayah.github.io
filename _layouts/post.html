@@ -12,15 +12,20 @@ post_class: post-template
     <!-- Post -->
     {% assign author = site.authors[page.author] %}
 
-    
+
     <div class="col-sm-8">
         <!-- Post Featured Image 
 			{% if page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
 			-->
         <a href="https://tiny.cc/smartlynk">
             {% if page.image %}
+            {% if page.image contains 'http' %}
+            <img class="featured-image img-fluid rounded" src="{{ page.image }}" alt="{{ page.title }}"
+                title="{{ page.title }}" loading="lazy">
+            {% else %}
             <img class="featured-image img-fluid rounded" src="{{ page.image | prepend: '/' | relative_url }}"
                 alt="{{ page.title }}" title="{{ page.title }}" loading="lazy">
+            {% endif %}
             {% endif %}
         </a>
         <!-- End Featured Image -->
@@ -158,17 +163,17 @@ post_class: post-template
 
 <!-- Index Now -->
 <script>
-if (location.hostname !== "localhost") {
-  fetch("https://api.indexnow.org/indexnow", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify({
-      host: location.hostname,
-      key: "639671a75c2147f593d1fbee7b1162d1",
-      urlList: [location.href]
-    })
-  });
-}
+    if (location.hostname !== "localhost") {
+        fetch("https://api.indexnow.org/indexnow", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+                host: location.hostname,
+                key: "639671a75c2147f593d1fbee7b1162d1",
+                urlList: [location.href]
+            })
+        });
+    }
 </script>
